@@ -234,7 +234,8 @@ public class NewQuestionsActivity extends AppCompatActivity {
                     (!originalTestNum.equals(testNum) || originalQuestionNumber != questionNumber))
                 break;
             //this is an error
-            else if(!mode.equals("Try New Questions") && !mode.equals("Review Missed Questions")) {
+            else if(!mode.equals("Try New Questions") &&
+                    !mode.equals("Review Missed Questions")) {
                 Log.e("mode is invalid", "" + mode);
                 System.exit(1);
             }
