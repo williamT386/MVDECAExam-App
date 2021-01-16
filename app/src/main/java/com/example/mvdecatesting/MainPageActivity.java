@@ -34,8 +34,10 @@ public class MainPageActivity extends AppCompatActivity {
      * @param v the Button for trying new questions
      */
     public void tryNewQuestionsOnClick(View v) {
-        Intent intent = IntentUtilities.moveActivity(this, ChooseTestTypeActivity.class);
-        intent.putExtra("Choose Test Type Mode", "Try New Questions");
+        Intent intent = IntentUtilities.moveActivity(this,
+                ChooseTestTypeActivity.class);
+        intent.putExtra("Choose Test Type Mode",
+                "Try New Questions");
         startActivity(intent);
     }
 
@@ -44,8 +46,10 @@ public class MainPageActivity extends AppCompatActivity {
      * @param v the Button for trying new questions
      */
     public void reviewMissedQuestionsOnClick(View v) {
-        Intent intent = IntentUtilities.moveActivity(this, ChooseTestTypeActivity.class);
-        intent.putExtra("Choose Test Type Mode", "Review Missed Questions");
+        Intent intent = IntentUtilities.moveActivity(this,
+                ChooseTestTypeActivity.class);
+        intent.putExtra("Choose Test Type Mode",
+                "Review Missed Questions");
         startActivity(intent);
     }
 }

@@ -42,7 +42,8 @@ public class ChooseTestTypeActivity extends AppCompatActivity {
 
         listViewTestType.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
+            public void onItemClick(AdapterView<?> adapterView, View view,
+                                    int position, long id) {
                 Intent changeActivity = IntentUtilities.moveActivity(context,
                         NewQuestionsActivity.class);
                 //adds the mode and the position as extras with keys to the Intent instance

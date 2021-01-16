@@ -10,9 +10,10 @@ import android.widget.TextView;
 /**
  * LoginActivity.java
  *
- * This is the Activity to compile, and is the first Activity displayed.
- * Asks the user for a password or allows them to press a button if they
- * forgot the password.
+ * This is the Activity to compile, and is the first
+ * Activity displayed. Asks the user for a password
+ * or allows them to press a button if they forgot
+ * the password.
  *
  * @author William Tang - MVDECA Team 18 Director of Testing
  * @since 12/30/2020
@@ -40,16 +41,20 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     /**
-     * Gets the password entered by the user. If the password is right, creates a new Intent
-     * to move to to the MainPageActivity, and ends this Activity. If there is not password
-     * entered, prompts the user to enter a password. If the password entered is wrong,
-     * prompts the user to enter the password again.
+     * Gets the password entered by the user. If the
+     * password is right, creates a new Intent to move
+     * to to the MainPageActivity, and ends this
+     * Activity. If there is not password entered,
+     * prompts the user to enter a password. If the
+     * password entered is wrong, prompts the user to
+     * enter the password again.
      * @param v the Button for submitting
      */
     public void submitOnClick(View v) {
         String inputPassword = loginPassword.getText().toString();
         if(inputPassword.equals(password)) {
-            startActivity(IntentUtilities.moveActivity(this, MainPageActivity.class));
+            startActivity(IntentUtilities.moveActivity(this,
+                    MainPageActivity.class));
             finish();
         }
         else if(inputPassword.length() == 0)
@@ -63,7 +68,8 @@ public class LoginActivity extends AppCompatActivity {
      * @param v the Button for forgot password
      */
     public void forgotPasswordOnClick(View v) {
-        startActivity(IntentUtilities.moveActivity(this, ForgotPasswordActivity.class));
+        startActivity(IntentUtilities.moveActivity(this,
+                ForgotPasswordActivity.class));
     }
 
 }

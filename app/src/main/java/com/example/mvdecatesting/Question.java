@@ -17,8 +17,10 @@ public class Question {
     private final String[] allChoices;
 
     public Question() {
-        allChoices = new String[] {"testNum", "testType", "question", "choiceA", "choiceB",
-                "choiceC", "choiceD", "correctAnswer", "explanation", "instructionalArea", "status"};
+        allChoices = new String[] {"testNum", "testType", "question",
+                "choiceA", "choiceB", "choiceC", "choiceD",
+                "correctAnswer", "explanation", "instructionalArea",
+                "status"};
 
         allInfoQuestion = new String[allChoices.length];
     }
@@ -33,7 +35,8 @@ public class Question {
             if(allChoices[i].equals(typeExpected)) return allInfoQuestion[i];
         }
 
-        Log.e("typeExpected", "typeExpected 1 was an invalid typeExpected");
+        Log.e("typeExpected",
+                "typeExpected 1 was an invalid typeExpected");
         return null;
     }
 
@@ -51,6 +54,7 @@ public class Question {
         }
 
         //this means typeExpected was invalid
-        Log.e("typeExpected", "typeExpected 2 was an invalid typeExpected");
+        Log.e("typeExpected",
+                "typeExpected 2 was an invalid typeExpected");
     }
 }

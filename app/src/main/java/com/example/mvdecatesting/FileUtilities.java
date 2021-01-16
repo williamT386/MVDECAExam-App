@@ -22,15 +22,16 @@ public class FileUtilities {
     private static Scanner scannerQAndA, scannerAnswerKey;
     private static AllTestsOneType[] arrayAllTests;
     private static ArrayList<ImageInformation> imageInfoArrayList;
-    private static final String[] questionsAndAnswersArray = { "bacquestionsandanswers.txt",
-            "bmaquestionsandanswers.txt", "entrequestionsandanswers.txt",
-            "financequestionsandanswers.txt", "hospitalityquestionsandanswers.txt",
-            "marketingquestionsandanswers.txt", "pflquestionsandanswers.txt"};
-    private static final String[] answerExplanationsArray = { "bacanswerexplanations.txt",
-            "bmaanswerexplanations.txt", "entreanswerexplanations.txt",
-            "financeanswerexplanations.txt", "hospitalityanswerexplanations.txt",
-            "marketinganswerexplanations.txt", "pflanswerexplanations.txt"};
-
+    private static final String[] questionsAndAnswersArray = {
+            "bacquestionsandanswers.txt", "bmaquestionsandanswers.txt",
+            "entrequestionsandanswers.txt", "financequestionsandanswers.txt",
+            "hospitalityquestionsandanswers.txt", "marketingquestionsandanswers.txt",
+            "pflquestionsandanswers.txt"};
+    private static final String[] answerExplanationsArray = {
+            "bacanswerexplanations.txt", "bmaanswerexplanations.txt",
+            "entreanswerexplanations.txt", "financeanswerexplanations.txt",
+            "hospitalityanswerexplanations.txt", "marketinganswerexplanations.txt",
+            "pflanswerexplanations.txt"};
 
     private static final String imageList = "imagelist.txt";
     private static final int testLength = 100;
@@ -188,7 +189,8 @@ public class FileUtilities {
      * @param testTypeIndex the index for the type of test
      * @param testNumString the test number
      */
-    public static void addToTestNumFileUtilities(int testTypeIndex, String testNumString) {
+    public static void addToTestNumFileUtilities(int testTypeIndex,
+                                                 String testNumString) {
         arrayAllTests[testTypeIndex].addToTestNum(testNumString);
     }
 
@@ -305,7 +307,7 @@ public class FileUtilities {
             System.exit(1);
         }
 
-        imageInfoArrayList = new ArrayList<ImageInformation>();
+        imageInfoArrayList = new ArrayList<>();
         while(scannerImageList.hasNext()) {
             //creates an instance of ImageInformation and reads and adds the next
             // 4 lines to the instance before adding the instance of the ArrayList

@@ -32,6 +32,7 @@ public class ForgotPasswordActivity extends AppCompatActivity {
      * @param v the Button for going back
      */
     public void backOnClick(View v) {
-        startActivity(IntentUtilities.moveActivity(this, LoginActivity.class));
+        startActivity(IntentUtilities.moveActivity(this,
+                LoginActivity.class));
     }
 }

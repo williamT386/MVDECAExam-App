@@ -32,7 +32,8 @@ public class OneTest {
      * @return the value that was expected
      */
     public String getValueTest(int questionNumber, String typeExpected) {
-        //minus 1 because question numbers go from 1-100, but the array indices go from 0-99
+        //minus 1 because question numbers go from 1-100, but the
+        // array indices go from 0-99
         return question[questionNumber-1].getValueQuestion(typeExpected);
     }
 
@@ -43,7 +44,8 @@ public class OneTest {
      * @param changeInto the value to be changed into.
      */
     public void setValueTest(int questionNumber, String typeExpected, String changeInto) {
-        //minus 1 because question numbers go from 1-100, but the array indices go from 0-99
+        //minus 1 because question numbers go from 1-100, but the
+        // array indices go from 0-99
         question[questionNumber-1].setValueQuestion(typeExpected, changeInto);
     }
 }

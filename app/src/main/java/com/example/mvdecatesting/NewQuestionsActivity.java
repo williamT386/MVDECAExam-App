@@ -34,7 +34,7 @@ public class NewQuestionsActivity extends AppCompatActivity {
     private ImageView questionImageView;
     private String[] qAndA;
     private String answer, testNum;
-    private static int indexAllTests = 0, questionNumber = 1; //start on the 0th test at question 1
+    private static int indexAllTests, questionNumber;
 
     /**
      * Initializes the Views and then tells FileUtilities
@@ -191,7 +191,7 @@ public class NewQuestionsActivity extends AppCompatActivity {
                 Toast.LENGTH_SHORT).show();
 
         //if it is wrong, it is wrong forever
-        if(FileUtilities.getStatus(indexAllTests, testNum, questionNumber) != "incorrect")
+        if(!FileUtilities.getStatus(indexAllTests, testNum, questionNumber).equals("incorrect"))
             FileUtilities.setStatus(indexAllTests, testNum, questionNumber, status);
     }
 
