@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 /**
  * ChooseTestTypeActivity.java
@@ -21,6 +22,8 @@ import android.widget.ListView;
  */
 
 public class ChooseTestTypeActivity extends AppCompatActivity {
+
+    //TODO - for the layout, add a Back button
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,12 +47,22 @@ public class ChooseTestTypeActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view,
                                     int position, long id) {
-                Intent changeActivity = IntentUtilities.moveActivity(context,
-                        DoQuestionsActivity.class);
-                //adds the mode and the position as extras with keys to the Intent instance
-                changeActivity.putExtra("Choose Test Type Mode", mode);
-                changeActivity.putExtra("testType", position);
-                startActivity(changeActivity);
+                //checks if this is the "Review Missed Questions" mode
+                // and if there are no missed questions
+                if(mode.equals("Review Missed Questions") &&
+                        !FileUtilities.getHasWrongQuestions(position)) {
+                    Toast.makeText(context,
+                            "There are no missed questions for this type of test.",
+                            Toast.LENGTH_SHORT).show();
+                }
+                else {
+                    Intent changeActivity = IntentUtilities.moveActivity(context,
+                            DoQuestionsActivity.class);
+                    //adds the mode and the position as extras with keys to the Intent instance
+                    changeActivity.putExtra("Choose Test Type Mode", mode);
+                    changeActivity.putExtra("testType", position);
+                    startActivity(changeActivity);
+                }
             }
         });
     }

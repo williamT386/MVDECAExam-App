@@ -6,6 +6,7 @@ import android.util.Log;
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 /**
@@ -32,6 +33,7 @@ public class FileUtilities {
             "entreanswerexplanations.txt", "financeanswerexplanations.txt",
             "hospitalityanswerexplanations.txt", "marketinganswerexplanations.txt",
             "pflanswerexplanations.txt"};
+    private static boolean[] hasWrongQuestions;
 
     private static final String imageList = "imagelist.txt";
     private static final int testLength = 100;
@@ -68,6 +70,10 @@ public class FileUtilities {
                 storeAnswerKey(i);
             }
         }
+
+        //the user has not even started, so they have no missed questions
+        hasWrongQuestions = new boolean[questionsAndAnswersArray.length];
+        Arrays.fill(hasWrongQuestions, false);
 
         setAllImageInformation(activity);
     }
@@ -327,4 +333,22 @@ public class FileUtilities {
         return imageInfoArrayList;
     }
 
+    /**
+     * The value of hasWrongQuestions at index testTypeIndex
+     * is changed to true.
+     * @param testTypeIndex the index within hasWrongQuestion
+     */
+    public static void setHasWrongQuestionsTrue(int testTypeIndex) {
+        hasWrongQuestions[testTypeIndex] = true;
+    }
+
+    /**
+     * Returns the value of hasWrongQuestions at index
+     * testTypeIndex.
+     * @param testTypeIndex the index within hasWrongQuestion
+     * @return hasWrongQuestions
+     */
+    public static boolean getHasWrongQuestions(int testTypeIndex) {
+        return hasWrongQuestions[testTypeIndex];
+    }
 }

@@ -58,6 +58,8 @@ public class DoQuestionsActivity extends AppCompatActivity {
 
         setRandomTestNumAndQuestionNumber();
         getData();
+
+
     }
 
     /**
@@ -196,9 +198,12 @@ public class DoQuestionsActivity extends AppCompatActivity {
 
         //if it is wrong, it is wrong forever
         if(!FileUtilities.getStatus(indexAllTests, testNum, questionNumber).
-                equals("incorrect"))
+                equals("incorrect")) {
             FileUtilities.setStatus(indexAllTests, testNum, questionNumber,
                     status);
+            //this test type has questions that are wrong
+            FileUtilities.setHasWrongQuestionsTrue(indexAllTests);
+        }
     }
 
     /**
@@ -261,6 +266,6 @@ public class DoQuestionsActivity extends AppCompatActivity {
                 questionImageView.setImageDrawable(drawable);
             }
         }
-
     }
+
 }
