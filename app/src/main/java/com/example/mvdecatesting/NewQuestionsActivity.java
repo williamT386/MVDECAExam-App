@@ -28,7 +28,6 @@ import java.util.ArrayList;
 
 public class NewQuestionsActivity extends AppCompatActivity {
     private String mode;
-    private TextView textViewQuestionText;
     private RadioGroup radioGroup;
     private RadioButton[] radioButtonAnswers;
     private ImageView questionImageView;
@@ -50,7 +49,9 @@ public class NewQuestionsActivity extends AppCompatActivity {
         Intent caller = getIntent();
         //retract the mode from the Extra using the key and set it to mode
         mode = caller.getStringExtra("Choose Test Type Mode");
-        //retract the testType from the Extra using the key and set it to indexAllTests
+
+        //retract the testType from the Extra using the key and set
+        // it to indexAllTests
         indexAllTests = caller.getIntExtra("testType", 0);
         setTestTypeText();
         initializeById();
@@ -70,7 +71,8 @@ public class NewQuestionsActivity extends AppCompatActivity {
                             "Hospitality and Tourism Cluster Exam",
                             "Marketing Cluster Exam",
                             "Personal Financial Literacy Exam"};
-        ((TextView) findViewById(R.id.textView_testTypeText)).setText(choices[indexAllTests]);
+        ((TextView) findViewById(R.id.textView_testTypeText)).
+                setText(choices[indexAllTests]);
     }
 
     /**
@@ -78,11 +80,11 @@ public class NewQuestionsActivity extends AppCompatActivity {
      */
     private void initializeById() {
         radioGroup = (RadioGroup) findViewById(R.id.radioGroup_answerChoices);
-        textViewQuestionText = (TextView) findViewById(R.id.textView_questionText);
 
         radioButtonAnswers = new RadioButton[4];
-        int[] allIds = new int[]{R.id.radioButton_answerChoiceA, R.id.radioButton_answerChoiceB,
-                R.id.radioButton_answerChoiceC, R.id.radioButton_answerChoiceD};
+        int[] allIds = new int[]{R.id.radioButton_answerChoiceA,
+                R.id.radioButton_answerChoiceB, R.id.radioButton_answerChoiceC,
+                R.id.radioButton_answerChoiceD};
         for(int i = 0; i < allIds.length; i++)
             radioButtonAnswers[i] = (RadioButton) findViewById(allIds[i]);
 
@@ -95,14 +97,15 @@ public class NewQuestionsActivity extends AppCompatActivity {
      * textView_questionText and radioButtonAnswers.
      */
     private void getData() {
-        qAndA = FileUtilities.getAllInfoFromQuestion(indexAllTests, testNum, questionNumber);
+        qAndA = FileUtilities.getAllInfoFromQuestion(indexAllTests, testNum,
+                questionNumber);
 
-        //set the text for the textView_questionText to the question, which is
-        // at index 2 within qAndA
-        textViewQuestionText.setText(qAndA[2]);
+        //set the text for the textView_questionText to the question,
+        // which is at index 2 within qAndA
+        ((TextView) findViewById(R.id.textView_questionText)).setText(qAndA[2]);
 
-        //sets the text for each Radio Button in radioButtonAnswers to the answer
-        // choices, starting with index 3 and ending at index 6
+        //sets the text for each Radio Button in radioButtonAnswers to
+        // the answer choices, starting with index 3 and ending at index 6
         for(int i = 0; i < radioButtonAnswers.length; i++) {
             radioButtonAnswers[i].setText(qAndA[i+3]);
         }
@@ -124,7 +127,8 @@ public class NewQuestionsActivity extends AppCompatActivity {
      * @param v the Button for going back
      */
     public void backOnClick(View v) {
-        startActivity(IntentUtilities.moveActivity(this, MainPageActivity.class));
+        startActivity(IntentUtilities.moveActivity(this,
+                MainPageActivity.class));
         finish();
     }
 
@@ -143,13 +147,13 @@ public class NewQuestionsActivity extends AppCompatActivity {
 
         //if the indexOfClick is -1, then the user did not click anything
         if(indexOfClick == -1) {
-            Toast.makeText(getApplicationContext(), "Please pick an answer.",
-                    Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(),
+                    "Please pick an answer.", Toast.LENGTH_SHORT).show();
             return;
         }
 
-        //add 3 because 0th index for click should be choice A, which is at
-        // index 3 in qAndA, choice B is index 4 in qAndA, etc.
+        //add 3 because 0th index for click should be choice A, which
+        // is at index 3 in qAndA, choice B is index 4 in qAndA, etc.
         String message = qAndA[indexOfClick+3];
 
         //check if the answer choice is correct
@@ -191,31 +195,39 @@ public class NewQuestionsActivity extends AppCompatActivity {
                 Toast.LENGTH_SHORT).show();
 
         //if it is wrong, it is wrong forever
-        if(!FileUtilities.getStatus(indexAllTests, testNum, questionNumber).equals("incorrect"))
-            FileUtilities.setStatus(indexAllTests, testNum, questionNumber, status);
+        if(!FileUtilities.getStatus(indexAllTests, testNum, questionNumber).
+                equals("incorrect"))
+            FileUtilities.setStatus(indexAllTests, testNum, questionNumber,
+                    status);
     }
 
     /**
-     * Sets the testNum in this class to any random index of the testNum in FileUtilities.
-     * Randomize the questionNumber between 1 and 100.
+     * Sets the testNum in this class to any random index
+     * of the testNum in FileUtilities. Randomize the
+     * questionNumber between 1 and 100.
      */
     private void setRandomTestNumAndQuestionNumber() {
         String originalTestNum = testNum;
         int originalQuestionNumber = questionNumber;
 
         while(true) {
-            int testNumIndex = (int)(Math.random()*FileUtilities.getTestNum(indexAllTests).size());
-            testNum = FileUtilities.getTestNum(indexAllTests).get(testNumIndex);
+            int testNumIndex = (int)(Math.random()*FileUtilities.
+                    getTestNum(indexAllTests).size());
+            testNum = FileUtilities.getTestNum(indexAllTests).
+                    get(testNumIndex);
             questionNumber = (int)(Math.random()*99+1);
 
-            //if this is the "Try New Questions" mode and the status is null, then this is a good question
+            //if this is the "Try New Questions" mode and the
+            // status is null, then this is a good question
             if(mode.equals("Try New Questions") &&
-                    FileUtilities.getStatus(indexAllTests, testNum, questionNumber) == null)
+                    FileUtilities.getStatus(indexAllTests, testNum,
+                            questionNumber) == null)
                 break;
             /*
-            * if this is the "Review Missed Questions" mode and the status is non-null,
-            * the status is "incorrect", and either the testNum or the questionNumber is
-            * not the original, then this is a good question */
+            * if this is the "Review Missed Questions" mode and
+            * the status is non-null, the status is "incorrect",
+            * and either the testNum or the questionNumber is not
+            * the original, then this is a good question */
             else if(mode.equals("Review Missed Questions") &&
                     FileUtilities.getStatus(indexAllTests, testNum, questionNumber) != null &&
                     FileUtilities.getStatus(indexAllTests, testNum, questionNumber).equals("incorrect") &&
@@ -234,14 +246,16 @@ public class NewQuestionsActivity extends AppCompatActivity {
             ImageInformation temp = allImageInfo.get(i);
 
             //gets the questionNumber as a String and converts it into an int
-            int questionNumberImage = Integer.parseInt(temp.getValueImage("questionNumber").substring(9));
+            int questionNumberImage = Integer.parseInt(temp.getValueImage(
+                    "questionNumber").substring(9));
             //check if the testNumber and the questionNumber are the same as the
             // ones for ImageInformation
             if(testNum.equals(temp.getValueImage("testNumber")) &&
                     questionNumber == questionNumberImage) {
                 //sets the questionImageView to the expected image
                 String imageName = temp.getValueImage("imageName");
-                int resourceID = getResources().getIdentifier(imageName , "drawable", getPackageName());
+                int resourceID = getResources().getIdentifier(imageName ,
+                        "drawable", getPackageName());
                 Drawable drawable = getResources().getDrawable(resourceID);
                 questionImageView.setImageDrawable(drawable);
             }
