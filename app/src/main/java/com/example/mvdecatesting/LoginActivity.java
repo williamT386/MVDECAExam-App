@@ -21,7 +21,7 @@ import android.widget.TextView;
 
 public class LoginActivity extends AppCompatActivity {
     private static final String password = "PasswordIn";
-    private static boolean allInfoStored = true;
+    private static boolean allInfoStored = false;
     private TextView passwordRed;
     private EditText loginPassword;
 
