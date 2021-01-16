@@ -13,7 +13,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         android:textColor="#000000"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:textStyle="bold"
         android:gravity="center_horizontal">
 
@@ -26,7 +26,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         android:textColor="#000000"
-        android:textSize="18dp"
+        android:textSize="18sp"
         android:gravity="center_vertical"
         android:layout_below="@+id/textView_testTypeText">
     </TextView>
@@ -51,7 +51,7 @@
             android:id="@+id/radioButton_answerChoiceA"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18dp">
+            android:textSize="18sp">
 
         </RadioButton>
 
@@ -59,7 +59,7 @@
             android:id="@+id/radioButton_answerChoiceB"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18dp">
+            android:textSize="18sp">
 
         </RadioButton>
 
@@ -67,7 +67,7 @@
             android:id="@+id/radioButton_answerChoiceC"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18dp">
+            android:textSize="18sp">
 
         </RadioButton>
 
@@ -75,7 +75,7 @@
             android:id="@+id/radioButton_answerChoiceD"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18dp">
+            android:textSize="18sp">
 
         </RadioButton>
 
