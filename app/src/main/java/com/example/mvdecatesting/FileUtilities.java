@@ -339,7 +339,7 @@ public class FileUtilities {
      * @param testTypeIndex the index within hasWrongQuestion
      */
     public static void setHasWrongQuestionsTrue(int testTypeIndex) {
-        hasWrongQuestions[testTypeIndex] = true;
+            hasWrongQuestions[testTypeIndex] = true;
     }
 
     /**

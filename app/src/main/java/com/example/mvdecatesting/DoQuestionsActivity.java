@@ -131,6 +131,7 @@ public class DoQuestionsActivity extends AppCompatActivity {
      * @param v the Button for going back
      */
     public void backOnClick(View v) {
+        //TODO - needs testing
         startActivity(IntentUtilities.moveActivity(this,
                 MainPageActivity.class));
         finish();
@@ -213,6 +214,9 @@ public class DoQuestionsActivity extends AppCompatActivity {
      * questionNumber between 1 and 100.
      */
     private void setRandomTestNumAndQuestionNumber() {
+        //TODO - NOTE: program crashes if the user only clicked had 1 question wrong
+        //TODO - implement writing to file so that the user knows which "review" questions were finished
+
         String originalTestNum = testNum;
         int originalQuestionNumber = questionNumber;
 
@@ -247,7 +251,17 @@ public class DoQuestionsActivity extends AppCompatActivity {
             }
         }
 
-        //check if there is an image for this question, and set the image if there is
+        setPossibleImage();
+
+    }
+
+    /**
+     * Checks if there are any images for this question, and if
+     * there are, sets the questionImageView to display that
+     * image.
+     */
+    private void setPossibleImage() {
+        //get all the image information
         ArrayList<ImageInformation> allImageInfo = FileUtilities.getAllImageInformation();
         for(int i = 0; i < allImageInfo.size(); i++) {
             ImageInformation temp = allImageInfo.get(i);
