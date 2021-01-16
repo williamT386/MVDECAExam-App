@@ -45,7 +45,7 @@ public class ChooseTestTypeActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view,
                                     int position, long id) {
                 Intent changeActivity = IntentUtilities.moveActivity(context,
-                        NewQuestionsActivity.class);
+                        DoQuestionsActivity.class);
                 //adds the mode and the position as extras with keys to the Intent instance
                 changeActivity.putExtra("Choose Test Type Mode", mode);
                 changeActivity.putExtra("testType", position);

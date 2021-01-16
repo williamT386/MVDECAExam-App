@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MVDECATesting">
         <activity android:name=".ChooseTestTypeActivity"></activity>
-        <activity android:name=".NewQuestionsActivity" />
+        <activity android:name=".DoQuestionsActivity" />
         <activity android:name=".ForgotPasswordActivity" />
         <activity android:name=".MainPageActivity" />
         <activity android:name=".LoginActivity">

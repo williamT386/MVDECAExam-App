@@ -26,7 +26,7 @@ import java.util.ArrayList;
  * @since 12/30/2020
  */
 
-public class NewQuestionsActivity extends AppCompatActivity {
+public class DoQuestionsActivity extends AppCompatActivity {
     private String mode;
     private RadioGroup radioGroup;
     private RadioButton[] radioButtonAnswers;
