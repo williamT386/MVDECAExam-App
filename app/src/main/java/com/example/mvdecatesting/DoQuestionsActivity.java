@@ -44,11 +44,13 @@ public class DoQuestionsActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_new_questions);
+        setContentView(R.layout.activity_do_questions);
 
         Intent caller = getIntent();
         //retract the mode from the Extra using the key and set it to mode
         mode = caller.getStringExtra("Choose Test Type Mode");
+
+        Log.i("mode", "" + mode);
 
         //retract the testType from the Extra using the key and set
         // it to indexAllTests
@@ -197,10 +199,9 @@ public class DoQuestionsActivity extends AppCompatActivity {
                 Toast.LENGTH_SHORT).show();
 
         //if it is wrong, it is wrong forever
-        if(!FileUtilities.getStatus(indexAllTests, testNum, questionNumber).
-                equals("incorrect")) {
-            FileUtilities.setStatus(indexAllTests, testNum, questionNumber,
-                    status);
+        if(! "incorrect".equals(
+                FileUtilities.getStatus(indexAllTests, testNum, questionNumber))) {
+            FileUtilities.setStatus(indexAllTests, testNum, questionNumber, status);
             //this test type has questions that are wrong
             FileUtilities.setHasWrongQuestionsTrue(indexAllTests);
         }
@@ -229,14 +230,14 @@ public class DoQuestionsActivity extends AppCompatActivity {
                             questionNumber) == null)
                 break;
             /*
-            * if this is the "Review Missed Questions" mode and
-            * the status is non-null, the status is "incorrect",
-            * and either the testNum or the questionNumber is not
-            * the original, then this is a good question */
+            * if this is the "Review Missed Questions" mode,
+            * the status is "incorrect", and either the
+            * testNum or the questionNumber is not the original,
+            * then this is a good question */
             else if(mode.equals("Review Missed Questions") &&
-                    FileUtilities.getStatus(indexAllTests, testNum, questionNumber) != null &&
-                    FileUtilities.getStatus(indexAllTests, testNum, questionNumber).equals("incorrect") &&
-                    (!originalTestNum.equals(testNum) || originalQuestionNumber != questionNumber))
+                    "incorrect".equals(FileUtilities.getStatus(indexAllTests, testNum,
+                            questionNumber)) &&
+                    (!testNum.equals(originalTestNum) || originalQuestionNumber != questionNumber))
                 break;
             //this is an error
             else if(!mode.equals("Try New Questions") &&

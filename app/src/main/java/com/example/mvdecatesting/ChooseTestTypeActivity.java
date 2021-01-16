@@ -24,6 +24,7 @@ import android.widget.Toast;
 public class ChooseTestTypeActivity extends AppCompatActivity {
 
     //TODO - for the layout, add a Back button
+    //TODO - buggy experience
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
