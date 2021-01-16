@@ -23,16 +23,7 @@ public class FileUtilities {
     private static Scanner scannerQAndA, scannerAnswerKey;
     private static AllTestsOneType[] arrayAllTests;
     private static ArrayList<ImageInformation> imageInfoArrayList;
-    private static final String[] questionsAndAnswersArray = {
-            "bacquestionsandanswers.txt", "bmaquestionsandanswers.txt",
-            "entrequestionsandanswers.txt", "financequestionsandanswers.txt",
-            "hospitalityquestionsandanswers.txt", "marketingquestionsandanswers.txt",
-            "pflquestionsandanswers.txt"};
-    private static final String[] answerExplanationsArray = {
-            "bacanswerexplanations.txt", "bmaanswerexplanations.txt",
-            "entreanswerexplanations.txt", "financeanswerexplanations.txt",
-            "hospitalityanswerexplanations.txt", "marketinganswerexplanations.txt",
-            "pflanswerexplanations.txt"};
+
     private static boolean[] hasWrongQuestions;
 
     private static final String imageList = "imagelist.txt";
@@ -51,23 +42,32 @@ public class FileUtilities {
      * 5) Hospitality And Tourism Cluster Exam,
      * 6) Marketing Cluster Exam
      * 7) Personal Financial Literacy Exam
-     * Afterwards, sets all the information in the image file.
+     * Afterwards, sets all values of hasWrongQuestions to
+     * false and sets the information from the image file.
      * @param activity the activity used to set the scanners
      */
     public static void storeAllInfo(Activity activity) {
-        //7 different types of tests to store
-        arrayAllTests = new AllTestsOneType[7];
-        for(int i = 0; i < arrayAllTests.length; i++)
-            arrayAllTests[i] = new AllTestsOneType();
+        final String[] questionsAndAnswersArray = {
+                "bacquestionsandanswers.txt", "bmaquestionsandanswers.txt",
+                "entrequestionsandanswers.txt", "financequestionsandanswers.txt",
+                "hospitalityquestionsandanswers.txt", "marketingquestionsandanswers.txt",
+                "pflquestionsandanswers.txt"};
+        final String[] answerExplanationsArray = {
+                "bacanswerexplanations.txt", "bmaanswerexplanations.txt",
+                "entreanswerexplanations.txt", "financeanswerexplanations.txt",
+                "hospitalityanswerexplanations.txt", "marketinganswerexplanations.txt",
+                "pflanswerexplanations.txt"};
 
-        for(int i = 0; i < questionsAndAnswersArray.length; i++) {
+        arrayAllTests = new AllTestsOneType[questionsAndAnswersArray.length];
+        for(int testTypeIndex = 0; testTypeIndex < arrayAllTests.length; testTypeIndex++) {
+            arrayAllTests[testTypeIndex] = new AllTestsOneType();
             //sets the scanners
-            setScanner(activity, questionsAndAnswersArray[i], answerExplanationsArray[i]);
-
+            setScanners(activity, questionsAndAnswersArray[testTypeIndex],
+                    answerExplanationsArray[testTypeIndex]);
             //this allows the program to handle scanning multiple tests in the file
-            while(scannerQAndA.hasNext() && scannerAnswerKey.hasNext()) {
-                storeQAndA(i);
-                storeAnswerKey(i);
+            while(scannerQAndA.hasNext()) {
+                storeQAndA(testTypeIndex);
+                storeAnswerKey(testTypeIndex);
             }
         }
 
@@ -88,17 +88,15 @@ public class FileUtilities {
         //all questions within this test use the same testNumberIn
         String testNumberIn = scannerQAndA.nextLine();
         arrayAllTests[testTypeIndex].addTest(testNumberIn);
-        addToTestNumFileUtilities(testTypeIndex, testNumberIn);
 
         //all questions within this test use the same testTypeIn
         String testTypeIn = scannerQAndA.nextLine();
 
         //shows a list of all the options for typeExpected in order
         String[] typeExpected = new String[] {"testNum", "testType",
-                "question", "choiceA", "choiceB", "choiceC",
-                "choiceD"};
+                "question", "choiceA", "choiceB", "choiceC", "choiceD"};
 
-        //start with question 1 and ends with question 100
+        //start with question 1 and ends with the testLength
         for(int i = 1; i <= testLength; i++) {
             //sets the testNumber, testType, and then all the other values after that
             for(int j = 0; j < typeExpected.length; j++) {
@@ -125,9 +123,8 @@ public class FileUtilities {
     private static void storeAnswerKey(int testTypeIndex) {
         //all questions within this test use the same testNumberIn
         String testNumberIn = scannerAnswerKey.nextLine();
-
-        //all questions within this test use the same testTypeIn
-        String testTypeIn = scannerAnswerKey.nextLine();
+        //get the testType
+        scannerAnswerKey.nextLine();
 
         //there are 4 lines per answer explanation
         String[] lines = new String[4];
@@ -147,10 +144,8 @@ public class FileUtilities {
             //save just the instructional area of the first source description
             setValueFileUtilities(testTypeIndex, testNumberIn, questionNumber,
                     "instructionalArea", lines[2].substring(8, 10));
-
             //third line is the second source description
             lines[3] = scannerAnswerKey.nextLine();
-
             //the answer explanation should keep the new lines between
             // each value in lines[]
             String explanationLine = lines[0] + "\n" + lines[1] +
@@ -167,37 +162,19 @@ public class FileUtilities {
      * @param fileNameQAndA the file name for the questions and answers file
      * @param fileNameAnswerKey the file name for the correct answers file
      */
-    private static void setScanner(Activity activity, String fileNameQAndA,
+    private static void setScanners(Activity activity, String fileNameQAndA,
                                    String fileNameAnswerKey) {
-
         try {
-            DataInputStream textFileStream = new DataInputStream(activity.
+            DataInputStream textFileStream1 = new DataInputStream(activity.
                     getAssets().open(fileNameQAndA));
-            scannerQAndA = new Scanner(textFileStream);
-        } catch(IOException e) {
-            Log.e("input", "INPUT file \"" + fileNameQAndA + "\" not found.");
-            System.exit(1);
-        }
-
-        try {
-            DataInputStream textFileStream = new DataInputStream(activity.
+            DataInputStream textFileStream2 = new DataInputStream(activity.
                     getAssets().open(fileNameAnswerKey));
-            scannerAnswerKey = new Scanner(textFileStream);
+            scannerQAndA = new Scanner(textFileStream1);
+            scannerAnswerKey = new Scanner(textFileStream2);
         } catch(IOException e) {
-            Log.e("input", "INPUT file \"" + fileNameAnswerKey + "\" not found.");
+            Log.e("input file", "INPUT file not found.");
             System.exit(1);
         }
-
-    }
-
-    /**
-     * Adds the testNumString to the correct AllTestsOneType's testNum.
-     * @param testTypeIndex the index for the type of test
-     * @param testNumString the test number
-     */
-    public static void addToTestNumFileUtilities(int testTypeIndex,
-                                                 String testNumString) {
-        arrayAllTests[testTypeIndex].addToTestNum(testNumString);
     }
 
     /**
@@ -246,15 +223,13 @@ public class FileUtilities {
                                                   String key, int questionNumber) {
         //shows a list of all the options for typeExpected in order
         String[] typeExpectedArray = new String[] {"testNum", "testType",
-                "question", "choiceA", "choiceB", "choiceC",
-                "choiceD", "correctAnswer", "explanation",
-                "instructionalArea", "status"};
+                "question", "choiceA", "choiceB", "choiceC", "choiceD",
+                "correctAnswer", "explanation", "instructionalArea", "status"};
 
         String[] allInfo = new String[typeExpectedArray.length];
-        for(int i = 0; i < typeExpectedArray.length; i++) {
+        for(int i = 0; i < typeExpectedArray.length; i++)
             allInfo[i] = getValueFileUtilities(testTypeIndex, key, questionNumber,
                     typeExpectedArray[i]);
-        }
 
         return allInfo;
     }
@@ -270,7 +245,6 @@ public class FileUtilities {
      */
     public static void setStatus(int testTypeIndex, String key, int questionNumber,
                                  String statusIn) {
-
         setValueFileUtilities(testTypeIndex, key, questionNumber, "status",
                 statusIn);
     }

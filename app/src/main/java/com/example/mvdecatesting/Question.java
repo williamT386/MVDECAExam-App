@@ -14,14 +14,12 @@ import android.util.Log;
 
 public class Question {
     private String[] allInfoQuestion;
-    private final String[] allChoices;
+    private static final String[] allChoices = new String[] {
+            "testNum", "testType", "question", "choiceA",
+            "choiceB", "choiceC", "choiceD", "correctAnswer",
+            "explanation", "instructionalArea", "status"};
 
     public Question() {
-        allChoices = new String[] {"testNum", "testType", "question",
-                "choiceA", "choiceB", "choiceC", "choiceD",
-                "correctAnswer", "explanation", "instructionalArea",
-                "status"};
-
         allInfoQuestion = new String[allChoices.length];
     }
 

@@ -14,13 +14,13 @@ package com.example.mvdecatesting;
 public class OneTest {
 
     private Question[] question;
+    private static final int testLength = 100;
 
     /**
-     * Initialize question to have 100 Question instances,
-     * since there are 100 questions per test.
+     * Initialize question to have 100 Question instances.
      */
     public OneTest() {
-        question = new Question[100];
+        question = new Question[testLength];
         for(int i = 0; i < question.length; i++)
             question[i] = new Question();
     }

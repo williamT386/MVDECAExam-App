@@ -131,7 +131,6 @@ public class DoQuestionsActivity extends AppCompatActivity {
      * @param v the Button for going back
      */
     public void backOnClick(View v) {
-        //TODO - needs testing
         startActivity(IntentUtilities.moveActivity(this,
                 MainPageActivity.class));
         finish();

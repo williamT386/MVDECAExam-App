@@ -23,17 +23,19 @@ public class AllTestsOneType {
      * Initialize testNum and hashMapOneTest.
      */
     public AllTestsOneType() {
-        testNum = new ArrayList<String>();
+        testNum = new ArrayList<>();
         hashMapOneTest = new HashMap<>();
     }
 
     /**
      * Adds a new OneTest to hashMapOneTest given the
-     * key, which is the test name.
+     * key, which is the test name. Adds the key to
+     * to testNum.
      * @param key the key, which is the name of the test
      */
     public void addTest(String key) {
         hashMapOneTest.put(key, new OneTest());
+        testNum.add(key);
     }
 
     /**
@@ -51,14 +53,6 @@ public class AllTestsOneType {
         Log.e("error HashMap key", "" + key);
         System.exit(1);
         return null;
-    }
-
-    /**
-     * Adds testNumInString to the end of testNum.
-     * @param testNumInString the String to add
-     */
-    public void addToTestNum(String testNumInString) {
-        testNum.add(testNumInString);
     }
 
     /**
