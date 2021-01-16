@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MVDECATesting</string>
+    <string name="mvdecaLogoText">MVDECA Testing</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="loginWarning">Remember, telling anyone outside of MVDECA the login password is a violation of resource use.</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="try_again">Try again.</string>
+    <string name="enter_the_password">Enter the password.</string>
+    <string name="ask_officer_password">Ask an MVDECA officer for the login password.</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="show_missed_questions_in_a_list">Show missed questions in a list</string>
+    <string name="review_missed_questions">Review missed questions</string>
+    <string name="try_new_questions">Try new questions</string>
+    <string name="back_to_main_page">Back to Main Page</string>
+    <string name="choose_a_test_type">Choose a test type: </string>
+
+    <string name="ba_core_exam">Business Administration Core Exam</string>
+    <string name="bma_exam">Business Management and Administration Cluster Exam</string>
+    <string name="entre_exam">Entrepreneurship Cluster Exam</string>
+    <string name="finance_exam">Finance Cluster Exam</string>
+    <string name="hospitality_exam">Hospitality and Tourism Cluster Exam</string>
+    <string name="marketing_exam">Marketing Cluster Exam</string>
+    <string name="pfl_exam">Personal Financial Literacy Exam</string>
+    <string-array name="arrayTestTypes">
+        <item>@string/ba_core_exam</item>
+        <item>@string/bma_exam</item>
+        <item>@string/entre_exam</item>
+        <item>@string/finance_exam</item>
+        <item>@string/hospitality_exam</item>
+        <item>@string/marketing_exam</item>
+        <item>@string/pfl_exam</item>
+    </string-array>
+</resources>

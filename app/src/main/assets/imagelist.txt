@@ -1,0 +1,24 @@
+Test 1075
+Business Administration Core Exam
+Question 78
+bac_1075_78_image
+Test 1143
+Finance Cluster Exam
+Question 78
+fin_1143_78_image
+Test 1173
+Finance Cluster Exam
+Question 44
+fin_1173_44_image
+Test 1184
+Finance Cluster Exam
+Question 47
+fin_1184_47_image
+Test 1063
+Hospitality And Tourism Cluster Exam
+Question 39
+hotr_1063_39_image
+Test 1062
+Marketing Cluster Exam
+Question 47
+mktng_1062_47_image

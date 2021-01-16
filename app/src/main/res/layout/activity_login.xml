@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layout"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:id="@+id/imageView_logo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/mvdeca_logo"/>
+
+    <TextView
+        android:id="@+id/textView_logoText"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView_logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/mvdecaLogoText"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:gravity="center_horizontal">
+
+    </TextView>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout_signInLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView_logoText"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginStart="30dp">
+
+        <TextView
+            android:id="@+id/textView_signIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_in"
+            android:layout_marginStart="2dp"
+            android:layout_marginLeft="2dp"
+            android:textColor="#000000"
+            android:textSize="25sp"
+            android:textStyle="bold">
+        </TextView>
+
+        <TextView
+            android:id="@+id/textView_passwordRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView_signIn"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginLeft="2dp"
+            android:text="@string/password"
+            android:textColor="#f85f6a"
+            android:textSize="15sp"
+            android:textStyle="bold">
+        </TextView>
+
+        <EditText
+            android:id="@+id/editTextPassword_loginPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView_passwordRed"
+            android:ems="15"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/button_submit"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editTextPassword_loginPassword"
+            android:text="@string/submit"
+            android:textColor="#000000"
+            app:backgroundTint="#ebebeb"
+            android:onClick="submitOnClick">
+
+        </Button>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView_loginWarning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout_signInLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginStart="80dp"
+        android:text="@string/loginWarning"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold">
+    </TextView>
+
+    <Button
+        android:id="@+id/button_forgotPassword"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView_loginWarning"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/forgot_password"
+        android:textColor="#000000"
+        app:backgroundTint="#ebebeb"
+        android:onClick="forgotPasswordOnClick">
+
+    </Button>
+
+</RelativeLayout>
