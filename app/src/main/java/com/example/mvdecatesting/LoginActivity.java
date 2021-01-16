@@ -73,6 +73,7 @@ public class LoginActivity extends AppCompatActivity {
     public void forgotPasswordOnClick(View v) {
         startActivity(IntentUtilities.moveActivity(this,
                 ForgotPasswordActivity.class));
+        finish();
     }
 
 }
