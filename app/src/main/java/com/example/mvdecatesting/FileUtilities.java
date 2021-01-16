@@ -107,12 +107,17 @@ public class FileUtilities {
                     setValueFileUtilities(testTypeIndex, testNumberIn, i, typeExpected[j],
                             testTypeIn);
                 else {
-                    String temp = scannerQAndA.nextLine();
                     setValueFileUtilities(testTypeIndex, testNumberIn, i, typeExpected[j],
-                            temp);
+                            scannerQAndA.nextLine());
                 }
             }
+            //if the input status is not "No Status", set the
+            // status to the input status
+            String statusIn = scannerQAndA.nextLine();
+            if(! "No Status".equals(statusIn))
+                setStatus(testTypeIndex, testNumberIn, i, statusIn);
         }
+
     }
 
     /**
@@ -190,8 +195,8 @@ public class FileUtilities {
     public static void setValueFileUtilities(int testTypeIndex,
                                              String key, int questionNumber,
                                              String typeExpected, String changeInto) {
-        OneTest singleTest = arrayAllTests[testTypeIndex].getTest(key);
-        singleTest.setValueTest(questionNumber, typeExpected, changeInto);
+        arrayAllTests[testTypeIndex].getTest(key).
+                setValueTest(questionNumber, typeExpected, changeInto);
     }
 
     /**
@@ -206,8 +211,8 @@ public class FileUtilities {
     private static String getValueFileUtilities(int testTypeIndex,
                                                String key, int questionNumber,
                                                String typeExpected) {
-        OneTest singleTest = arrayAllTests[testTypeIndex].getTest(key);
-        return singleTest.getValueTest(questionNumber, typeExpected);
+        return arrayAllTests[testTypeIndex].getTest(key).
+                getValueTest(questionNumber, typeExpected);
     }
 
     /**
