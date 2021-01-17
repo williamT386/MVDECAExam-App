@@ -1,10 +1,14 @@
 package com.example.mvdecatesting;
 
 import android.app.Activity;
+import android.content.Context;
 import android.util.Log;
 
 import java.io.DataInputStream;
+import java.io.File;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -318,7 +322,7 @@ public class FileUtilities {
      * @param testTypeIndex the index within hasWrongQuestion
      */
     public static void setHasWrongQuestionsTrue(int testTypeIndex) {
-            hasWrongQuestions[testTypeIndex] = true;
+        hasWrongQuestions[testTypeIndex] = true;
     }
 
     /**
@@ -330,4 +334,57 @@ public class FileUtilities {
     public static boolean getHasWrongQuestions(int testTypeIndex) {
         return hasWrongQuestions[testTypeIndex];
     }
+
+    /**
+     * This method exists only for the sake of testing.
+     * It resets all the status within all the
+     * questions and answers files.
+     * //TODO - this method is untested
+     */
+    public static void resetAllStatus(Activity activity) {
+        final String[] questionsAndAnswersArray = {
+                "bacquestionsandanswers.txt", "bmaquestionsandanswers.txt",
+                "entrequestionsandanswers.txt", "financequestionsandanswers.txt",
+                "hospitalityquestionsandanswers.txt", "marketingquestionsandanswers.txt",
+                "pflquestionsandanswers.txt"};
+
+        for(int i = 0; i < questionsAndAnswersArray.length; i++) {
+            //sets the Scanner
+            Scanner scanner = null;
+            try {
+                DataInputStream textFileStream1 = new DataInputStream(activity.
+                        getAssets().open(questionsAndAnswersArray[i]));
+                scanner = new Scanner(textFileStream1);
+            } catch(IOException e) {
+                Log.e("input file", "INPUT file not found.");
+                System.exit(1);
+            }
+
+            //set the PrintWriter
+            PrintWriter printWriter = null;
+            File file = new File(questionsAndAnswersArray[i]);
+            try {
+                printWriter = new PrintWriter((file));
+            } catch(IOException e) {
+                Log.e("output file", "OUTPUT file not found.");
+                System.exit(2);
+            }
+
+            String previousLine = scanner.nextLine();
+            while(scanner.hasNext()) {
+                String lineIn = scanner.nextLine();
+                if("D. ".equals(previousLine.substring(0, 3)) &&
+                        ("Correct".equals(lineIn) || "Incorrect".equals(lineIn)))
+                    printWriter.println("No Status");
+                else {
+                    printWriter.println(lineIn);
+                    previousLine = lineIn;
+                }
+            }
+
+            printWriter.close();
+        }
+
+    }
+
 }

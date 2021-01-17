@@ -62,6 +62,7 @@ public class ChooseTestTypeActivity extends AppCompatActivity {
                     changeActivity.putExtra("Choose Test Type Mode", mode);
                     changeActivity.putExtra("testType", position);
                     startActivity(changeActivity);
+                    finish();
                 }
             }
         });

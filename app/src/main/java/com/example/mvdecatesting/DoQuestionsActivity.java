@@ -34,6 +34,7 @@ public class DoQuestionsActivity extends AppCompatActivity {
     private String[] qAndA;
     private String answer, testNum;
     private static int indexAllTests, questionNumber;
+    private boolean hasStatusChanges = false;
 
     /**
      * Initializes the Views and then tells FileUtilities
@@ -50,8 +51,6 @@ public class DoQuestionsActivity extends AppCompatActivity {
         //retract the mode from the Extra using the key and set it to mode
         mode = caller.getStringExtra("Choose Test Type Mode");
 
-        Log.i("mode", "" + mode);
-
         //retract the testType from the Extra using the key and set
         // it to indexAllTests
         indexAllTests = caller.getIntExtra("testType", 0);
@@ -62,6 +61,14 @@ public class DoQuestionsActivity extends AppCompatActivity {
         getData();
 
 
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        if(hasStatusChanges) {
+
+        }
     }
 
     /**
@@ -188,22 +195,24 @@ public class DoQuestionsActivity extends AppCompatActivity {
         String toastText, status;
         if(isCorrect) {
             toastText = "Correct. Good job!";
-            status = "correct";
+            status = "Correct";
         }
         else {
             toastText = "Try again.";
-            status = "incorrect";
+            status = "Incorrect";
         }
 
         Toast.makeText(getApplicationContext(), toastText,
                 Toast.LENGTH_SHORT).show();
 
         //if it is wrong, it is wrong forever
-        if(! "incorrect".equals(
-                FileUtilities.getStatus(indexAllTests, testNum, questionNumber))) {
-            FileUtilities.setStatus(indexAllTests, testNum, questionNumber, status);
+        if("incorrect".equals(
+                FileUtilities.getStatus(indexAllTests, testNum, questionNumber)))
             //this test type has questions that are wrong
             FileUtilities.setHasWrongQuestionsTrue(indexAllTests);
+        else {
+            FileUtilities.setStatus(indexAllTests, testNum, questionNumber, status);
+            hasStatusChanges = true;
         }
     }
 
