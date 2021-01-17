@@ -32,7 +32,8 @@ public class DoQuestionsActivity extends AppCompatActivity {
     private RadioButton[] radioButtonAnswers;
     private ImageView questionImageView;
     private String[] qAndA;
-    private String answer, testNum;
+    private String answer;
+    private static String testNum;
     private static int indexAllTests, questionNumber;
     private boolean hasStatusChanges = false;
 
@@ -59,6 +60,14 @@ public class DoQuestionsActivity extends AppCompatActivity {
 
         setRandomTestNumAndQuestionNumber();
         getData();
+
+        //TODO - remove this after the problem with doing duplicate questions for review is fixed
+        if("Review Missed Questions".equals(mode)) {
+            Toast.makeText(getApplicationContext(),
+                    "*NOTE* Will not give you the same question " +
+                            "as the previous one, but may give duplicates " +
+                            "beyond that.", Toast.LENGTH_LONG).show();
+        }
 
 
     }
@@ -210,62 +219,81 @@ public class DoQuestionsActivity extends AppCompatActivity {
         //either the value stored is "No Status" currently and the status
         // is "Incorrect", or the value stored is already "Incorrect"
         if(("No Status".equals(FileUtilities.getStatus(indexAllTests, testNum, questionNumber)) &&
-                "Incorrect".equals(status)) ||
-                "Incorrect".equals(FileUtilities.getStatus(indexAllTests, testNum, questionNumber))) {
+                "Incorrect".equals(status))) {
             FileUtilities.setStatus(indexAllTests, testNum, questionNumber, "Incorrect");
 
             //this test type has questions that are wrong
             FileUtilities.setHasWrongQuestionsTrue(indexAllTests);
         }
-        else
-            FileUtilities.setStatus(indexAllTests, testNum, questionNumber, status);
+        else if("Correct".equals(FileUtilities.getStatus(indexAllTests, testNum, questionNumber)))
+            FileUtilities.setStatus(indexAllTests, testNum, questionNumber, "Correct");
         hasStatusChanges = true;
     }
 
     /**
-     * Sets the testNum in this class to any random index
-     * of the testNum in FileUtilities. Randomize the
-     * questionNumber between 1 and 100.
+     * If the mode is "Try New Questions", choose random
+     * testNum and random questionNumber until the status
+     * for that pair of testNum and questionNumber is
+     * "No Status". Afterwards, set the possible image.
+     * If the mode is "Review Missed Questions", choose
+     * random testNum and random questionNumber until
+     * that testNum and questionNumber pair was not the
+     * equal to the previous pair.
      */
     private void setRandomTestNumAndQuestionNumber() {
         //TODO - NOTE: program crashes if the user only clicked had 1 question wrong
         //TODO - implement writing to file so that the user knows which "review" questions were finished
-
         String originalTestNum = testNum;
         int originalQuestionNumber = questionNumber;
 
-        while(true) {
-            int testNumIndex = (int)(Math.random()*FileUtilities.
-                    getTestNum(indexAllTests).size());
-            testNum = FileUtilities.getTestNum(indexAllTests).
-                    get(testNumIndex);
-            questionNumber = (int)(Math.random()*99+1);
+        //if this is the "Try New Questions", search for new
+        // questions until one is found.
+        //TODO - take into consideration if the client does all the questions
+        if ("Try New Questions".equals(mode)) {
+            //keep searching until find question that was never completed before
+            while(true) {
+                int testNumIndex = (int) (Math.random() * FileUtilities.
+                        getTestNum(indexAllTests).size());
+                testNum = FileUtilities.getTestNum(indexAllTests).
+                        get(testNumIndex);
+                questionNumber = (int) (Math.random() * 99 + 1);
 
-            //if this is the "Try New Questions" mode and the
-            // status is null, then this is a good question
-            if(mode.equals("Try New Questions") &&
-                    "No Status".equals(FileUtilities.getStatus(indexAllTests, testNum,
-                            questionNumber)))
-                break;
-            /*
-            * if this is the "Review Missed Questions" mode,
-            * the status is "incorrect", and either the
-            * testNum or the questionNumber is not the original,
-            * then this is a good question */
-            else if("Review Missed Questions".equals(mode) &&
-                    "Incorrect".equals(FileUtilities.getStatus(indexAllTests, testNum,
-                            questionNumber)) &&
-                    (!testNum.equals(originalTestNum) || originalQuestionNumber != questionNumber))
-                break;
-            //this is an error
-            else if(! "Try New Questions".equals(mode) &&
-                    ! "Review Missed Questions".equals(mode )) {
-                Log.e("mode is invalid", "" + mode);
-                System.exit(1);
+                //if the status is "No Status", then this is a good question
+                if ("No Status".equals(FileUtilities.getStatus(indexAllTests,
+                        testNum, questionNumber)))
+                    break;
             }
+            setPossibleImage();
         }
+        //if this is the "Review Missed Questions" mode
+        else if("Review Missed Questions".equals(mode)) {
+            TestTypeMissed testTypeMissed = FileUtilities.getTestTypeMissed(indexAllTests);
+            ArrayList<QuestionMissed> questionMissed = testTypeMissed.getQuestionsMissedTestType();
 
-        setPossibleImage();
+            /**if the user already this question, then there are no more questions to try
+            if(tried) {
+                Toast.makeText(getApplicationContext(),
+                        "No more questions missed for this type of test. " +
+                                "Try this question again for more practice or " +
+                                "go back to the main page.", Toast.LENGTH_SHORT).show();
+            } **/
+
+            //keep picking questions until the previous question is not picked
+            Log.i("questionMissed.size()", "" + questionMissed.size());
+            do {
+                int index = (int) (Math.random() * questionMissed.size());
+                testNum = questionMissed.get(index).getTestNum();
+                questionNumber = questionMissed.get(index).getQuestionNumber();
+
+            } while(questionMissed.size() != 1 && testNum.equals(originalTestNum) &&
+                    originalQuestionNumber == questionNumber);
+            setPossibleImage();
+        }
+        //this is an error
+        else {
+            Log.e("mode is invalid", "" + mode);
+            System.exit(1);
+        }
 
     }
 

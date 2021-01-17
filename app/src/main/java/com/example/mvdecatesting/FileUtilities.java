@@ -87,8 +87,6 @@ public class FileUtilities {
         hasWrongQuestions = new boolean[questionsAndAnswersArray.length];
         Arrays.fill(hasWrongQuestions, false);
 
-
-
         setAllImageInformation(activity);
     }
 
@@ -252,7 +250,11 @@ public class FileUtilities {
     /**
      * Sets the status in the Question instance given the
      * information for which Question instance to set and
-     * the value to change the status into.
+     * the value to change the status into. Also, if the
+     * status is "Incorrect", create a new QuestionMissed
+     * instance to add to allTestTypesMissed at index
+     * testTypeIndex with the key and the questionNumber
+     * in the constructor parameter.
      * @param testTypeIndex the index for the type of test
      * @param key the test number
      * @param questionNumber the question number
@@ -347,7 +349,7 @@ public class FileUtilities {
      * This method exists only for the sake of testing.
      * It resets all the status within all the
      * questions and answers files.
-     * TODO - this method is untested
+     * TODO - this method is unused, untested, and potentially wrong
      * @param activity the Activity in
      * @param context the Context in
      */
@@ -372,6 +374,19 @@ public class FileUtilities {
         }
     }
 
+    /**
+     * Reads in a file and saves all of its contents into an ArrayList, but
+     * replace any lines with information about the status with the up to date
+     * information about the status using getStatus(). Afterwards, print
+     * all that information into the output file (UNSUCCESSFUL). To print into
+     * the output file, cannot have the output file in assets or resources
+     * directories.
+     *
+     * TODO - this method is not used, incomplete, and potentially wrong
+     * @param activity the input activity
+     * @param context the input context
+     * @param testTypeIndex the index within hasWrongQuestion
+     */
     public static void copyStatus(Activity activity, Context context, int testTypeIndex) {
         Scanner scanner = getSingleScanner(activity, questionsAndAnswersArray[testTypeIndex]);
 
@@ -421,6 +436,7 @@ public class FileUtilities {
     /**
      * Sets a single Scanner given the activity and the
      * fileName. Returns it.
+     * TODO - this method is not used
      * @param activity activity the input activity
      * @param fileName the file name
      * @return the Scanner
@@ -441,6 +457,7 @@ public class FileUtilities {
     /**
      * Sets a single PrintWriter given the fileName.
      * Returns it.
+     * TODO - this method is not used and potentially wrong
      * @param fileName the file name
      * @return the PrintWriter
      */
@@ -487,5 +504,15 @@ public class FileUtilities {
             return Integer.parseInt(lineIn.substring(0, index+1));
 
         return 0;
+    }
+
+    /**
+     * Returns the value of allTestTypesMissed at the index of
+     * testTypeIndex.
+     * @param testTypeIndex the index within allTestTypesMissed
+     * @return the value stored at that index within allTestTypesMissed
+     */
+    public static TestTypeMissed getTestTypeMissed(int testTypeIndex) {
+        return allTestTypesMissed[testTypeIndex];
     }
 }
