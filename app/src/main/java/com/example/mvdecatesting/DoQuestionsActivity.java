@@ -67,7 +67,9 @@ public class DoQuestionsActivity extends AppCompatActivity {
     protected void onPause() {
         super.onPause();
         if(hasStatusChanges) {
-
+            //TODO - call FileUtilities.copyStatus for next version
+//            FileUtilities.copyStatus(this, getApplicationContext(), indexAllTests);
+            hasStatusChanges = false;
         }
     }
 
@@ -205,15 +207,19 @@ public class DoQuestionsActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), toastText,
                 Toast.LENGTH_SHORT).show();
 
-        //if it is wrong, it is wrong forever
-        if("incorrect".equals(
-                FileUtilities.getStatus(indexAllTests, testNum, questionNumber)))
+        //either the value stored is "No Status" currently and the status
+        // is "Incorrect", or the value stored is already "Incorrect"
+        if(("No Status".equals(FileUtilities.getStatus(indexAllTests, testNum, questionNumber)) &&
+                "Incorrect".equals(status)) ||
+                "Incorrect".equals(FileUtilities.getStatus(indexAllTests, testNum, questionNumber))) {
+            FileUtilities.setStatus(indexAllTests, testNum, questionNumber, "Incorrect");
+
             //this test type has questions that are wrong
             FileUtilities.setHasWrongQuestionsTrue(indexAllTests);
-        else {
-            FileUtilities.setStatus(indexAllTests, testNum, questionNumber, status);
-            hasStatusChanges = true;
         }
+        else
+            FileUtilities.setStatus(indexAllTests, testNum, questionNumber, status);
+        hasStatusChanges = true;
     }
 
     /**
@@ -238,22 +244,22 @@ public class DoQuestionsActivity extends AppCompatActivity {
             //if this is the "Try New Questions" mode and the
             // status is null, then this is a good question
             if(mode.equals("Try New Questions") &&
-                    FileUtilities.getStatus(indexAllTests, testNum,
-                            questionNumber) == null)
+                    "No Status".equals(FileUtilities.getStatus(indexAllTests, testNum,
+                            questionNumber)))
                 break;
             /*
             * if this is the "Review Missed Questions" mode,
             * the status is "incorrect", and either the
             * testNum or the questionNumber is not the original,
             * then this is a good question */
-            else if(mode.equals("Review Missed Questions") &&
-                    "incorrect".equals(FileUtilities.getStatus(indexAllTests, testNum,
+            else if("Review Missed Questions".equals(mode) &&
+                    "Incorrect".equals(FileUtilities.getStatus(indexAllTests, testNum,
                             questionNumber)) &&
                     (!testNum.equals(originalTestNum) || originalQuestionNumber != questionNumber))
                 break;
             //this is an error
-            else if(!mode.equals("Try New Questions") &&
-                    !mode.equals("Review Missed Questions")) {
+            else if(! "Try New Questions".equals(mode) &&
+                    ! "Review Missed Questions".equals(mode )) {
                 Log.e("mode is invalid", "" + mode);
                 System.exit(1);
             }

@@ -5,13 +5,13 @@ import android.content.Context;
 import android.util.Log;
 
 import java.io.DataInputStream;
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
+
+import static android.content.Context.MODE_PRIVATE;
 
 /**
  * FileUtilities.java
@@ -26,8 +26,13 @@ import java.util.Scanner;
 public class FileUtilities {
     private static Scanner scannerQAndA, scannerAnswerKey;
     private static AllTestsOneType[] arrayAllTests;
+    private static TestTypeMissed[] allTestTypesMissed;
     private static ArrayList<ImageInformation> imageInfoArrayList;
-
+    private static final String[] questionsAndAnswersArray = {
+            "bacquestionsandanswers.txt", "bmaquestionsandanswers.txt",
+            "entrequestionsandanswers.txt", "financequestionsandanswers.txt",
+            "hospitalityquestionsandanswers.txt", "marketingquestionsandanswers.txt",
+            "pflquestionsandanswers.txt"};
     private static boolean[] hasWrongQuestions;
 
     private static final String imageList = "imagelist.txt";
@@ -63,6 +68,7 @@ public class FileUtilities {
                 "pflanswerexplanations.txt"};
 
         arrayAllTests = new AllTestsOneType[questionsAndAnswersArray.length];
+        allTestTypesMissed = new TestTypeMissed[questionsAndAnswersArray.length];
         for(int testTypeIndex = 0; testTypeIndex < arrayAllTests.length; testTypeIndex++) {
             arrayAllTests[testTypeIndex] = new AllTestsOneType();
             //sets the scanners
@@ -73,11 +79,15 @@ public class FileUtilities {
                 storeQAndA(testTypeIndex);
                 storeAnswerKey(testTypeIndex);
             }
+
+            allTestTypesMissed[testTypeIndex] = new TestTypeMissed();
         }
 
         //the user has not even started, so they have no missed questions
         hasWrongQuestions = new boolean[questionsAndAnswersArray.length];
         Arrays.fill(hasWrongQuestions, false);
+
+
 
         setAllImageInformation(activity);
     }
@@ -115,11 +125,7 @@ public class FileUtilities {
                             scannerQAndA.nextLine());
                 }
             }
-            //if the input status is not "No Status", set the
-            // status to the input status
-            String statusIn = scannerQAndA.nextLine();
-            if(! "No Status".equals(statusIn))
-                setStatus(testTypeIndex, testNumberIn, i, statusIn);
+            setStatus(testTypeIndex, testNumberIn, i, scannerQAndA.nextLine());
         }
 
     }
@@ -256,6 +262,8 @@ public class FileUtilities {
                                  String statusIn) {
         setValueFileUtilities(testTypeIndex, key, questionNumber, "status",
                 statusIn);
+        if("Incorrect".equals(statusIn))
+            allTestTypesMissed[testTypeIndex].addQuestionMissed(key, questionNumber);
     }
 
     /**
@@ -339,36 +347,14 @@ public class FileUtilities {
      * This method exists only for the sake of testing.
      * It resets all the status within all the
      * questions and answers files.
-     * //TODO - this method is untested
+     * TODO - this method is untested
+     * @param activity the Activity in
+     * @param context the Context in
      */
-    public static void resetAllStatus(Activity activity) {
-        final String[] questionsAndAnswersArray = {
-                "bacquestionsandanswers.txt", "bmaquestionsandanswers.txt",
-                "entrequestionsandanswers.txt", "financequestionsandanswers.txt",
-                "hospitalityquestionsandanswers.txt", "marketingquestionsandanswers.txt",
-                "pflquestionsandanswers.txt"};
-
+    public static void resetAllStatus(Activity activity, Context context) {
         for(int i = 0; i < questionsAndAnswersArray.length; i++) {
-            //sets the Scanner
-            Scanner scanner = null;
-            try {
-                DataInputStream textFileStream1 = new DataInputStream(activity.
-                        getAssets().open(questionsAndAnswersArray[i]));
-                scanner = new Scanner(textFileStream1);
-            } catch(IOException e) {
-                Log.e("input file", "INPUT file not found.");
-                System.exit(1);
-            }
-
-            //set the PrintWriter
-            PrintWriter printWriter = null;
-            File file = new File(questionsAndAnswersArray[i]);
-            try {
-                printWriter = new PrintWriter((file));
-            } catch(IOException e) {
-                Log.e("output file", "OUTPUT file not found.");
-                System.exit(2);
-            }
+            Scanner scanner = getSingleScanner(activity, questionsAndAnswersArray[i]);
+            PrintWriter printWriter = getSinglePrintWriter(context, questionsAndAnswersArray[i]);
 
             String previousLine = scanner.nextLine();
             while(scanner.hasNext()) {
@@ -384,7 +370,122 @@ public class FileUtilities {
 
             printWriter.close();
         }
-
     }
 
+    public static void copyStatus(Activity activity, Context context, int testTypeIndex) {
+        Scanner scanner = getSingleScanner(activity, questionsAndAnswersArray[testTypeIndex]);
+
+        ArrayList<String> entireInFile = new ArrayList<>();
+        String testNum = null;
+        int questionNumber = -1;
+        while(scanner.hasNext()) {
+            String lineIn = scanner.nextLine();
+
+            //check if this is the testNum
+            if(lineIn.length() > 5 && "Test ".equals(lineIn.substring(0, 5)))
+                testNum = lineIn;
+            else if(getQuestionNumber(lineIn) != 0)
+                questionNumber = getQuestionNumber(lineIn);
+            //check if the previous line was answer choice D and if this line
+            // is any of the possible status choices
+            else if(entireInFile.size() > 1 &&
+                    entireInFile.get(entireInFile.size() - 2).length() > 3 &&
+                    ("No Status".equals(lineIn) || "Correct".equals(lineIn) ||
+                    "InCorrect".equals(lineIn))) {
+
+                //TODO - should set the value of the entireInFile to the new status
+
+                if(getStatus(testTypeIndex, testNum, questionNumber).equals("Incorrect")) {
+                    Log.i("info", "" + testNum + ": " + questionNumber);
+                    Log.i("status change", "status is incorrect");
+                }
+
+                entireInFile.add(getStatus(testTypeIndex, testNum, questionNumber));
+            }
+            else {
+                entireInFile.add(lineIn);
+            }
+        }
+        scanner.close();
+
+        PrintWriter printWriter = getSinglePrintWriter(context,
+                "statusinformation.txt");
+        for(String lineToPrint : entireInFile) {
+            printWriter.println(lineToPrint + "  ");
+            Log.i("printWriter", "printing");
+        }
+
+        printWriter.close();
+    }
+
+    /**
+     * Sets a single Scanner given the activity and the
+     * fileName. Returns it.
+     * @param activity activity the input activity
+     * @param fileName the file name
+     * @return the Scanner
+     */
+    private static Scanner getSingleScanner(Activity activity, String fileName) {
+        Scanner scanner = null;
+        try {
+            DataInputStream textFileStream1 = new DataInputStream(activity.
+                    getAssets().open(fileName));
+            scanner = new Scanner(textFileStream1);
+        } catch(IOException e) {
+            Log.e("input file", "INPUT file not found.");
+            System.exit(1);
+        }
+        return scanner;
+    }
+
+    /**
+     * Sets a single PrintWriter given the fileName.
+     * Returns it.
+     * @param fileName the file name
+     * @return the PrintWriter
+     */
+    private static PrintWriter getSinglePrintWriter(Context context, String fileName) {
+        PrintWriter printWriter = null;
+        try {
+            printWriter = new PrintWriter(context.openFileOutput(fileName, MODE_PRIVATE));
+        } catch(Exception e) {
+            Log.e("output file", "OUTPUT file not found.");
+            System.exit(2);
+        }
+        return printWriter;
+    }
+
+    /**
+     * Checks if this is a question number. If so, returns
+     * the question number. If not, return 0, since 0 is
+     * an impossible value.
+     * @param lineIn the line to check
+     * @return the question number
+     */
+    private static int getQuestionNumber(String lineIn) {
+        //too short to be possible
+        if(lineIn.length() < 4) return 0;
+
+        //figure out where the end of the part of the String that is the
+        //question number ends. index starts with a nonsense value
+        int index = -1;
+        for(int i = 2; i >= 0; i--) {
+            if(lineIn.charAt(i) >= '0' && lineIn.charAt(i) <= '9') {
+                index = i;
+                break;
+            }
+        }
+        //if there was no index that could yield an int
+        if(index == -1) return 0;
+        //all characters up to and including the index should be
+        //an integer of [0, 9]
+        for(int i = 0; i <= index; i++) {
+            if(lineIn.charAt(i) < '0' || lineIn.charAt(i) > '9') return 0;
+        }
+
+        if(lineIn.substring(index+1, index+3).equals(". "))
+            return Integer.parseInt(lineIn.substring(0, index+1));
+
+        return 0;
+    }
 }
