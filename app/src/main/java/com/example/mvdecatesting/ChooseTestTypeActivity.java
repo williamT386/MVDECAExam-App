@@ -67,4 +67,14 @@ public class ChooseTestTypeActivity extends AppCompatActivity {
             }
         });
     }
+
+    /**
+     * Creates a new Intent to move to the LoginActivity.
+     * @param v the Button for going back
+     */
+    public void backOnClick(View v) {
+        startActivity(IntentUtilities.moveActivity(this,
+                MainPageActivity.class));
+        finish();
+    }
 }

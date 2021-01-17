@@ -515,4 +515,15 @@ public class FileUtilities {
     public static TestTypeMissed getTestTypeMissed(int testTypeIndex) {
         return allTestTypesMissed[testTypeIndex];
     }
+
+    /**
+     * Returns the number of questions for this testType.
+     * TODO - this method is not used, incomplete, and potentially wrong
+     * @param testTypeIndex the index within arrayAllTests
+     * @return the number of questions for this testType
+     */
+    public static int numOfQuestions(int testTypeIndex) {
+        //gets the number of tests for this testType * the number of questions per test
+        return arrayAllTests[testTypeIndex].getTestNum().size() * testLength;
+    }
 }

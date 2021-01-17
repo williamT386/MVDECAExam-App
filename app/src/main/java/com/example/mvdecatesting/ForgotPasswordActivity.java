@@ -34,5 +34,6 @@ public class ForgotPasswordActivity extends AppCompatActivity {
     public void backOnClick(View v) {
         startActivity(IntentUtilities.moveActivity(this,
                 LoginActivity.class));
+        finish();
     }
 }

@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toast;
 
 /**
  * MainPageActivity.java
@@ -43,7 +44,7 @@ public class MainPageActivity extends AppCompatActivity {
 
     /**
      * Creates a new Intent to move to the ChooseTestTypeActivity.
-     * @param v the Button for trying new questions
+     * @param v the Button for reviewing missed questions
      */
     public void reviewMissedQuestionsOnClick(View v) {
         Intent intent = IntentUtilities.moveActivity(this,
@@ -51,5 +52,16 @@ public class MainPageActivity extends AppCompatActivity {
         intent.putExtra("Choose Test Type Mode",
                 "Review Missed Questions");
         startActivity(intent);
+    }
+
+    /**
+     * Creates a Toast telling the user that this button
+     * does not work yet.
+     * TODO - implement Show Missed Questions feature
+     * @param v the Button for showing missed questions
+     */
+    public void showMissedQuestionsOnClick(View v) {
+        Toast.makeText(getApplicationContext(),
+                "Feature does not work yet.", Toast.LENGTH_SHORT).show();
     }
 }

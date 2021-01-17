@@ -241,7 +241,6 @@ public class DoQuestionsActivity extends AppCompatActivity {
      * equal to the previous pair.
      */
     private void setRandomTestNumAndQuestionNumber() {
-        //TODO - NOTE: program crashes if the user only clicked had 1 question wrong
         //TODO - implement writing to file so that the user knows which "review" questions were finished
         String originalTestNum = testNum;
         int originalQuestionNumber = questionNumber;
@@ -263,6 +262,7 @@ public class DoQuestionsActivity extends AppCompatActivity {
                         testNum, questionNumber)))
                     break;
             }
+
             setPossibleImage();
         }
         //if this is the "Review Missed Questions" mode
