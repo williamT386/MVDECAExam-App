@@ -16,6 +16,8 @@
     <string name="try_new_questions">Try new questions</string>
     <string name="back_to_main_page">Back to Main Page</string>
     <string name="choose_a_test_type">Choose a test type: </string>
+    <string name="this_is_the_mvdeca_logo">This is the MVDECA logo</string>
+    <string name="image_part_of_question">This is the image that is part of the question</string>
 
     <string name="ba_core_exam">Business Administration Core Exam</string>
     <string name="bma_exam">Business Management and Administration Cluster Exam</string>
@@ -24,8 +26,6 @@
     <string name="hospitality_exam">Hospitality and Tourism Cluster Exam</string>
     <string name="marketing_exam">Marketing Cluster Exam</string>
     <string name="pfl_exam">Personal Financial Literacy Exam</string>
-    <string name="this_is_the_mvdeca_logo">This is the MVDECA logo</string>
-    <string name="image_part_of_question">This is the image that is part of the question</string>
     <string-array name="arrayTestTypes">
         <item>@string/ba_core_exam</item>
         <item>@string/bma_exam</item>

@@ -2487,7 +2487,7 @@ SOURCE: Kapoor, J.R., Diabay, L.R., Hughes, R.J., & Hoyt, W.B. (2005). Business 
 19. B
 Customer life. The basic steps of the customer life cycle involve attracting present and new customers, acquiring new customers, serving the customers, and retaining the customers. The accounting cycle begins when a sale is made and ends when the books are closed in accounting. Business cycles are the rise and fall in economic activity that businesses experience. Customer complaint cycle is a fictitious term.
 SOURCE: CR:024
-SOURCE: CRMsolution.com. (n.d.). CRM software strategy:sample crm objectives. Retrieved September 27, 2012, from http:/Avww.crmsolution.com/crm-strategy. html
+SOURCE: CRMsolution.com. (n.d.). CRM software strategy:sample crm objectives. Retrieved September 27, 2012, from http://www.crmsolution.com/crm-strategy. html
 20. B
 Land, Land is limited in supply, we can't make any more of it, and it supplies us with many other valuable resources (oil, coal, gas, etc.). Air and water are presently in abundant supply in America. Money is a symbol of value, not a natural resource.
 SOURCE: EC:001
@@ -2595,7 +2595,7 @@ SOURCE: MBAResearch and Curriculum Center. Introduction to finance course guide 
 46. B
 Rise. Inflation is the rapid rise in prices. Different factors can affect the rate of inflation. One factor that affects the inflation rate is the value of the dollar in foreign exchange markets. If the value of the dollar decreases, inflation tends to increase. The value of the dollar in foreign market exchanges is also affected by many factors, which influence investors’ perceptions and confidence levels. Some factors include the nation’s political stability, various economic indicators (e.g., unemployment), and the nation's trade deficits and imbalances. Therefore, if the investors’ confidence decreases, foreign investment tends to decrease, which causes the value of the dollar to decrease. When the value of the dollar decreases in foreign markets, the inflation rate does not tend to fall slowly, fall rapidly, or stabilize.
 SOURCE: FI:574
-SOURCE: Andrews, J.A. (2004). Forces that move stock prices. Retrieved September 27, 2012, from http:/Avww.daytradersclub.net/forces-that-move-stock-prices/
+SOURCE: Andrews, J.A. (2004). Forces that move stock prices. Retrieved September 27, 2012, from http://www.daytradersclub.net/forces-that-move-stock-prices/
 47. D
 Unstable stock markets in a transitional economy. Emerging markets are growing markets (e.g., stock, bond, commodities, etc.) that result when a country initiates reforms that move it from a closed economy to an open or market economy. Because the markets are new, they are untried and relatively unstable, which is a high risk for investors. However, these markets also have the potential to provide investors with high returns, as the country's business activity increases and its economy grows. Developing countries tend to experience gains in gross domestic product due to higher production and business activity, which is often facilitated by high foreign investment. The infrastructure of developing countries often improves when the government and investors provide the financial resources to support it.
 SOURCE: FI:575
@@ -2635,11 +2635,11 @@ SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (p. 341). South-We
 56. A
 Meeting analysts’ estimated earnings. Managers are often pressured to ensure that analysts’ estimated earnings are reached. Managers should focus on use of accounting principles that provide the most accurate results rather than on providing the most desired results. Otherwise, they will be guilty of cooking the books to provide a more favorable financial report than actually exists. Postponing purchases, accelerating expense payments, and selling securities for a gain are ethical earnings- management practices.
 SOURCE: FM:003
-SOURCE: Millstein, |. (2005, May 26). When earnings management becomes cooking the books. Retrieved August 17, 2012, from http:/Awww.ft.com/cms/s/2/90ce4c50-cdd3-1 1d9-9a8a- 00000e2511c8,dwp_uuid=1d0ffS28-c86c-1 1d9-87c9-00000e2511¢8.html
+SOURCE: Millstein, |. (2005, May 26). When earnings management becomes cooking the books. Retrieved August 17, 2012, from http://wwww.ft.com/cms/s/2/90ce4c50-cdd3-1 1d9-9a8a- 00000e2511c8,dwp_uuid=1d0ffS28-c86c-1 1d9-87c9-00000e2511¢8.html
 57. D
 ERP (Enterprise Resource Planning). Master data management is made up of processes and tools that define and manage non-transactional data entities. In other words, it collects, pulls together, matches, consolidates, and distributes data throughout an organization. ERP is an example of a system that's intended to integrate all data and processes into a unified system. A key ingredient of most ERP systems is the use of a unified database that stores data for the system. Accounting systems do not provide a source for master data management. Their focus is on collecting and storing financial data for the accounting department. SutiExpense is a mobile expense management application used to monitor, manage, and simplify travel and expense recordkeeping. Users are able to attach receipts "on the go" from their smart phones, enabling them to save both time and money.
 SOURCE: FM:011
-SOURCE: SutiSoft. (2012). Key features of SutiExpense. Retrieved August 17, 2012, from http:/Awww.sutisoft.com/sutiexpense/keyfeatures. html
+SOURCE: SutiSoft. (2012). Key features of SutiExpense. Retrieved August 17, 2012, from http://wwww.sutisoft.com/sutiexpense/keyfeatures.html
 58. D
 Categorized. Data mining is the process of searching computer databases to look for patterns and relationships among information. Before a business can retrieve certain types of information, it must identify how the data are stored and categorized in the database. After identifying storage and categorization methods, the business decides which approach to use to obtain the information. After the information is obtained, the business views and analyzes it.
 SOURCE: FM:012
@@ -2647,7 +2647,7 @@ SOURCE: Hair, J.F., Bush, R.P., & Ortinau, D.J. (2009). Marketing research in a 
 59. B
 Creating unlimited scenarios to depict the impact of decisions. When using budgeting applications, users can benefit by creating a variety of “what-if’ scenarios in order to develop the most realistic budget. Automatic deletion of files would be a disadvantage since the prior year's budget is used in developing the future budget. An audit trail should be maintained on all data entries rather than audits occurring at random. An effective budgeting application would set limits on how much over budget an account can go and flag the overage so that steps can be taken to handle the situation.
 SOURCE: FM:013
-SOURCE: Tyler Technologies. (n.d.). Flexible budget forecasting tools. Retrieved August 17, 2012, from http:/Awww.tylertech.com/solutions-products/infinite-visions-product-suite/performance- features/budget-forecasting
+SOURCE: Tyler Technologies. (n.d.). Flexible budget forecasting tools. Retrieved August 17, 2012, from http://wwww.tylertech.com/solutions-products/infinite-visions-product-suite/performance- features/budget-forecasting
 60. A
 Most budgeting software can be used to measure the impact of different actions on the budget. Budgeting software, which is generally much more sophisticated than standard spreadsheet software, allows business owners and managers to study each item in a budget individually as well as together as a whole. Owners and managers can see the impact that different actions have on a business's budget, both before and after these actions take place. The software also allows them to pinpoint business units/products that are underperforming and helps them to determine suitable corrective action. Creating line-item projections using standard spreadsheet software can be extremely time-consuming, but budgeting applications shorten the process considerably. Spreadsheet software also makes it difficult to adapt to unexpected events and changing economic conditions, while budgeting software is much more nimble. Therefore, budgets prepared with budgeting-specific software are much easier and simpler to modify. While some budgeting software is appropriate for both business and personal use, many programs are designed to be used solely by a business or an individual, not both.
 SOURCE: FM:013
@@ -2663,7 +2663,7 @@ SOURCE: HowStuffWorks.com. (1998-2012). What are relational databases? Retrieved
 63. A
 Monetary fines. Businesses that do not provide accurate and timely financial information in the appropriate format to the government may be required to pay fines, which are costly to businesses. The government would not reward business delinquency by offering tax reductions, payroll exemptions, or subsidies (financial assistance).
 SOURCE: FM:004
-SOURCE: Financial Industry Regulatory Authority. (2009, October 12). FINRA fines Citigroup for failing to supervise tax-related stock transactions. Retrieved August 17, 2012, from http:/Avww.finra.org/Newsroom/NewsReleases/2009/P 120206
+SOURCE: Financial Industry Regulatory Authority. (2009, October 12). FINRA fines Citigroup for failing to supervise tax-related stock transactions. Retrieved August 17, 2012, from http://www.finra.org/Newsroom/NewsReleases/2009/P 120206
 64. C
 Vendor C. Sometimes, businesses experience temporary or short-term cash-flow problems when the anticipated inflow of cash falls short. When this type of situation occurs, the business needs to determine how to handle it. To do this, the business needs to carefully monitor its cash flow, so it can plan how and when it will pay its bills. XTY should pay Vendor C first because it is the oldest invoice that hasn't been paid. A business's credit rating can be negatively affected if the business does not pay its bills within a reasonable amount of time. Although Vendor 8's bill was due five days ago, ithe business is probably within its payment grace period with the vendor. The bills that are not yet due should be paid after the overdue bill is paid.
 SOURCE: FM:005
@@ -2671,7 +2671,7 @@ SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 72,77, 122). 
 65. C
 Follow accounting standards such as GAAP or IFRS. Because businesses must use the financial accounting system to prepare financial information for external audiences (i.e., shareholders and government agencies), the information must be presented in a consistent way. The generally accepted accounting principles (GAAP) are currently used by most accountants in the U.S. to ensure that they prepare financial reports in a consistent manner. However, much of the rest of the world uses the International Financial Reporting Standards (IFRS) to prepare and report financial information. Use of the financial accounting system is a government requirement rather than a way for the business to establish credibility. Businesses do not need to attach copies of all transaction receipts to reports or forms; however, receipts and documentation must be available for review if the government requests or requires it for an additional audit. Financial data registration guidelines is a fictitious term.
 SOURCE: FM:006
-SOURCE: Accountinginformationmanagement.com. (2012). Financial accounting vs. managerial accounting - difference between financial and managerial accounting. Retrieved August 17, 2012, from http:/Awww.accountingformanagement.com/financial_accounting_vs_managerial_accounting. htm
+SOURCE: Accountinginformationmanagement.com. (2012). Financial accounting vs. managerial accounting - difference between financial and managerial accounting. Retrieved August 17, 2012, from http://wwww.accountingformanagement.com/financial_accounting_vs_managerial_accounting. htm
 66. B
 It is the time period that is used as the basis for comparisons. The base year is the starting point for comparisons; therefore, each category on a financial statement in the base year is 100%. By subtracting the base year's amount from each future amount, and then dividing by the base year amount, you can determine the percent of increase or decrease from year to year. The other responses do not relate to the base year that is used in horizontal analysis.
 SOURCE: FM:008
@@ -2679,7 +2679,7 @@ SOURCE: Guerrieri, D.J., Haber, F.B., Hoyt, W.B., & Turner, R.E. (2004). Account
 67. D
 The current balance that the customer owes to each of its existing suppliers. Businesses often analyze customer financial information to determine their customers’ creditworthiness. If a potential business customer applies for a loan or line of credit, the creditor is likely to review the customer's bank information, financial statements, and trade references. These trade references should come from three or four of the customer's existing suppliers who have already extended credit to the customer. Each trade reference should provide information such as the customer's credit line, high balance, current balance, and payment history. Reviewing this information will help the company to determine whether it wants to extend credit to the customer, too. The name of the customer's purchasing agent, each supplier's articles of incorporation, and a list of the items that the business typically purchases from each supplier are not usually needed when determining whether to extend credit to a potential customer.
 SOURCE: FM:009
-SOURCE: CreditGuru.com. (1999-2012). Trade references. Retrieved August 17, 2012, from http:/Awww.creditguru.com/TradeRef. htm
+SOURCE: CreditGuru.com. (1999-2012). Trade references. Retrieved August 17, 2012, from http://wwww.creditguru.com/TradeRef. htm
 68. C
 Financial risks and deficiencies. By analyzing relevant financial data, management has determined that the company is facing a risky financial situation—it does not have enough cash available to pay its employees. As a result, the company plans to temporarily borrow capital to cover its expenses. Although the company would probably like to find ways to reduce expenses, identify possible investment opportunities, and determine ways to reduce the cost of credit, those were not reasons for reviewing financial data in this situation.
 SOURCE: FM:010
@@ -2739,7 +2739,7 @@ SOURCE: OP LAP 6—Projected to Win (The Nature of Project Management)
 82. B
 Being organized. Being organized is often the key to a successful project. The manager must be able to take ideas and bring each piece together in an orderly way to achieve project goals. The manager assigns tasks, prepares schedules, and monitors the progress. Therefore, the manager needs to have the ability to stay organized and focused to keep the project on target. When managing projects, it is important to handle complaints rather than simply listen to them. Requirement modifications should be made only if necessary. Requiring reports is not the key to successfully managing a project. In fact, simple projects often do not require reports.
 SOURCE: OP:002
-SOURCE: McCue, T.J. (n.d.). 7 online project management tools to keep you organized. Retrieved August 17, 2012, from http:/Avww.openforum.com/articles/7-online-project-management- tools-to-keep-you-organized
+SOURCE: McCue, T.J. (n.d.). 7 online project management tools to keep you organized. Retrieved August 17, 2012, from http://www.openforum.com/articles/7-online-project-management- tools-to-keep-you-organized
 83. D
 Order accuracy. Businesses evaluate their vendors’ strengths and weaknesses to determine if changes should be made. One factor that businesses evaluate is the accuracy of a vendor's orders. If the vendor consistently sends incorrect items, the business can work with the vendor to correct the problems, or it can decide to terminate the relationship with the vendor. Other considerations might include invoice accuracy, order lead-time, and delivery time. The business does not usually evaluate the vendor's business plan, invoice numbers, or accounting methods.
 SOURCE: OP:162
@@ -2783,7 +2783,7 @@ SOURCE: QS LAP 51—Careers in the Money
 93. A
 Pass the certification examination. Passing the exam verifies that the individual is qualified to be a financial planner. It is not necessary to join an association first. Recognizing the value of certification is something you might do before you seek certification. Solving financial problems is something you intend to do after certification.
 SOURCE: PD:082
-SOURCE: Certified Financial Planner Board of Standards, Inc. (n.d.) Steps to initial CFP certification. Retrieved August 17, 2012 from http:/Avww.cfp.net/become/Steps.asp
+SOURCE: Certified Financial Planner Board of Standards, Inc. (n.d.) Steps to initial CFP certification. Retrieved August 17, 2012 from http://www.cfp.net/become/Steps.asp
 94. C
 Build business contacts. A professional organization is a group of persons in the same profession who form a society to further their common interests. The primary focus of the professional organization is to expand professional knowledge and maintain high professional standards. Joining a professional organization helps financial planners network with others in the same field. Networking provides financial planners with information about employment opportunities and prospective client contacts. Financial planners do not join professional organizations to establish personal priorities, formulate business plans, or develop organizational charts.
 SOURCE: PD:153
@@ -2795,11 +2795,11 @@ SOURCE: Hoban, S. (n.d.). Building business relationships. Retrieved August 17, 
 96. A
 Product safety. Businesses risk financial losses and damaged reputations when they use lower-quality goods and materials. In the example, the manufacturer used low-quality parts that affected the performance and safety of the car engine. When car engines catch on fire and people are injured, the manufacturer may be legally required to pay damages to the injured parties. The risks in the example are not associated with domestic trade, service quality, nor trade secrets.
 SOURCE: RM:041
-SOURCE: Kitzes, B. (n.d.). Product safety management. Retrieved August 17, 2012, from http:/Avww.producisafety.com/
+SOURCE: Kitzes, B. (n.d.). Product safety management. Retrieved August 17, 2012, from http://www.producisafety.com/
 97. C
 Withholding pertinent information from insurance underwriters. While withholding pertinent information from or misrepresenting information to insurance underwriters may help risk managers to obtain unfairly favorable premium rates from insurers in the short-term, doing so is highly unethical and likely to cause problems in the long-term, such as when the company attempts to renew the policy. However, securing fair, favorable premium rates from insurers through ethical, honest actions is acceptable. Companies are typically required to pay a share of the loss exposures pooled through insurance. Embezzling from the organization is unethical, but reporting that someone within the company is embezzling is good, ethical risk management.
 SOURCE: RM:041
-SOURCE: Head, G.L. (2005, February). Why link risk management and ethics? Retrieved August 17, 2012, from http:/Awww. irmi.com/expert/articles/2005/head02.aspx
+SOURCE: Head, G.L. (2005, February). Why link risk management and ethics? Retrieved August 17, 2012, from http://wwww. irmi.com/expert/articles/2005/head02.aspx
 98. B
 Contingency plans. A contingency plan is an alternative course of action. A contingency plan states specific guidelines that a business uses when responding to undesirable circumstances. Businesses often use computer software programs to obtain numerical data about their levels of risk in different areas of the business. They use this information to make business decisions and to help them develop altenative action plans when circumstances occur that increase or decrease risk at a given time. Content theories are theories of motivation that focus on internal needs, drives, and incentives that cause people to behave in a certain manner. An endorsement is approval by a reputable external source. Governments develop monetary and fiscal regulations. Risk management software programs do not help businesses develop content theories, endorsement records, and fiscal policies.
 SOURCE: RM:042
@@ -2807,7 +2807,7 @@ SOURCE: Mcintosh, J. (2007, November 14). Plan for crisis at work: Risk assessme
 99. D
 Liability. Risk retention groups are liability insurance companies owned by their members, who are typically businesses, professionals, and municipalities that are unable to acquire liability insurance from traditional insurance companies. Types of liability insurance that risk retention groups typically offer include errors and omissions, medical malpractice, directors and officers, product liability, professional liability, etc. Risk retention groups are not legally permitted to offer life, homeowners, or health insurance in most countries.
 SOURCE: RM:043
-SOURCE: Captive Insurance Companies Association. (2011). What are risk retention groups? Retrieved August 17, 2012, from http:/Awww.cicaworld.com/Resources/RiskRetentionFAQ.
+SOURCE: Captive Insurance Companies Association. (2011). What are risk retention groups? Retrieved August 17, 2012, from http://wwww.cicaworld.com/Resources/RiskRetentionFAQ.
 100. D
 Loss reduction. Loss reduction is a form of risk control. Risk control methods are used to reduce or minimize loss. Loss reduction lessens the impact of a loss after it occurs. For instance, although the automatic sprinklers won't prevent a fire from starting, they will lessen the impact that the fire has on the company's buildings. Companies utilize loss avoidance when they choose not to take part in risky activity. Loss prevention focuses on stopping certain losses from occurring. Companies transfer risk by purchasing insurance and entering into contracts that transfer the risk to others.
 SOURCE: RM:058
@@ -4437,15 +4437,15 @@ SOURCE: Reh, F. (2016, June 16). Understanding the issue and implications of ins
 4. C
 Targets identifiable groups of people. Affinity fraud often takes the form of a Ponzi or pyramid scheme and involves targeting members who belong to the same group such as a church, senior citizen's social club, or civic organization. Because the scammer claims an association with the group and often lures group leaders or respected group members into investing in the scheme, other group members may believe that they can trust the scammer, which prompts them to hand over their money for "investment." The leaders or respected group members who fall prey to the scheme may provide testimonials to encourage investment. Group members who invest later in the scam often do not see any return on their investment. Affinity fraud does not primarily involve buying and selling commodities.
 SOURCE: BL:133
-SOURCE: North American Securities Administrators Association. (n.d.), Affinity fraud: Beware of swindlers who claim loyalty to your group. Retrieved December 6, 2016, from http:/Avww.nasaa.org/7 157/affinity-fraud-beware-of-swindlers-who-claim-loyalty-to-your- group/
+SOURCE: North American Securities Administrators Association. (n.d.), Affinity fraud: Beware of swindlers who claim loyalty to your group. Retrieved December 6, 2016, from http://www.nasaa.org/7 157/affinity-fraud-beware-of-swindlers-who-claim-loyalty-to-your- group/
 5. C
 Tax-deferred income. Certain types of investments or funds are not taxed until the money is being used, such as money in an individual retirement account (IRA) that retirees use for living expenses. Capital gains refers to the difference between the purchase price and selling price of an investment. For example, the capital gains on a house purchased for $250,000 and sold for $300,000 is $50,000. Dividends are subject to dual taxation—both the campany and the shareholder pay tax on stock earnings. Tax-exemption involves money that is not taxed, such as certain types of charitable donations.
 SOURCE: BL:134
-SOURCE: Investing Answers. (2016). Tax deferred. Retrieved December 6, 2016, from http:/Awww.investinganswers.com/financial-dictionary/tax-center/tax-deferred-2477
+SOURCE: Investing Answers. (2016). Tax deferred. Retrieved December 6, 2016, from http://wwww.investinganswers.com/financial-dictionary/tax-center/tax-deferred-2477
 6. A
 Corrective. Corrective controls are initiatives taken to fix a problem that has already been detected. Hiring a compliance officer to monitor financial processes is a corrective action because someone had already detected data inconsistencies. Preventative controls involve actions to keep something from happening before it occurs. Product controls are activities the business uses to manage the processes, quality, and quantity of goods and services. Conditional controls allow certain actions to occur within a specific set of circumstances.
 SOURCE: BL:148
-SOURCE: CFO Career Planning Tools. (2013, October 16). Manage risks with preventive, detective, and corrective controls. Retrieved December 6, 2016, from http:/Awww.cfocareer.com/manage-risks-preventive-detective-corrective-controls/
+SOURCE: CFO Career Planning Tools. (2013, October 16). Manage risks with preventive, detective, and corrective controls. Retrieved December 6, 2016, from http://wwww.cfocareer.com/manage-risks-preventive-detective-corrective-controls/
 7. B
 Detect compliance inconsistencies across different jurisdictions. Businesses use compliance software to aid them in detecting financial transaction problems. Because interstate and international commerce involves following different regulations in different locations, advanced compliance technologies can scan or audit the data to ensure their compliance with different jurisdictions’ regulations and rules. The purpose of compliance software is not to evaluate a competitor's compliance, correct human-resource problems, or improve product quality and satisfaction levels.
 SOURCE: BL:149
@@ -4453,7 +4453,7 @@ SOURCE: Capterra. (2016). Top compliance software products. Retrieved December 6
 8. A
 Completing steps in the order written. It's important to complete steps in the order written when you are following written directions. You should read directions when you can focus on them, not when you are distracted. You should follow directions in the correct order, not in any order you choose. Read every step of the written instructions before completing the first step.
 SOURCE: CO:056
-SOURCE: eHow. (1999-2016). How fo follow written instructions. Retrieved December 6, 2016, from http://Awww.ehow.com/how_2251998_follow-written-instructions.html
+SOURCE: eHow. (1999-2016). How fo follow written instructions. Retrieved December 6, 2016, from http:///wwww.ehow.com/how_2251998_follow-written-instructions.html
 9. C
 Encouraging the speaker. In many cultures, a standing ovation is the ultimate show of support for a speaker. It indicates the audience's respect for the speaker, and its desire to hear what the speaker has to say. Because cheering provides positive feedback, the audience was not mocking or insulting the speaker. Some cultures might view the audience's behavior as unruly or disrespectful; however, this situation involves a school event, rather than a business event, so the audience isn't exhibiting unprofessional behavior. Because Jacob has not started speaking, the audience is not actively listening to what he is saying.
 SOURCE: CO:082
@@ -4505,7 +4505,7 @@ SOURCE: Griffin, R.\W., & Moorhead, G. (2010). Organizational behavior: Managing
 21. D
 The supply of materials used in manufacturing a product has decreased. Businesses must be alert to changes occurring in their environments so that they can be proactive in making changes rather than being reactive once changes have taken place. A reduction in the supply of materials used in manufacturing the business's products indicates that the business will be paying higher prices for the materials, or the business should find substitute materials to replace those currently used. Stable demand and little employee turnover indicate stability and would not require changes. The business may or may not need to make adjustments if the number of their competitors decreases.
 SOURCE: EC:107
-SOURCE: Fields, J. (2011). Adapt or die: Selling into a falling market. Retrieved December 7, 2016, from http:/Awww.jonathanfields.com/blog/adapt-or-die-selling-into-a-falling-market/
+SOURCE: Fields, J. (2011). Adapt or die: Selling into a falling market. Retrieved December 7, 2016, from http://wwww.jonathanfields.com/blog/adapt-or-die-selling-into-a-falling-market/
 22. C
 Gain a competitive advantage over other businesses. Competition is affected in a variety of ways by productivity. A business must be highly productive in order to compete successfully. The business that can produce goods or services efficiently can sell them to consumers at more competitive prices. This gives the business a competitive advantage over other businesses in the marketplace. Helping to increase the standard of living and providing a wealth of goods and services from which to choose are effects that productivity has on workers and society. The health of a country's economy can be determined by measuring its productivity, but this is not an effect on business.
 SOURCE: EC:013
@@ -4569,7 +4569,7 @@ SOURCE: Credit.com. (1996-2016). Credit report basics. Retrieved December 7, 201
 37. A
 A deposit-taking institution's primary liabilities are checking accounts, savings accounts, money market accounts, and certificates of deposit. Deposit-taking institutions such as commercial banks are one type of financial institution. Deposit-taking institutions serve as financial intermediaries. Savers deposit their funds in depositary institutions, and then these deposit-taking institutions lend the funds to individuals and firms who need to borrow money. Checking accounts, savings accounts, money market accounts, and certificates of deposit are liabilities for deposit-taking institutions. Essentially, the funds deposited in these accounts are loans made to the institution by individuals, firms, and the government. When a saver deposits funds in a deposit-taking institution, s/ne receives a claim on his/her bank account, not the individual or firm who borrows those funds from the bank. The Small Business Administration and the Federal Housing Administration are examples of government and semigovernment financial institutions. Mutual savings banks and savings and loan associations are types of thrifts, not commercial banks.
 SOURCE: FI:336
-SOURCE: Szulezyk, K. (2016). A bank's balance sheet. Retrieved December 6, 2016, from https:/Awww.boundless.com/users/23341 6/textbooks/money-banking-and-international- finance/the-banking-business-10/the-banking-business-31/a-bank-s-balance-sheet-99- 15197/
+SOURCE: Szulezyk, K. (2016). A bank's balance sheet. Retrieved December 6, 2016, from https://wwww.boundless.com/users/23341 6/textbooks/money-banking-and-international- finance/the-banking-business-10/the-banking-business-31/a-bank-s-balance-sheet-99- 15197/
 38. C
 Eurobonds. Eurobonds are bonds sold in a foreign country in the currency of the issuing company. Frankfort and Sons, for example, is an American firm, so its Eurobonds will be denominated in American dollars. However, these bonds will be sold overseas, not in the United States. Yankee bonds are issued in the U.S. by a foreign company and denominated in American dollars. Interbonds are fictitious. Savings bonds are issued by the U.S. Department of the Treasury. They are nontransferable securities that can be cashed prior to their maturity date.
 SOURCE: FI:337
@@ -4621,7 +4621,7 @@ SOURCE: Jan, O. (2011-2013). Statement of changes in shareholders' equity. Retri
 50. A
 Differential cost. Differential cost is the difference between the costs of two alternatives. Differential cost would help Lauren see which furniture supplier is the best choice. Sunk cost, indirect cost, and imputed cost do not help as directly with determining between two choices.
 SOURCE: FI:658
-SOURCE: Accounting for Management. (2015). Differential, opportunity and sunk costs. Retrieved December 1, 2016, from http:/Avww.accountingformanagement.org/differential-opportunity- and-sunk-costs/
+SOURCE: Accounting for Management. (2015). Differential, opportunity and sunk costs. Retrieved December 1, 2016, from http://www.accountingformanagement.org/differential-opportunity- and-sunk-costs/
 51. B
 Perform marginal analysis. Marginal analysis helps businesses understand the additional benefits of an activity as compared to the costs of that activity. Adding a new salad might generate revenue, but it will also cost money. Marginal analysis can determine whether or not it is financially worthwhile. Sunk costs are not related to marginal analysis. Eliminating indirect costs is not feasible and would not necessarily help the owner in this situation. Labor costs might be one factor related to the owner's decision, but she needs more information to determine how much money she will make.
 SOURCE: FI:659
@@ -4645,11 +4645,11 @@ SOURCE: Investopedia. (2016). Activity cost driver. Retrieved December 7, 2016, 
 56. D
 A cost is not controlled by any department. If no departments in an organization can control a cost, it is acceptable to refrain from allocating it to any specific department. Whether a cost is fixed or variable does not determine whether or not it will be allocated. Refraining from allocating costs will not help if an organization is over budget. The amount of the cost does not necessarily determine whether or not it will be allocated.
 SOURCE: FI:663
-SOURCE: Bragg, S. (2016). What is cost allocation? Retrieved December 1, 2016, from http:/Avww.accountingtools.com/questions-and-answers/what-is-cost-allocation.html 
+SOURCE: Bragg, S. (2016). What is cost allocation? Retrieved December 1, 2016, from http://www.accountingtools.com/questions-and-answers/what-is-cost-allocation.html 
 57. C
 $2,060. The formula for calculating future value is Future Value = Present Value X (1 + Discount Rate). To determine how much your investment will be worth in a year, convert the annual rate to a decimal (3% = 0.03), and add one (1 + 0.03 = 1.03). Finally, multiply that sum by the original amount of your investment ($2,000 X 1.03 = $2,060).
 SOURCE: FI:238
-SOURCE: Carther, S. (2016, October 20), Understanding the time value of money. Retrieved December 1, 2016, from http://Awww.investopedia.com/articles/03/082703.asp 
+SOURCE: Carther, S. (2016, October 20), Understanding the time value of money. Retrieved December 1, 2016, from http:///wwww.investopedia.com/articles/03/082703.asp 
 58. B
 Customer service sending brochures about the company's loans to people who've just taken out loans with the company. Financial-information management systems tie financial transaction data with non- financial transaction data so that money is not wasted on promoting financial products to those who've just obtained the financial product. They encompass both processes and technologies to manage data about finances, internal operational information, and external market and competitive indicators. Use of a financial-information management system will not keep a company's computer from crashing, nor will it keep different versions of a database application from being incompatible. Mergers and acquisitions present a challenge to the finance industry in terms of financial-information management, however, its use will not eliminate mergers and acquisitions from happening.
 SOURCE: FM:002
@@ -4777,7 +4777,7 @@ SOURCE: Safetrac. (2016). Achieving good corporate governance. Retrieved Decembe
 89. A
 Management; stakeholders. Internal audits are performed for management within a company to analyze practices and examine risks. External audits are done by outside firms and are used by stakeholders such as investors, creditors, and lenders. External audits are generally not used by employees, management, or competitors. Internal audits are not used by stakeholders or creditors.
 SOURCE: PD:214
-SOURCE: Bragg, S. (2015, October 30). The difference between internal and external audits. Retrieved December 2, 2016, from http:/Awww.accountingtools.com/questions-and-answers/the-difference-between-internal-and-external-audits.html
+SOURCE: Bragg, S. (2015, October 30). The difference between internal and external audits. Retrieved December 2, 2016, from http://wwww.accountingtools.com/questions-and-answers/the-difference-between-internal-and-external-audits.html
 90. D
 Provide an objective perspective. An organization's board of directors should include both inside and independent members. Inside members are high-level executives, shareholders, or stakeholders in the organization. Independent members are not involved with the organization. They provide an objective view, keep the board transparent, and help to balance out the power of the board. They do not represent the interests of management. They also do not necessarily understand the company's inner workings, at least not as well as inside members. Independent members are not necessarily any less likely to act unethically than inside members.
 SOURCE: PD:302
@@ -4797,7 +4797,7 @@ SOURCE: Hoban, S. (n.d.). Building business relationships. Retrieved December 7,
 94. A
 Withholding pertinent information from insurance underwriters. While withholding pertinent information from or misrepresenting information to insurance underwriters may help risk managers to obtain unfairly favorable premium rates from insurers in the short-term, doing so Is highly unethical and likely to cause problems in the long-term, such as when the company attempts to renew the policy. However, securing fair, favorable premium rates from insurers through ethical, honest actions is acceptable. Companies are typically required to pay a share of the loss exposures pooled through insurance. Embezzling from the organization is unethical, but reporting that someone within the company is embezzling is good, ethical risk management.
 SOURCE: RM:041
-SOURCE: Carton, B. (2011, October 20). The role of compliance and ethics in risk management. Retrieved December 7, 2016, from https:/Awww.complianceweek.com/blogs/enforcement- action/the-role-of-compliance-and-ethics-in-risk-management#.WEgj7_krKUk
+SOURCE: Carton, B. (2011, October 20). The role of compliance and ethics in risk management. Retrieved December 7, 2016, from https://wwww.complianceweek.com/blogs/enforcement- action/the-role-of-compliance-and-ethics-in-risk-management#.WEgj7_krKUk
 95. D
 Identify and prioritize their primary business risks. Risk-matrix software applications help businesses evaluate different categories of risk such as information security, investments, development costs, etc. The purpose of the risk-matrix software application is not to organize financial data in secure locations or determine the amount of their insurance premiums. Risk-matrix software applications do not eliminate external risks such as identity theft.
 SOURCE: RM:042

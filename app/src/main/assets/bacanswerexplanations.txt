@@ -153,7 +153,7 @@ Consult a mentor. Sometimes, employees may find themselves facing a situation at
 SOURCE: EI:004
 SOURCE: EI LAP 4—Work Right (Ethical Work Habits)
 39. D
-It keeps you from taking yourself too seriously. Having a sense of humor helps you maintain a positive attitude because it keeps you from taking yourself too seriously. Being able to laugh at yourself and at annoying things that happen is very good for your positive attitude. It helps you to keep things in perspective. Havi ng a sense of humor does not have anything to do with hanging out with positive people, staying healthy, or giving your appearance the attention it deserves.
+It keeps you from taking yourself too seriously. Having a sense of humor helps you maintain a positive attitude because it keeps you from taking yourself too seriously. Being able to laugh at yourself and at annoying things that happen is very good for your positive attitude. It helps you to keep things in perspective. Having a sense of humor does not have anything to do with hanging out with positive people, staying healthy, or giving your appearance the attention it deserves.
 SOURCE: EI:019
 SOURCE: EI LAP 3—Opt For Optimism (Positive Attitude)
 40. B
@@ -469,7 +469,7 @@ SOURCE: Daft, R.L., & Marcic, D. (2001). Understanding management (3rd ed.) [pp.
 17. C
 Write down the idea. After the meeting, ask her manager if it can be added to the agenda of a future staff meeting. Participants in a staff meeting should stick to the agenda. Since Megan's idea is new, it needs to be saved for another discussion. Speaking up during this meeting, passing notes, or whispering will all be distracting and force the staff off task during the meeting.
 SOURCE: CO:063
-SOURCE: Lesikar, R.V., & Flatley, M.E. (2005). Basic business communication: Skills for empoweringthe Internet generation (10th ed.) [pp. 416-417]. Boston: McGraw-Hill/Irwin.
+SOURCE: Lesikar, R.V., & Flatley, M.E. (2005). Basic business communication: Skills for empowering the Internet generation (10th ed.) [pp. 416-417]. Boston: McGraw-Hill/Irwin.
 18. B
 Yes, employees should be well informed and able to help customers. One good way to have a customerservice mindset is to be well informed about all aspects of a business. Although it is good to call a customer by his/her name, if known, this is not always possible. Employees often have brief conversations with customers. They should pay attention to customers regardless of how busy they are.
 SOURCE: CR:004
@@ -729,7 +729,7 @@ SOURCE: Clark, B., Sobel, J., & Basteri, C.G. (2010). Marketing dynamics: Teache
 82. D
 Horseplay. Horseplay is behavior such as running, jumping, wrestling, or showing off. Carl was more interested in showing off than in doing his job safely. This type of incident would be included in an employee's performance evaluation. Stress is a mental or emotional feeling of pressure or tension. Fatigue is a state of mental or physical tiredness. Strain is an injury to muscles or tendons caused by stretching or overexerting.
 SOURCE: OP:007
-SOURCE: Kilbourne, C. (2009, March 31). 4 keys to preventing workplace horseplay. Retrieved August 18, 2010, from http://safetydailyadvisor.blr.com/archive/2009/03/31/training_horseplay_prevention_safety_re sponsibilities.aspx
+SOURCE: Kilbourne, C. (2009, March 31). 4 keys to preventing workplace horseplay. Retrieved August 18, 2010, from http://safetydailyadvisor.blr.com/archive/2009/03/31/training_horseplay_prevention_safety_responsibilities.aspx
 83. D
 Know the proper way to respond. Businesses should have established guidelines for employees to follow if accidents occur. And, employees should learn their employer's procedures for handling accidents so they can respond appropriately if an accident occurs. Not all employees are expected to have formal medical training. The Good Samaritan Law is in effect in most states to protect individuals from liability when they administer accepted first-aid techniques. Employees need to know whether they are covered by such a law. Understanding the accident report form is only part of the procedure.
 SOURCE: OP:009
@@ -861,7 +861,7 @@ Proofread the message for spelling and grammatical errors. Although many people 
 SOURCE: CO:090
 SOURCE: Bovee, C L , & Thill, J V (2008). Business communication today (9th ed.) [pp. 184-185]. Upper Saddle River, NJ: Pearson Prentice Hall.
 15. D
-In the order of importance. Informational messages often contain a variety of information that has different levels of importance. When writing the message, it is important to present the information 1n the order of importance. Depending on the message, the information might be arranged in order of its importance to the reader. For example, it is more important to readers to learn that they will receive discounts on certain purchases than to learn that the bill will be mailed on a different date. Information should be presented in a specific manner so readers will clearly understand. Information should be explained thoroughly, wh1ch may not be the shortest way possible. Presenting information in a conversational way IS not always the most effective because a conversational tone is casual and may not present all the 1mportant information.
+In the order of importance. Informational messages often contain a variety of information that has different levels of importance. When writing the message, it is important to present the information 1n the order of importance. Depending on the message, the information might be arranged in order of its importance to the reader. For example, it is more important to readers to learn that they will receive discounts on certain purchases than to learn that the bill will be mailed on a different date. Information should be presented in a specific manner so readers will clearly understand. Information should be explained thoroughly, wh1ch may not be the shortest way possible. Presenting information in a conversational way IS not always the most effective because a conversational tone is casual and may not present all the important information.
 SOURCE: CO:039
 SOURCE: Locker, K.O. (2006). Business and administrative communication (7'h ed.) [PP 152-153]. New York McGraw-Hill.
 16. A
@@ -1075,11 +1075,11 @@ SOURCE: MK LAP 4—Have It Your WayI (Nature of Marketing)
 68. A
 "Home foreclosures"; Arkansas; years: 2000 OR 2010. When quotes are put around phrases, search engines will select only those websites containing the exact phrase. By putting Arkansas within the quotes, you would delete results that had Arkansas appearing after the phrase home foreclosures. Adding the year's designation before 2000 OR 2010, lets the computer know that you are not searching for footage, phone numbers, etc. By using OR rather than AND, the results will contain one or the other years; they would not need to contain both years for the websites to appear in the results.
 SOURCE: NF:078
-SOURCE: Google.com: (2011). Google search basics: More search help. Retrieved July 7, 2011, from http:Ilwww.google.com/support/websearch/bin/static.py?page=guide.cs&guide=1221265&answer=136861
+SOURCE: Google.com: (2011). Google search basics: More search help. Retrieved July 7, 2011, from http://www.google.com/support/websearch/bin/static.py?page=guide.cs&guide=1221265&answer=136861
 69. C
 A government agency. A government agency, such as the Bureau of Labor Statistics, should contain unbiased, accurate information. A term paper and a personal blog would probably be biased based on the writer's viewpoint. Although Wikipedia is an open SOURCE: of information that is constantly updated, you might have received wiki information when It was inaccurate.
 SOURCE: NF:079
-SOURCE: Claudia Chan, C., Leung, J., & Miu, S. (2008). Reliable websites: How to sort out the trustworthy sites and the dishonest ones. Retrieved September 21, 2009, from http:1lwww.slideshare.netlguest4041d/reliable-websites-presentation
+SOURCE: Claudia Chan, C., Leung, J., & Miu, S. (2008). Reliable websites: How to sort out the trustworthy sites and the dishonest ones. Retrieved September 21, 2009, from http://www.slideshare.netlguest4041d/reliable-websites-presentation
 70. D
 Value. Money is the most common medium of exchange in society. People exchange money for goods and services that they want The price, or the amount of money a person is willing to pay for the product, communicates the product's value or worth. Income is money reSOURCE: owners receive for supplying goods and services. Market is a customer or potential customer who has an unfulfilled desire and is financially able and willing to satisfy that desire. Attributes are a product's characteristics.
 SOURCE: Fl:060
@@ -1149,7 +1149,7 @@ Bid analysis. Businesses compare the prices offered by different vendors for the
 SOURCE: OP:015
 SOURCE: OP LAP 2—Buy Right (Purchasing)
 87. A
-Make them competitive with similar products. Updating or altering an existing product is a good way to compete effectively with similar products produced by other companies. Changing products is usually much less expensive than creating new products. Updated or altered products are not new products but new versions of old products. Changing products does not help the business to plan quantities smce it does not know how well the revised product will selL Being able to use a known production process would not be a valid reason for updating or altering products.
+Make them competitive with similar products. Updating or altering an existing product is a good way to compete effectively with similar products produced by other companies. Changing products is usually much less expensive than creating new products. Updated or altered products are not new products but new versions of old products. Changing products does not help the business to plan quantities since it does not know how well the revised product will selL Being able to use a known production process would not be a valid reason for updating or altering products.
 SOURCE: OP:017
 SOURCE: OP LAP 4—Can You Make It? (Nature of Production)
 88. C
@@ -1909,7 +1909,7 @@ Coca-Cola AND current market share AND cola AND United States. Search engines ne
 SOURCE: NF:006
 SOURCE: Google. (2012). Google search basics: More search help. Retrieved August 2, 2012, from http://www.google.com/support/websearch/bin/answer.py?hl=en&answer=136861
 76. A
-Use the edit undo command. The edit undo command allows the computer user to undo a pre ious action, such as deleting text by mistake. Although it is possible to retype the paragraph or to copy the text from another document that contains the text, these actions are not as quick and easy as using the edit undo command. A template is a standard format that helps users develop documents.
+Use the edit undo command. The edit undo command allows the computer user to undo a precious action, such as deleting text by mistake. Although it is possible to retype the paragraph or to copy the text from another document that contains the text, these actions are not as quick and easy as using the edit undo command. A template is a standard format that helps users develop documents.
 SOURCE: NF:007
 SOURCE: Lamers, D. (2009). Chapter 8—Essential stuff: Undo. Retrieved August 2, 2012, from http://www.computersforretirees.com/chapter8.html
 77. D
@@ -2203,7 +2203,7 @@ Good visions have permanent results. A vision is a desire for the future that is
 SOURCE: EI:063
 SOURCE: QS LAP 11 Picture This!
 49. C
-Flexibility. Flexibility is a coaching characteristic that means you can accept change. If something isn't working, you adapt. Enthusiasm means that you help your coachee to be excited about the work s/he is doing. Approachability means that you have the type of attitude and demenaor that says, "You can always talk to me. I'm here to help." Dependability means being the type of person others can count on.
+Flexibility. Flexibility is a coaching characteristic that means you can accept change. If something isn't working, you adapt. Enthusiasm means that you help your coachee to be excited about the work s/he is doing. Approachability means that you have the type of attitude and demeanor that says, "You can always talk to me. I'm here to help." Dependability means being the type of person others can count on.
 SOURCE: EI:041
 SOURCE: QS LAP 7 Bring Out the Best
 50. D
@@ -2433,7 +2433,7 @@ Smiling. A smile conveys a positive message and reinforces good news. Poor postu
 SOURCE: CO:059
 SOURCE: Lesikar, R.V., & Flatley, M.E. (2005). Basic business communication: Skills for empowering the Internet generation (10th ed.) [pp. 425-427]. Boston: McGraw-Hill/Irwin.
 6. D
-Socializing with close friends. Casual communication is generally used with family and friends and may include the use of slang. Slang is informal language mutually understood within a group. For example, you gmight refer to your friends as your "buds" (buddies) when speaking with your family. However, people outside your family and circle of friends may not understand what "bud" means. They might associate the word "bud" with a rose (bud) or a leaf (bud). Formal communication is appropriate when meeting with a new customer, when interviewing for a job, or when you are being introduced to a new coworker. Formal communication involves using proper grammar and a respectful tone.
+Socializing with close friends. Casual communication is generally used with family and friends and may include the use of slang. Slang is informal language mutually understood within a group. For example, you might refer to your friends as your "buds" (buddies) when speaking with your family. However, people outside your family and circle of friends may not understand what "bud" means. They might associate the word "bud" with a rose (bud) or a leaf (bud). Formal communication is appropriate when meeting with a new customer, when interviewing for a job, or when you are being introduced to a new coworker. Formal communication involves using proper grammar and a respectful tone.
 SOURCE: CO:084
 SOURCE: Miculka, J. (2007). Speaking for success (2nd ed.) [pp. 39-40]. Mason, OH: Thomson SouthWestern.
 7. B
@@ -2521,7 +2521,7 @@ More wheat than corn. Because John can sell wheat at a higher price relative to 
 SOURCE: EC:006
 SOURCE: EC LAP 12 When More Is Less (Functions of Price)
 28. C
-The community. By giving money to the schools, Dow is directly benefitting the students and teachers, and indirectly benefitting the students' parents, potential employers, and other community members. Although the students and community members may also be consumers of Dow's products, they are not being benefitted through the use of those products. Dow Chemical's employees, although they may be community members, are not being benefitted through their work. The company is not being socially responsible to itself, although it may benefit from the good publicity its actions generate.
+The community. By giving money to the schools, Dow is directly benefiting the students and teachers, and indirectly benefitting the students' parents, potential employers, and other community members. Although the students and community members may also be consumers of Dow's products, they are not being benefited through the use of those products. Dow Chemical's employees, although they may be community members, are not being benefitted through their work. The company is not being socially responsible to itself, although it may benefit from the good publicity its actions generate.
 SOURCE: EC:070
 SOURCE: EC LAP 20 Business Connections (Business and Society)
 29. A
@@ -3477,7 +3477,7 @@ Presents financial information in a consistent format. Accounting standards (e.g
 SOURCE: FI:086
 SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 102, 106-107). South-Western Cengage Learning.
 66. A
-False; in companies without HR departments, other managers and supervisors participate in HR management activities. Human resources management is a function of business, as well as a department. In other words, bigger companies may have a great number of employees dedicated solely to managing human resources, but in small businesses wi ho an official HR depa men , hi important function still remains. And, even in big companies, human resources management is not contained solely within the HR department supervisors and managers across the organization also take some part in managing human resources, although their level of involvement varies from business to business. Smaller companies need HR management as much as bigger ones, and HR managers aren't the only ones who can complete these activities. Not all employees will participate in HR activities, however.
+False; in companies without HR departments, other managers and supervisors participate in HR management activities. Human resources management is a function of business, as well as a department. In other words, bigger companies may have a great number of employees dedicated solely to managing human resources, but in small businesses without an official HR department , this important function still remains. And, even in big companies, human resources management is not contained solely within the HR department supervisors and managers across the organization also take some part in managing human resources, although their level of involvement varies from business to business. Smaller companies need HR management as much as bigger ones, and HR managers aren't the only ones who can complete these activities. Not all employees will participate in HR activities, however.
 SOURCE: HR:410
 SOURCE: HR LAP 35 People Pusher (Nature of Human Resources Management)
 67. A
@@ -3945,7 +3945,7 @@ SOURCE: United States Department of Labor. (n.d.). About OSHA. Retrieved August 
 82. B
 Bomb threat. Emergency situations usually occur unexpectedly. Therefore, business employees should know how to handle and report them even if it is unlikely they will occur. An example of an emergency situation is a bomb threat. Although most businesses will never have a bomb threat, employees should know what to do to be prepared if it happens. Civil disorder usually involves widespread rioting. Not all employees handle checks or security issues such as identity theft in the workplace.
 SOURCE: OP:010
-SOURCE: NSW MSC Online. (n.d.). Follow emergency procedures. Retrieved August 28, 2015, from http://hsc.csu.edu.au/construction/other_units/compulsory/bcg1001a/3263/emergency_proce dures.htm
+SOURCE: NSW MSC Online. (n.d.). Follow emergency procedures. Retrieved August 28, 2015, from http://hsc.csu.edu.au/construction/other_units/compulsory/bcg1001a/3263/emergency_procedures.htm
 83. D
 Log out of his/her computer when leaving work. One way that an individual employee can help protect company information on a daily basis is to log out of his/her computer when leaving work for lunch or for the evening. By doing so, it becomes much more difficult for an intruder to access company information on that particular computer. However, if the employee also stores her/his log-in information (i.e., username and password) in a desk drawer at work, that very same intruder can easily access company data if s/he has time and opportunity to look in the drawers of the desk. Checking personal email on a work computer and transferring files from a home computer to a work computer are potentially dangerous. They make the computer vulnerable to hackers' attacks and electronic viruses which could result in the loss of company information.
 SOURCE: OP:153
@@ -4225,7 +4225,7 @@ Dividends. Unearned income is money obtained from non-employment related sources
 SOURCE: FI:061
 SOURCE: Tatum, M. & Harris, B. (2015, November 3). What is unearned income? Retrieved November 5, 2015, from http://www.wisegeek.com/what-is-unearned-income.htm
 52. A
-Revolving. A revolving credit account is a type of credit account which limits the total amount of money that may be borrowed and charges interest on outstanding balances. An installment credit account is a type of credit account set up to handle one total amount of credit that is to be paid off in regular installments. A regular credit account is a credit account which allows credit users to buy at any time during a set period, which is usually 30 days. This is also called an open account. A budget account is a form of short-term credit, usually set up for 60b or 90bday periods of time with a payment due every 30 days.
+Revolving. A revolving credit account is a type of credit account which limits the total amount of money that may be borrowed and charges interest on outstanding balances. An installment credit account is a type of credit account set up to handle one total amount of credit that is to be paid off in regular installments. A regular credit account is a credit account which allows credit users to buy at any time during a set period, which is usually 30 days. This is also called an open account. A budget account is a form of short-term credit, usually set up for 60- or 90-day periods of time with a payment due every 30 days.
 SOURCE: FI:002
 SOURCE: FI LAP 2—Give Credit Where Credit is Due (Credit and Its Importance)
 53. C
@@ -4269,7 +4269,7 @@ To know whether they have made a good investment. Individuals who have invested 
 SOURCE: FI:085
 SOURCE: FI LAP 5—Show Me the Money (Nature of Accounting)
 63. A
-Working capital management. A company's current balance of assets and liabilities falls under the focus of working capital management. Working capital management involves short-term decisions about cash flow. Return on capital is a component of working capital management that refers to how well a business is generating cash flow in relation to its invested capital. Capital investment decisions are made for the longbterm and do not relate to current assets and liabilities. The cash conversion cycle is a component of working capital management that refers to how long a business's money is tied up between purchasing raw materials and receiving cash from sales.
+Working capital management. A company's current balance of assets and liabilities falls under the focus of working capital management. Working capital management involves short-term decisions about cash flow. Return on capital is a component of working capital management that refers to how well a business is generating cash flow in relation to its invested capital. Capital investment decisions are made for the long-term and do not relate to current assets and liabilities. The cash conversion cycle is a component of working capital management that refers to how long a business's money is tied up between purchasing raw materials and receiving cash from sales.
 SOURCE: FI:354
 SOURCE: FI LAP 7—Money Matters (Role of Finance)
 64. B
@@ -4317,7 +4317,7 @@ The same criteria. The query is the mechanism used to obtain the desired informa
 SOURCE: NF:009
 SOURCE: Chapple, M. (2015). What is a database? Retrieved November 5, 2015, from http://databases.about.com/od/specificproducts/a/whatisadatabase.htm
 75. D
-Integrated software. Integrated software applications consist of two or more related computer programs that work together to record information or perform specific business tasks or functions. Accounting involves keeping and interpreting financial records. Because accounts payable, accounts receivable, and general ledger applications are related or interdependent accounting activities, the company should purchase an integrated accounting software package. Marketing intelligence involves obtaining and analyzing information about the target market. Engineers use engineering design software to develop various products and structures. Customer identification and preferences are often elements of customerb relationship management integrated software.
+Integrated software. Integrated software applications consist of two or more related computer programs that work together to record information or perform specific business tasks or functions. Accounting involves keeping and interpreting financial records. Because accounts payable, accounts receivable, and general ledger applications are related or interdependent accounting activities, the company should purchase an integrated accounting software package. Marketing intelligence involves obtaining and analyzing information about the target market. Engineers use engineering design software to develop various products and structures. Customer identification and preferences are often elements of customer-relationship management integrated software.
 SOURCE: NF:088
 SOURCE: Choon Kow, K. (2008, May 22). Integrated accounting software with SOURCE: code. Retrieved November 5, 2015, from http://ezinearticles.com/?Integrated-Accounting-Software-With-Source-Code&id=1194327
 76. C
@@ -4839,15 +4839,15 @@ SOURCE: Morgan, H. (2016). Why is following directions so important? Retrieved O
 4. C
 Maintaining eye contact. By maintaining eye contact, listeners are communicating to a speaker that they are paying attention. This supports and encourages a speaker because the listeners are indicating that they are focused on the message. If listeners do not maintain eye contact, a speaker might think that the listeners do not care about the message and stop talking. When listeners look around the room, close their eyes, or glance at the clock, they are telling the speaker that they are bored or not interested.
 SOURCE: CO:082
-SOURCE: SkillsYouNeed.com. (2011-2016). Active listening. Retrieved October 17, 2016, from http:/Avww.skillsyouneed.com/ips/active-listening.html
+SOURCE: SkillsYouNeed.com. (2011-2016). Active listening. Retrieved October 17, 2016, from http://www.skillsyouneed.com/ips/active-listening.html
 5. B
 Don't rush. When Millie skips ahead of the knitting directions in her book, she is rushing forward without all the information she needs to make the scarf. Reading and following directions is not a race. Taking your time and following the steps provided will ensure that you don't leave something out or do something incorrectly. This improves your chances of doing it right. In this situation, Millie is not ignoring the tips to know when to speak, accept responsibility, or note key words.
 SOURCE: CO:119
-SOURCE: Oswego City School District. (2001-2011). Understanding written directions. Retrieved October 17, 2016, from http:/Avww.studyzone.org/testprep/ela4/g/directionsl.cfm
+SOURCE: Oswego City School District. (2001-2011). Understanding written directions. Retrieved October 17, 2016, from http://www.studyzone.org/testprep/ela4/g/directionsl.cfm
 6. D
 Let the speaker know that the message has been received and understood. Active listening is primarily about understanding a speaker's meaning, not about communicating your agreement or voicing your own opinion. Active listening can help to make boring lectures more interesting, but that is not its purpose.
 SOURCE: CO:017
-SOURCE: SkillsYouNeed.com. (2011-2016). Active listening. Retrieved October 17, 2016, from http:/Avww.skillsyouneed.com/ips/active-listening.html Test 1149 BUSINESS ADMINISTRATION CORE EXAM—KEY 14
+SOURCE: SkillsYouNeed.com. (2011-2016). Active listening. Retrieved October 17, 2016, from http://www.skillsyouneed.com/ips/active-listening.html Test 1149 BUSINESS ADMINISTRATION CORE EXAM—KEY 14
 7. A
 What is your presentation about? Open-ended questions are those that require more than just a yes or no answer. If someone asked you what your presentation was about, it would require you to say more than just yes or no. But if someone asked you if you were ready for your presentation, if your presentation was finished, or if you needed a projector for your presentation, you would be able to answer with a simple yes or no. These questions are considered closed-response questions.
 SOURCE: CO:058
@@ -4855,11 +4855,11 @@ SOURCE: LoveToKnow, Corp. (1996-2016). Examples of open-ended and closed-ended q
 8. B
 Fidgeting can signal nervousness or impatience. A person typically fidgets when s/he is nervous, impatient, or bored. Crossed arms usually signal defensiveness, not friendliness and availability. Clenched fists often signal tension and anger, not intelligence and awareness. Eye contact by itself doesn't usually mean a person is angry or irritated. Sometimes eye contact can express interest, but other times it can be seen as intimidating. For this reason, it's important not to rely 100% on nonverbal cues when interpreting a person's message.
 SOURCE: CO:059
-SOURCE: Bradberry, T. (2016, May 18). 8 great tricks for reading people's body language. Retrieved October 18, 2016, from https:/Avww.entrepreneur.com/article/275309
+SOURCE: Bradberry, T. (2016, May 18). 8 great tricks for reading people's body language. Retrieved October 18, 2016, from https://www.entrepreneur.com/article/275309
 9. D
 Give directions in the proper order. It's much easier for your listeners to follow along if you give directions in the order in which they should be completed. Raising your voice isn't necessary when giving directions; in fact, it may intimidate your listeners. Your directions should not be challenging, even if the task itself is challenging. If you choose to demonstrate how to complete the directions, you should show how to do each step, not just the final ones.
 SOURCE: CO:083
-SOURCE: Magruder, K. (n.d.). Directions tips. Retrieved October 18, 2016, from http:/Avww2.okbu.edu/academics/natsci/ed/398/dir.htm.
+SOURCE: Magruder, K. (n.d.). Directions tips. Retrieved October 18, 2016, from http://www2.okbu.edu/academics/natsci/ed/398/dir.htm.
 10. D
 Others may have different opinions. When defending their ideas, employees should keep in mind that others might not agree with the ideas or may have different opinions. If this happens, employees need to remain objective and clearly explain their ideas and provide supporting information. Being calm and logical is often the best way to defend ideas to others who have different opinions. Managers usually ask questions because they want to clarify information and make sure they understand the ideas. Employees' objectively defending their ideas usually does not result in office conflict. If employees understand their ideas, it should not be difficult to explain the data.
 SOURCE: CO:061
@@ -4867,11 +4867,11 @@ SOURCE: Baldoni, J. (2010, April 22). Defend your idea without being defensive. 
 11. B
 Who knows the most. Interaction among the group members has a lot to do with the topic at hand—and who knows the most about it. The members want to know who knows the most about the subject. This may or may not be the oldest member of the group, the group member who asks questions, or the one who was in charge of the previous group.
 SOURCE: CO:053
-SOURCE: SkillsYouNeed.com. (2011-2016). Working in groups and teams. Retrieved October 18, 2016, from http:/Avww.skillsyouneed.com/ips/groups. html Test 1149 BUSINESS ADMINISTRATION CORE EXAM—KEY 15
+SOURCE: SkillsYouNeed.com. (2011-2016). Working in groups and teams. Retrieved October 18, 2016, from http://www.skillsyouneed.com/ips/groups. html Test 1149 BUSINESS ADMINISTRATION CORE EXAM—KEY 15
 12. C
 Mapping. Mapping is a visual method of note-taking that involves writing the main topic in a circle and writing supporting ideas on lines around the circle. The Cornell method involves taking notes in two columns. Outlining involves creating an outline, while charting involves organizing your notes in a chart based on the categories covered in the material.
 SOURCE: CO:085
-SOURCE: California Polytechnic State University. (2016). Note taking systems. Retrieved October 18, 2016, from http:/Avww.sas.calpoly.edu/asc/ssl/notetakingsystems. html
+SOURCE: California Polytechnic State University. (2016). Note taking systems. Retrieved October 18, 2016, from http://www.sas.calpoly.edu/asc/ssl/notetakingsystems. html
 13. A
 Scatter chart. A scatter chart is a visual aid that involves placing points on a graph to indicate relationships or patterns among two or more variables. A pie chart shows the parts of a whole. A timeline illustrates the sequential order or occurrence of events. Businesspeople typically use tables to present exact, individual values of data.
 SOURCE: CO:087
@@ -4879,11 +4879,11 @@ SOURCE: Google Developers. (2013, November 27). Scatter chart: Introduction. Ret
 14. C
 Accomplishes its intended purpose. Written communications serve many purposes, and a test of whether a written communication was effective is whether it accomplished the purpose for which it was intended. Written communications do not need to contain a lot of information in order to be considered effective. Effective written communication takes time and effort and is not usually quick and easy to prepare. It should also be clear and should not require the reader to interpret its meaning or be open to any interpretation that the reader wants to give it.
 SOURCE: CO:016
-SOURCE: MindTools. (2016). Writing skills. Retrieved October 18, 2016, from https:/Avww.mindtools.com/CommSkllMfritingSkills.htm
+SOURCE: MindTools. (2016). Writing skills. Retrieved October 18, 2016, from https://www.mindtools.com/CommSkllMfritingSkills.htm
 15. A
 Appropriate way to cite his resources. To provide consistency throughout written documents, certain businesses or industries often follow a specific writing style, such as Associated Press (AP) or Chicago Manual. Because each style manual varies and often follows different standards, a writer should check the appropriate style manual to ensure that s/he is formatting a reSOURCE: citation correctly. A computer- software manual, the computer-software "help" function, or a computer-software website provides information about setting up tables in documents. A dictionary or glossary provides formal definitions of words. A thesaurus provides synonyms for words.
 SOURCE: CO:089
-SOURCE: California State University, Los Angeles. (2015, September 14). Style manuals and writing guides. Retrieved October 18, 2016, from http:/Avww.calstatela.edu/library/styleman.htm
+SOURCE: California State University, Los Angeles. (2015, September 14). Style manuals and writing guides. Retrieved October 18, 2016, from http://www.calstatela.edu/library/styleman.htm
 16. D
 Inside address and signature. The elements of a business letter include the inside address and signature as well as the return address, dateline, salutation, body, closing, and reference initials. Company logo and letterhead, return envelope and postage, and brief summary and outline are not elements of a business letter.
 SOURCE: C0:133
@@ -4891,7 +4891,7 @@ SOURCE: Colorado State University. (1993-2016). Elements of a business letter. R
 17. D
 Memo. If Sophia needs to transmit a message to her staff that involves lots of numbers and figures but doesn't require much explanation, a memo is her best bet. This way each employee will have a record of the information to keep on file. A face-to-face meeting would be an inconvenient way to transmit the necessary information. Sophia would waste valuable time going over each figure, when employees could just as easily read the information themselves. A conference call and voicemails would also not be ideal. With either of those options, the employees wouldn't have the information in front of them. The numbers would also be confusing to explain over the phone. It's always important to choose the correct information channel. If Sophia chooses the wrong one, she could confuse her employees or distort the message.
 SOURCE: CO:092
-SOURCE: Fennell, Z. (1999-2013). The importance of communication channels in business. Retrieved October 18, 2016, from http:/Avww.ehow.com/about_6511827_importance-communication- channels-business. html
+SOURCE: Fennell, Z. (1999-2013). The importance of communication channels in business. Retrieved October 18, 2016, from http://www.ehow.com/about_6511827_importance-communication- channels-business. html
 18. D
 Avoiding wasted time and resources. Positive customer relations can boost productivity by avoiding wasted time and resources. If a business provides a positive customer experience the first time around, it won't have to worry about correcting as many mistakes or solving as many problems. Positive customer relations does not create new manufacturing processes or cut down on equipment costs. It does attract new customers, but this does not relate to productivity.
 SOURCE: CR:003
@@ -4903,7 +4903,7 @@ SOURCE: Gibson, P. (2012). The world of customer service (3rd ed.) [pp. 126, 128
 20. D
 What merchandise is carried by the business? In order to handle customer inquiries competently, employees should know the characteristics of the products carried by their businesses. Information pertaining to the times that a business is available to customers answers the question of what hours the business is open. Knowledge of financial instruments, other than cash, that the business accepts as payment for purchases answers the question of what type of credit the business offers. Information regarding established guidelines for the return or exchange of merchandise answers questions about the business's return policy.
 SOURCE: CR:006
-SOURCE: Fernandes, B. (2015, February 26). Product knowledge training. Retrieved October 18, 2016, from http:/Awww. infoprolearning.com/blog/product-knowledge-training/
+SOURCE: Fernandes, B. (2015, February 26). Product knowledge training. Retrieved October 18, 2016, from http://www. infoprolearning.com/blog/product-knowledge-training/
 21. C
 Impatient. Impatient customers want assistance immediately and have great difficulty waiting their turn. Dishonest customers are those who intentionally attempt to avoid paying part or all of the price for a good or service. Slow/Methodical customers require a lot of time to make a purchase because of shyness or difficulty in making a choice or buying decision. Suspicious customers question everything and may want facts and proof before being convinced something is true.
 SOURCE: CR:009
@@ -4911,7 +4911,7 @@ SOURCE: CRLAP 3—Making Mad Glad (Handling Difficult Customers)
 22. A
 Getting all the facts. Permit the customer to state the complaint without interruption. Restate the complaint to ensure that there are no misunderstandings on either side. Only then are you prepared to handle the problem. The person handling the complaint should not argue with the customer or try to control the situation by keeping the upper hand because these actions can create or fuel a heated situation. Company policy for handling complaints should be followed, not adjusted, since this ensures all customers will be treated in the same manner.
 SOURCE: CR:010
-SOURCE: SkillsYouNeed.com. (2011-2016). How to handle customer complaints. Retrieved October 18, 2016, from http:/Awww.skillsyouneed.com/rhubarb/dealing-with-complaints. html
+SOURCE: SkillsYouNeed.com. (2011-2016). How to handle customer complaints. Retrieved October 18, 2016, from http://www.skillsyouneed.com/rhubarb/dealing-with-complaints. html
 23. C
 Touch points. A brand promise is a company's agreement, spoken or unspoken, with customers that it will consistently meet their expectations and deliver on its brand characteristics and values. Touch points are all of the opportunities that a company has to connect with its customers and reinforce its brand value. Touch points may include the company's employees, product attributes and packaging, and technological systems. A company uses various touch points to create these experiences for its customers to fulfill its brand promise. By fulfilling its brand promise, the company is more likely to develop loyal customer relationships and repeat business. Companies cannot always control the publicity that they receive from external sources. A product-line extension occurs when the company adds a new product to the existing product line. Services are intangible touch points.
 SOURCE: CR:001
@@ -4951,7 +4951,7 @@ SOURCE: EC LAP 16—Regulate and Protect (Government and Business)
 32. A
 Age. Stereotyping does not consider the individual's unique skills, beliefs, and attitudes. Instead, stereotyping is a set image or assumption about a person or thing. Stereotyping tends to classify certain people in groups (e.g., gender, race, age) that possess certain characteristics. These characteristics are often based on unproven, false, or distorted beliefs and information. In the example, Rick is stereotyping older workers by assuming that they lack basic computer skills. This is a broad assumption that is not always true. In fact, many older workers are very computer savvy and willing to learn new technology. The example is not a stereotype based on gender, politics, or nationality.
 SOURCE: EI:017
-SOURCE: U.S. Equal Employment Opportunity Commission. (2016). Age discrimination. Retrieved October 18, 2016, from https:/Awww.eeoc.gov/laws/types/age.cfm
+SOURCE: U.S. Equal Employment Opportunity Commission. (2016). Age discrimination. Retrieved October 18, 2016, from https://www.eeoc.gov/laws/types/age.cfm
 33. C
 It may reveal characteristics about ourselves that we don't like. Assessing strengths and weaknesses is a difficult task because it may reveal characteristics about ourselves that we don''t like. It takes courage to evaluate yourself, acknowledge your strengths, and examine your flaws. Assessing strengths and weaknesses need not be a time-consuming process, although it should be an ongoing one. It is not unrealistic to try to discover all of one's strengths and weaknesses, nor is it impossible to be modest when listing one's strengths.
 SOURCE: EI:002
@@ -4959,7 +4959,7 @@ SOURCE: EI LAP 17—Assess for Success (Assessing Personal Strengths and Weaknes
 34. C
 Admit their mistakes. Self-confidence is a positive belief in your own talents, skills, and objectives. Self-confident people tend to exhibit certain characteristics, such as a positive attitude and a willingness to take risks, even if it means making and admitting to mistakes. These characteristics often inspire others' behaviors. Self-confident people are able to acknowledge their contributions to a work effort or cause and accept that they have weaknesses. Self-confident people do not limit their expectations.
 SOURCE: EI:023
-SOURCE: Mind Tools. (2016). Building self-confidence. Retrieved October 18, 2016, from http:/Avww.mindtools.com/selfconf.html
+SOURCE: Mind Tools. (2016). Building self-confidence. Retrieved October 18, 2016, from http://www.mindtools.com/selfconf.html
 35. D
 Sign up for a seminar that will teach her a new skill. People with initiative try to further their education and training. This involves actions like signing up for seminars. Waiting to take action, avoiding doing more than you're supposed to do, and leaving unpleasant job duties for coworkers are not actions that people with initiative take.
 SOURCE: EI:024
@@ -4971,11 +4971,11 @@ SOURCE: El LAP 21—Make the Honor Roll (Acting Responsibly)
 37. B
 Accepting the consequences for the decision he made. When you are willing to accept the consequences (good and bad) of your behavior, which is based on the decisions you make, you are taking responsibility for your actions. In the example, Tim admits that he made a mistake by not conducting computer backup activities, so he is accepting the responsibility for his behavior. When you blame others for your actions, you are not accepting responsibility for your behavior. Taking responsibility for your actions often involves admitting and learning from your mistakes and trying to do better in the future, rather than promising not to make any more mistakes. It does not always involve making informed decisions because some people make decisions without knowing all the facts, or they make impulsive decisions.
 SOURCE: EI:075
-SOURCE: Good Choices Good Life. (2016). Do you accept responsibility for your actions? Retrieved December 12, 2016, from http:/Awww.goodchoicesgoodlife.org/choices-for-young- people/accepting-responsibility-/
+SOURCE: Good Choices Good Life. (2016). Do you accept responsibility for your actions? Retrieved December 12, 2016, from http://www.goodchoicesgoodlife.org/choices-for-young- people/accepting-responsibility-/
 38. D
 No. Joe would have only 30 minutes to meet with the vendor before he needs to return to the office. Managing work commitments in a timely manner involves allowing enough time to complete the most important tasks first. Joe had commitments that he needs to keep from 10 a.m. to 12 p.m. and at 2:00 p.m. Because the vendor asked Joe to meet at a restaurant that was 30 minutes away from his office, he doesn't have enough time to meet with the vendor for one hour at 1:00 p.m. If the vendor is not available at an earlier time at a closer location, Joe must decline the luncheon invitation and schedule it at a time that is more convenient for both of them. It's not unusual for last-minute meetings to take place, if other commitments are not an issue. Therefore, the vendor was not being rude by asking Joe if he had time to meet. There is not enough information to determine if Joe had the authority to reschedule the training session. Moving the lunch reservation to 12:45 p.m. would not help because Joe would be 15 minutes late to his training session.
 SOURCE: EI:077
-SOURCE: Iskold, A. (2016). 7 tips for managing your schedule like a pro. Retrieved October 18, 2016, from https:/Avww.entrepreneur.com/article/243962
+SOURCE: Iskold, A. (2016). 7 tips for managing your schedule like a pro. Retrieved October 18, 2016, from https://www.entrepreneur.com/article/243962
 39. A
 Positive people are understanding and accepting of others. When Harry forgives his friend for hurting him and puts the incident behind him, he is displaying the positive characteristic of being understanding and accepting of others. He realizes that his friend is not perfect, that no one is. Positive people are also pleasant and smiling, interested and enthusiastic, and responsible. But Harry's behavior does not illustrate these qualities.
 SOURCE: EI:019
@@ -5031,11 +5031,11 @@ SOURCE: Myers, C. (2014). Advantages and disadvantages of the way customers pay 
 52. C
 Medium of exchange. A medium of exchange is something of value that can be used to obtain goods and services. The most common form is money. Money is what individuals, businesses, and governments use to buy what they need and pay expenses. Money is the thing of value. It is not a system of cash, a method of investment, or a process of accounting.
 SOURCE: FI:060
-SOURCE: CliffsNotes. (2016). Functions of money. Retrieved October 18, 2016, from https:/Avww.cliffsnotes.com/study-guides/economics/money-and-banking/functions-of-money
+SOURCE: CliffsNotes. (2016). Functions of money. Retrieved October 18, 2016, from https://www.cliffsnotes.com/study-guides/economics/money-and-banking/functions-of-money
 53. B
 Immediate gratification. Opportunity cost is the benefit that is lost when a person decides to use scarce resources for one purpose rather than another. When a person places $500 in the bank, the opportunity (benefit) is having money available for the future. The cost of placing money in the bank means that the person does not have the money to purchase a desired item. When a person purchases something that s/he doesn't need but really wants, the benefit to the person is immediate gratification or a sense of instant satisfaction that s/he has acquired the desired product. The opportunity cost (benefit lost) is not a higher discretionary income, lower salary or wages, or long-term dissatisfaction.
 SOURCE: FI:062
-SOURCE: Investopedia. (2016). Opportunity cost. Retrieved October 18, 2016, from http:/Avww.investopedia.com/terms/o/opportunitycost.asp
+SOURCE: Investopedia. (2016). Opportunity cost. Retrieved October 18, 2016, from http://www.investopedia.com/terms/o/opportunitycost.asp
 54. A
 Provides protection against financial losses. Insurance is designed to protect against financial losses, whether those losses are related to property, health, or even life. Insurance does not protect a person from unethical salespeople or guarantee a solid financial future. Insurance is available to property owners and non-owners alike.
 SOURCE: FI:064
@@ -5043,11 +5043,11 @@ SOURCE: Kapoor, J.R., Dlabay, L.R., & Hughes, R.J. (2009). Personal finance (9th
 55. C
 Salary. An individual's income is the SOURCE: of money that the person receives. A person earns income by working and collecting a salary from his/her employer. Other income sources include child support payments, alimony, interest, and profits from investments (e.g., rental properties). Insurance, clothing, and utilities are types of personal expenses.
 SOURCE: FI:066
-SOURCE: PersonalBudgeting.com. (n.d.). Budgeting 107. Retrieved October 18, 2016, from http:/Avww.personalbudgeting.com/tips/tips.html
+SOURCE: PersonalBudgeting.com. (n.d.). Budgeting 107. Retrieved October 18, 2016, from http://www.personalbudgeting.com/tips/tips.html
 56. B
 $125.00. Her net pay is what she actually receives after withholdings for federal, state and local income taxes and government programs. Her gross pay is $150.00, which is not the amount she will receive. $275.00 could be found by adding the gross pay to the net pay, but this number is meaningless. $25.00 could be found by subtracting her net pay from her gross pay, and would be the amount of her withholdings.
 SOURCE: FI:068
-SOURCE: Lazarony, L. (2013, September 19). Understanding your pay stub. Retrieved October 18, 2016, from http:/Avww.credit.com/credit_information/money_management/Understanding- your-Pay-Stub. jsp
+SOURCE: Lazarony, L. (2013, September 19). Understanding your pay stub. Retrieved October 18, 2016, from http://www.credit.com/credit_information/money_management/Understanding- your-Pay-Stub. jsp
 57. A
 The payee's name. The payee is the party to whom the check is made payable. That information, along with the date, check amount, and payer's signature, has to be filled out on checks. The payer can choose to record the purpose for which the check is being written. The check itself is imprinted with the name of the payer's bank, the payer's bank account number, the check number, and the bank's routing number. The payer's credit account number would only be needed if the payer wrote a check to his/her credit card company. The payee's bank name does not appear on a payer's check. The payer's credit score is irrelevant to check writing.
 SOURCE: FI:560
@@ -5055,23 +5055,23 @@ SOURCE: Pritchard, J. (2016, September 18). A visua/ example of how to write a c
 58. A
 Shows the parts of a business transaction. As a way to apply the double-entry accounting system when maintaining financial records, a T account shows the parts of a business transaction. It does not reveal motives, increase accuracy, or heighten awareness—though analysis of the parts of a business transaction may result in any of the three.
 SOURCE: FI:069
-SOURCE: Accounting Coach. (2016). What is a T-account? Retrieved October 18, 2016, from http:/Avww.accountingcoach.com/blog/t-account
+SOURCE: Accounting Coach. (2016). What is a T-account? Retrieved October 18, 2016, from http://www.accountingcoach.com/blog/t-account
 59. D
 Subtract fees and charges. To complete checkbook balancing, Matt needs to subtract fees and charges. Some financial institutions charge a monthly fee on bank accounts, especially those with less than a certain balance. They also have charges for new checks, bounced checks, etc. All of these charges must be subtracted from the balance in the check register to obtain an accurate monthly balance. Interest is added to, not subtracted from, the check register balance. Matt does not need to call the bank for a new statement just because the latest deposit is not on his current statement. He does need to subtract fees and charges and add any interest before he can consider everything done.
 SOURCE: FI:070
-SOURCE: Capital One. (2016). Balancing and budgeting—Balancing your checkbook. Retrieved October 18, 2016, from https:/Avww.capitalone.com/financial-education/money- basics/balancing-budget/balance-your-checkbook/
+SOURCE: Capital One. (2016). Balancing and budgeting—Balancing your checkbook. Retrieved October 18, 2016, from https://www.capitalone.com/financial-education/money- basics/balancing-budget/balance-your-checkbook/
 60. B
 Monitor your credit and bank accounts continuously. By reviewing your credit card statements and your bank accounts on a regular basis, you are more likely to detect credit purchases or bank withdrawals that you did not make. If unauthorized transactions have occurred, you can quickly close accounts to stop identity thieves from accessing your accounts. Other things you can do to protect yourself from identity theft is to use different passwords for each of your online accounts, and use secure websites when paying bills and shopping online. Not all online sites are secure. You should use the same caution with your debit card as you do with your credit accounts and other bank accounts.
 SOURCE: FI:073
-SOURCE: Federal Trade Commission. (n.d.). Consumer information: Identity theft. Retrieved October 18, 2016, from http:/Awww.consumer. ftc.gov/features/feature-001 4-identity-theft
+SOURCE: Federal Trade Commission. (n.d.). Consumer information: Identity theft. Retrieved October 18, 2016, from http://www.consumer. ftc.gov/features/feature-001 4-identity-theft
 61. B
 Deduct allowable expenses. Form 1040 is the longest version of the tax forms. However, there are benefits to using this form depending on an individual's situation. If an individual has a lot of allowable expenses that are deductible, the individual often can reduce the amount of tax that is owed. These deductions must total more than the standard deduction in order to save money on taxes. For example, if the standard deduction is $8,000 but the individual has allowable deductions of $12,000, it is to the individual's benefit to use Form 1040 to claim the higher deduction. Using Form 1040 does not speed up the refund process or enable individuals to estimate tax payments. Individuals use Form 1040 to itemize deductions rather than to claim the standard deduction.
 SOURCE: FI:074
-SOURCE: Investopedia. (2016). 1040 form. Retrieved October 18, 2016, from http:/Avww.investopedia.com/terms/1/1040.asp
+SOURCE: Investopedia. (2016). 1040 form. Retrieved October 18, 2016, from http://www.investopedia.com/terms/1/1040.asp
 62. A
 Full-service broker. Full-service brokers provide “one-stop shopping” for investors. They provide a wide variety of financial products and services. Full-service brokers are often desirable for people who require ongoing, comprehensive financial guidance and do not have the time to research investment options in detail. Discount brokers primarily provide the client with basic information about financial products and do not offer advice or conduct in-house research. A beneficiary is an individual or institution that receives specified benefits under certain circumstances such as money from a life-insurance policy upon the insured's death. Although insurance professionals may be employed by full-service brokerage firms, not all insurance agents have the expertise to provide comprehensive financial advice.
 SOURCE: FI:076
-SOURCE: CFP. (2016). How to choose a financial advisor. Retrieved October 18, 2016, from http:/Avww.letsmakeaplan.org/other-resources/selecting-an-advisor
+SOURCE: CFP. (2016). How to choose a financial advisor. Retrieved October 18, 2016, from http://www.letsmakeaplan.org/other-resources/selecting-an-advisor
 63. D
 For the potential of a high return, you usually accept a high risk. The statement, "For the potential of a high return, you usually accept a high risk," describes the relationship between risk and return. Higher risks usually bring higher returns. Lower risks usually bring lower returns. Every investment has some risk—none are risk-free. It would be unwise to take a high risk for something that might bring a low return. And, it is nearly impossible to find a high-return investment that requires only a low risk.
 SOURCE: FI:077
@@ -5095,7 +5095,7 @@ SOURCE: Chandel, T. (n.d.). Business analysis tools: Storyboards. Retrieved Octo
 68. B
 The information is available at all times from any computer. The advantage of storing records via web-based storage services is that the business can access the information at all times from any computer. Online storage service providers do not update another business's records on a daily basis nor do they automatically discard outdated records without permission. Web-based storage services can experience technical problems, which is a disadvantage of online record storage.
 SOURCE: NF:081
-SOURCE: Wang, J. (2011, December 7). How to store your financial documents. Retrieved October 18, 2016, from http:/Avww.businessinsider.com/how-to-store-financial-documents-201 1-12
+SOURCE: Wang, J. (2011, December 7). How to store your financial documents. Retrieved October 18, 2016, from http://www.businessinsider.com/how-to-store-financial-documents-201 1-12
 69. A
 Fire. Businesses should manage their information in ways that minimize risk. A natural risk is the possibility of loss resulting from natural causes such as floods, tornadoes, earthquakes, fire, etc. To minimize losses due to natural causes, businesses should keep hard copies or digital backups of crucial business records in a different location. A tax audit is an example of a financial risk. Failing to upgrade or keep up with new technical products is a technological risk. Businesses often have confidential information (e.g., customer credit card information, business trade secrets), which should be secured to prevent risks associated with the invasion of privacy.
 SOURCE: NF:110
@@ -5103,7 +5103,7 @@ SOURCE: NF LAP 110—In the Know (Nature of Information Management)
 70. D
 Windows. Microsoft Windows is one of the most popular operating systems. The operating system manages the hardware and software and makes the computer work. The system connects the software to the hardware and controls the overall operation of the computer. Excel, Oracle, and Adobe are software programs rather than operating systems.
 SOURCE: NF:085
-SOURCE: Goodwill Community Foundation. (1998-2016). What is an operating system? Retrieved October 18, 2016, from http:/Avww.gcflearnfree.org/computerbasics/2
+SOURCE: Goodwill Community Foundation. (1998-2016). What is an operating system? Retrieved October 18, 2016, from http://www.gcflearnfree.org/computerbasics/2
 71. B
 Wireless Fidelity. Wireless Fidelity (Wi-Fi) allows computer users to access the Internet through radio frequencies, which don't require a physical connection to power grids. Wireless Internet allows users the ability to access their email and various websites from their laptop computers or cellular telephones from different locations. Analog or dial-up Internet access involves using telephone lines that are connected to a modem. Broadband cable requires a cable modem to access the Internet. A portal is a popular starting point for surfing the Web (e.g., Yahoo).
 SOURCE: NF:086
@@ -5111,15 +5111,15 @@ SOURCE: Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2009). Marketing essential
 72. A
 Reply. The reply key allows the email recipient to write a response to the sender's message. The forward key allows the email user to send or forward a message that s/he received to another user. The email user clicks on the send key when s/he wants to transmit the message to the message receiver. The import key allows a user to bring documents, graphics, or programs into a computer program from another computer program.
 SOURCE: NF:004
-SOURCE: Goodwill Community Foundation, Inc. (1998-2016). Email basics. Retrieved October 18, 2016, from http:/Avww.gcflearnfree.org/email1 01 /introduction-to-email/1/
+SOURCE: Goodwill Community Foundation, Inc. (1998-2016). Email basics. Retrieved October 18, 2016, from http://www.gcflearnfree.org/email1 01 /introduction-to-email/1/
 73. B
 Time-management tool. Many employees keep track of their activities and organize their daily schedules by using an electronic planning device. This device is a time-management tool because it allows employees to plan their activities to be the most productive. Employees can enter information about future projects, deadlines, meetings, etc., and plan the best use of remaining time. An electronic planning device is not an example of a communication system, a web-based program, or a presentation application.
 SOURCE: NF:005
-SOURCE: O'Donovan, K. (2016). Top 75 time management apps and tools. Retrieved October 18, 2016, from http:/Avww lifehack.org/articles/technology/top-15-time-management-apps-and- tools.html
+SOURCE: O'Donovan, K. (2016). Top 75 time management apps and tools. Retrieved October 18, 2016, from http://www lifehack.org/articles/technology/top-15-time-management-apps-and- tools.html
 74. D
 Cut and paste. Businesspeople use word-processing software programs to create text documents such as business letters, memos, reports, etc. Word-processing software programs have many features and functions that allow the computer user to manipulate text. For example, the cut function allows the user to select a block of text and remove it from a certain location. By moving the curser to another location and selecting the paste function, the user can place the previously cut text into a different part of the document. This process eliminates the need to delete text and retype it in a different section of the document, which can be time consuming. The copy function copies the selected text but does not remove it from its existing location. If the text is not copied before it is deleted, then it would not be possible to move the text to a new location in the document.
 SOURCE: NF:007
-SOURCE: Goodwill Community Foundation, Inc. (2016). Copying and moving text. Retrieved October 18, 2016, from http:/Awww.gcflearnfree.org/word201 3/text-basics/2/
+SOURCE: Goodwill Community Foundation, Inc. (2016). Copying and moving text. Retrieved October 18, 2016, from http://www.gcflearnfree.org/word201 3/text-basics/2/
 75. B
 To maintain customer lists. Database software programs are designed to sort, arrange, and locate a wide variety of information. Many businesses use database software to maintain customer lists that can be arranged alphabetically, by zip code, by date of last purchase, or by many other criteria. This type of software allows businesses to generate mailing lists of specific customers based on a variety of factors. Businesses use spreadsheet software to track operating expenses, desktop publishing programs to prepare annual reports, and graphics programs to design company stationery.
 SOURCE: NF:009
@@ -5127,7 +5127,7 @@ SOURCE: Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2009). Marketing essential
 76. A
 Audio conferencing. Audio conferencing is a communication method that allows several individuals to simultaneously hold a discussion by telephone. Although each person is in a different location, each person can speak and hear all of the conference participants. Switchboards and teleprompters are not business tools that allow several people to communicate simultaneously. Video cameras record data in a digital format.
 SOURCE: NF:011
-SOURCE: Thompson, A. (2015, March 13). 7 incredible benefits of audio conferencing for business. Retrieved October 18, 2016, from http:/Awww.techsling.com/201 5/03/7-incredible-benefits-of-audio-conferencing-for-business/
+SOURCE: Thompson, A. (2015, March 13). 7 incredible benefits of audio conferencing for business. Retrieved October 18, 2016, from http://www.techsling.com/201 5/03/7-incredible-benefits-of-audio-conferencing-for-business/
 77. B
 Both manufacturers and service businesses rely on scheduling. Even though service businesses don't produce tangible goods, they still rely on scheduling to deliver their services in an efficient, effective manner (example: the postal service). Scheduling for business is not the same as personal scheduling; instead, it establishes a timetable to be followed during the production process. Most businesses rely on scheduling. Scheduling has different timelines depending on the business and products/services produced.
 SOURCE: OP:189
@@ -5135,7 +5135,7 @@ SOURCE: OP LAP 189—Smooth Operations (Nature of Operations)
 78. D
 Inspect the building for hazards. Government agencies often require equipment and buildings to be inspected on a regular basis to ensure the employees’ and general public's safety. For example, fire departments inspect buildings to ensure that they have the required number of fire extinguishers. If a building has elevators, they are inspected to ensure that they are working properly. If the building or property is not up to code, the business may be required to pay a fine and take corrective action to ensure things are working properly to reduce the risk of hazards. Preventative maintenance helps reduce the risk of equipment failures. Typically, the business or a qualified contractor performs preventative maintenance. The business, rather than the government, installs security devices on the business's property to protect the business from theft.
 SOURCE: OP:004
-SOURCE: The City of Rochester, NY. (n.d.). Inspection and compliance services. Retrieved October 18, 2016, from http:/Awww.cityofrochester.gov/article.aspx ?id=8589939496
+SOURCE: The City of Rochester, NY. (n.d.). Inspection and compliance services. Retrieved October 18, 2016, from http://www.cityofrochester.gov/article.aspx ?id=8589939496
 79. B
 Insisting that businesses maintain safe, hazard-free workplaces. OSHA, a federal government agency, writes and enforces safety standards for all businesses. Under OSHA, both employers and employees have responsibilities to keep the work environment free of hazards. OSHA informs employers of the rules and safety practices that employees need to follow. Employees are responsible for reporting job-related injuries or illnesses to their supervisors, seeking medical attention as needed, and complying with their business's safety rules.
 SOURCE: OP:007
@@ -5143,19 +5143,19 @@ SOURCE: Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2012). Marketing essential
 80. D
 Sprain. A sprain is an injury to muscles or joints caused by twisting or tearing of the ligaments. An open wound involves a break in the skin, such as a paper cut. A strain is an injury to muscles or tendons caused by stretching or overexerting. A hernia is an injury in which part or all of a body organ breaks through surrounding tissue and protrudes.
 SOURCE: OP:009
-SOURCE: Copeland, J. (2016). Top 10 most common workplace injuries. Retrieved October 18, 2016, from http:/Awww.arbill.com/arbill-safety-blog/bid/202877/Top-10-Most-Common-Workplace- Injuries
+SOURCE: Copeland, J. (2016). Top 10 most common workplace injuries. Retrieved October 18, 2016, from http://www.arbill.com/arbill-safety-blog/bid/202877/Top-10-Most-Common-Workplace- Injuries
 81. C
 An emergency plan. Comprehensive emergency plans contain policies and procedures for many types of situations that the business might experience. The plan might address issues such as evacuation plans for fire, bomb threats, and weather-related incidents. The emergency plan might include policies for handling injuries, illnesses, and robberies. The business needs to ensure that employees know what to do in these situations by providing ongoing training.
 SOURCE: OP:010
-SOURCE: United States Department of Labor. (2016). Evacuation plans and procedures etool. Retrieved October 18, 2016, from https:/Avww.osha.gov/SLT C/etools/evacuation/expertsystem/default.htm
+SOURCE: United States Department of Labor. (2016). Evacuation plans and procedures etool. Retrieved October 18, 2016, from https://www.osha.gov/SLT C/etools/evacuation/expertsystem/default.htm
 82. B
 Checking the customer's signature. Employees should be trained to compare the signature that appears on the credit card with the customer's signature on the sales check. This is done to verify that the person making the credit purchase is the rightful owner of the credit card. The use of closed-circuit TV is a precautionary measure against shoplifting and employee theft. Credit card services are provided by a variety of financial institutions—not only credit unions. Verifying the customers’ bank account balances will protect a business from point-of-sale credit card fraud.
 SOURCE: OP:013
-SOURCE: Federal Trade Commission. (2016). Protecting against credit card fraud. Retrieved October 18, 2016, from https:/Avww.consumer.ftc. gov/articles/0216-protecting-against-credit-card- fraud
+SOURCE: Federal Trade Commission. (2016). Protecting against credit card fraud. Retrieved October 18, 2016, from https://www.consumer.ftc. gov/articles/0216-protecting-against-credit-card- fraud
 83. C
 Set the security alarm; locks the doors. Businesses install locks and security alarms to protect their facilities from theft and burglary. Depending on the business's procedures, the last employee to leave for the day should set the security alarm and lock the door. In some situations, the security alarm can be set with a remote device after the employee leaves the building and locks the doors. Turning off the lights and adjusting the thermostat will not protect the building from unlawful entry. Turning on a surveillance camera may deter and identify thieves and burglars, but this will not prevent them from entering the building.
 SOURCE: OP:152
-SOURCE: WikiHow. (2016). How to protect your business property against theft. Retrieved October 18, 2016, from http:/Avww.wikihow.com/Protect-Your-Business-Property-Against-Theft
+SOURCE: WikiHow. (2016). How to protect your business property against theft. Retrieved October 18, 2016, from http://www.wikihow.com/Protect-Your-Business-Property-Against-Theft
 84. C
 Purchasing. Purchasing activities of a company involve the planning and procedures necessary to obtain goods and services for use in the operation of the business or for resale. In this situation, Rick is not only finding the best deal for the company, but also planning the quantity and delivery of the pie containers for Sugar Sweets. Pricing is a marketing function that involves determining and adjusting prices to maximize return and meet customers’ perceptions of value. Distribution is a marketing function that involves moving, storing, locating, and/or transferring ownership of goods and services. Financing is a marketing function that involves understanding the financial concepts used in making business decisions.
 SOURCE: OP:015
@@ -5163,7 +5163,7 @@ SOURCE: OP LAP 2—Buy Right (Purchasing)
 85. B
 Inventory of supplies. All businesses need to maintain an inventory of supplies in order to produce goods and services for customers. Small businesses may only need office supplies while retailers also need supplies to wrap packages. Large manufacturing businesses need vast inventories of resources to produce products. Without an inventory of supplies, businesses will not be able to do even simple tasks. The result might be a loss of customers and a loss of income. Some businesses may need only one vendor rather than a list of vendors. Businesses do not need to maintain a schedule of accounts or copies of invoices to produce goods and services for customers.
 SOURCE: OP:031
-SOURCE: WikiHow. (2016). How to maintain inventory accuracy. Retrieved October 18, 2016, from http:/Avww. wikihow.com/Maintain-Inventory-Accuracy
+SOURCE: WikiHow. (2016). How to maintain inventory accuracy. Retrieved October 18, 2016, from http://www. wikihow.com/Maintain-Inventory-Accuracy
 86. B
 Production. Production is the process or activity of producing goods and services wanted by consumers. It takes raw materials and converts them into items people need or want to buy. Marketing is an organizational function and a set of processes for creating, communicating, and delivering value to customers and for managing customer relationships in ways that benefit the organization and its stakeholders. Distribution is responsible for moving, storing, locating, and/or transferring ownership of goods and services. Promotion communicates information about goods, services, images, and/or ideas to achieve a desired outcome.
 SOURCE: OP:017
@@ -5191,7 +5191,7 @@ SOURCE: Clark, B., Basteri, C.G., Gassen, C., & Walker, M. (2014). Marketing dyn
 92. B
 Interests. A person must consider many personal factors when deciding which career to pursue. Personality traits are an individual's unique qualities and behavior. A person's ability refers to his/her capacity to perform a certain task or function. Interests are those things that a person enjoys doing. When determining the career in which he will be most happy and successful, Joseph must consider all of these factors. For example, if Joseph is very introverted, doesn't play the piano well, and doesn't like classical music, he probably should not pursue a career as a concert pianist. A technique is a method or way of doing something. An expression is a representation of something. An opportunity is a situation in which favorable circumstances present themselves. Because opportunities change frequently, these are not primary factors that a person should consider when determining which career to pursue.
 SOURCE: PD:023
-SOURCE: Forbes. (2013, November 1). 9 questions that'll help you find your dream career. Retrieved October 18, 2016, from http:/Avww.forbes.com/sites/dailymuse/201 3/1 1/01/9-questions-thatll-help-you-find-your-dream-career/#348e562923bb 93. C 
+SOURCE: Forbes. (2013, November 1). 9 questions that'll help you find your dream career. Retrieved October 18, 2016, from http://www.forbes.com/sites/dailymuse/201 3/1 1/01/9-questions-thatll-help-you-find-your-dream-career/#348e562923bb 93. C 
 93. C
 Business information management. Business information management is a career area in management and administration, along with administrative services, general management, human reSOURCE: management, and operations management. Professional selling is a career area in marketing. Insurance and accounting are career areas in finance.
 SOURCE: PD:025
@@ -5203,7 +5203,7 @@ SOURCE: Bailey, L.J. (2007). Working (4th ed) [p. 35]. Mason, OH: South-Western 
 95. A
 Listen attentively. Listening attentively during an employment interview is very important because it allows the applicant to completely understand questions before answering. Listening attentively also tells the interviewer that the applicant is sincerely interested in the job and wants to learn as much as possible in order to respond appropriately. Answering quickly, talking constantly, and speaking loudly might indicate that the applicant is nervous or unprepared for the interview rather than sincerely interested in the job.
 SOURCE: PD:028
-SOURCE: Horan, R. (2015, August 20). The importance of active listening in interviews. Retrieved October 18, 2016, from https:/Avww.linkedin.com/pulse/importance-active-listening- interviews-ruaidhri-horan
+SOURCE: Horan, R. (2015, August 20). The importance of active listening in interviews. Retrieved October 18, 2016, from https://www.linkedin.com/pulse/importance-active-listening- interviews-ruaidhri-horan
 96. C
 He should list his family job and volunteer work. Listing the work he has done for his father and his volunteer work will show the interviewer that Manuel is accustomed to carrying out certain responsibilities. This is a better choice than leaving out a section on work experience. The kind of job the individual would like to have would be included in the objectives section of the résumé. It would not be necessary, or appropriate, to explain that he hasn't had a real job, as the interviewer will see that at a glance.
 SOURCE: PD:031
@@ -5211,11 +5211,11 @@ SOURCE: Smith, J. (2016). What do you put in the employment experience if you ha
 97. B
 Unpaid internships often lead to full-time paid positions. An internship is training in which schools and businesses cooperate to provide on-the-job practice for learners. In many situations, businesses offer hard-working interns full-time paid positions after they finish school. Some companies pay interns and some do not. Some, but not all, internship programs provide job rotation opportunities; therefore, job rotation is not always the most important aspect of an internship.
 SOURCE: PD:032
-SOURCE: Keppeler, T. (2016). What to expect from your internship. Retrieved October 18, 2016, from https:/Avww.experience.com/alumnus/article ?channel_id=internships&source_page=homeé&article_id=article_1126286322537
+SOURCE: Keppeler, T. (2016). What to expect from your internship. Retrieved October 18, 2016, from https://www.experience.com/alumnus/article ?channel_id=internships&source_page=homeé&article_id=article_1126286322537
 98. B
 Seniority. Seniority refers to the length of time an individual has been employed by a business. Those who have been employed the longest have the most seniority. When all other factors, such as ability and competence, are equal, businesses often promote on the basis of seniority. The feeling often is that a competent person who has been with the company for a long time is entitled to a promotion before a competent person who has less time on the job. It is illegal for businesses to promote employees based on their gender or age. Tenure is a status given to teachers after a certain amount of time that protects them from being dismissed.
 SOURCE: PD:034
-SOURCE: Heathfield, S. (2016, June 2). What seniority means at work. Retrieved October 18, 2016, from https:/Avww.thebalance.com/what-seniority-means-at-work-1919372
+SOURCE: Heathfield, S. (2016, June 2). What seniority means at work. Retrieved October 18, 2016, from https://www.thebalance.com/what-seniority-means-at-work-1919372
 99. C
 Maintain a consistent and fair work environment. A firm's rules of conduct outline its policies and expectations regarding employees’ behavior in the workplace. The purpose of the rules is to provide consistent behavior among employees, which facilitates a fair work environment. For example, suppose the business expects its employees to be at work by 8:00 a.m., and one employee consistently comes in late. If the late employee is not reprimanded for tardiness, it is not fair to the employees who are following the rules and being responsible. This can create more problems if the responsible employees who arrive on time must pick up the slack for the late employee. Rules of conduct do not ensure that employees are compensated in the same way, nor do the rules of conduct prevent conflict or reduce the need for professional development.
 SOURCE: PD:251
@@ -5641,7 +5641,7 @@ Read step one and then perform step one. Repeat this process in sequential order
 SOURCE: CO:056
 SOURCE: Classroom. (2017, March 31). How to follow written instructions. Retrieved September 20, 2018, from https://classroom.synonym.com/follow-written-instructions-2251998.html
 4. D
-Make comments such as es or I see occasionally. When someone talks to you, nod and make short comments such as es or I see occasionall . B doing so, ou signal that ou are listening to the speaker and hearing what s/he has to say. And, when you nod and make short comments, you show your support and encouragement for the speaker. It is very rude to interrupt the speaker to debate what s/he has said. It is not necessary to clap as the speaker makes each of her/his main points. Rather than not making any noise while the speaker is talking, you should limit yourself to short comments.
+Make comments such as es or I see occasionally. When someone talks to you, nod and make short comments such as "yes" or "I see" occasionally. By doing so, you signal that you are listening to the speaker and hearing what s/he has to say. And, when you nod and make short comments, you show your support and encouragement for the speaker. It is very rude to interrupt the speaker to debate what s/he has said. It is not necessary to clap as the speaker makes each of her/his main points. Rather than not making any noise while the speaker is talking, you should limit yourself to short comments.
 SOURCE: CO:082
 SOURCE: Grohol, J. (2018, April 12). Become a better listener: Active listening. Retrieved September 20, 2018, from https://psychcentral.com/lib/become-a-better-listener-active-listening/
 5. A
@@ -5713,7 +5713,7 @@ Touchpoints. A brand promise is a company's agreement, spoken or unspoken, with 
 SOURCE: CR:001
 SOURCE: Glatstein, S. (2018, February 9). Steps to building a strong brand. Retrieved September 20, 2018, from https://www.thebalancesmb.com/steps-to-brand-building-2948332
 22. D
-Money. Limited amounts of money force consumers to choose between products for sale and determine which products producers make based on effective allocation of resources. Market research is how producers find out what consumers want to bu . Economic votes is a term given to the purchasing choices consumers make. Price controls are artificial ceilings or floors set by governments or by common consent within the market to manipulate the market for consumer or producer benefit.
+Money. Limited amounts of money force consumers to choose between products for sale and determine which products producers make based on effective allocation of resources. Market research is how producers find out what consumers want to buy. Economic votes is a term given to the purchasing choices consumers make. Price controls are artificial ceilings or floors set by governments or by common consent within the market to manipulate the market for consumer or producer benefit.
 SOURCE: EC:002
 SOURCE: LAP-EC-010 Get the Goods on Goods and Services (Economic Goods and Services)
 23. B

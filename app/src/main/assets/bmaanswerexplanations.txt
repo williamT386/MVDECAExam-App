@@ -2529,7 +2529,7 @@ Maintaining your sense of humor. Being able to laugh at yourself and at annoying
 SOURCE: EI:019
 SOURCE: EI LAP 3 Opt for Optimism (Positive Attitude)
 30. A
-Your body language says as much, or more, than your words do. Body language is often called "silent language." However, your body language is not an indication of your educaiton. While it is not necessary to refrain from using body language as much as possible, you should consider what you are communicating through your body language. Your body language can have a significant impact on the people around you.
+Your body language says as much, or more, than your words do. Body language is often called "silent language." However, your body language is not an indication of your education. While it is not necessary to refrain from using body language as much as possible, you should consider what you are communicating through your body language. Your body language can have a significant impact on the people around you.
 SOURCE: EI:030
 SOURCE: EI LAP 12 Have a Heart (Showing Empathy for Others)
 31. C
@@ -3751,7 +3751,7 @@ A hostile work environment. Sexual harassment in the workplace includes any sexu
 SOURCE: EI:036
 SOURCE: EI LAP 36 Everyone's Worthy (Treating Others With Dignity and Respect)
 34. B
-A veterinarian invents and sells a device to prevent horse water troughs from freezing. Creating a product to solve a problem and selling that product is a good example of an entrepreneurial venture because a need has been identified and met; the product solves a problem for consumers, while the resulting sales benefit the veterinarian. A juice bar selling juice on location during special events expands its business but does not represent a new idea or problem solved. A pumpkin farm offering pumpkin carving and costume contests to create more interest is not creating something new or solving a problem. A cret el might be a new creative pastry, but there is no indication that it meets an identified consumer need.
+A veterinarian invents and sells a device to prevent horse water troughs from freezing. Creating a product to solve a problem and selling that product is a good example of an entrepreneurial venture because a need has been identified and met; the product solves a problem for consumers, while the resulting sales benefit the veterinarian. A juice bar selling juice on location during special events expands its business but does not represent a new idea or problem solved. A pumpkin farm offering pumpkin carving and costume contests to create more interest is not creating something new or solving a problem. A "cretzel" might be a new creative pastry, but there is no indication that it meets an identified consumer need.
 SOURCE: EN:039
 SOURCE: Hisrich, R., Peters, M., & Shepherd, D. (2010). Entrepreneurship (8th ed.) [pp. 6-7]. New York, NY: McGraw-Hill Irwin.
 35. A
@@ -3911,7 +3911,7 @@ Comparing data. Business analysis is the process of investigating and evaluating
 SOURCE: OP:327
 SOURCE: B2T Training. (2016). Essential skills for business analysis. Retrieved September 16, 2016, from http://www.b2ttraining.com/course/essential-skills-for-business-analysis//
 74. B
-Regulatory. Because the manufacturing company is required by local government to dispose of its waste safely, the company must design its waste disposal process to abide by the regulations. This is an example of regulatory factors affecting business process design. Human factors affecting process design include stress, employee morale, and fatigue. Technological factors that can affect process design include the cost of any equipment or hardware that is necessary for the process. The term natural factors is not usuall used to describe factors affecting process design.
+Regulatory. Because the manufacturing company is required by local government to dispose of its waste safely, the company must design its waste disposal process to abide by the regulations. This is an example of regulatory factors affecting business process design. Human factors affecting process design include stress, employee morale, and fatigue. Technological factors that can affect process design include the cost of any equipment or hardware that is necessary for the process. The term natural factors is not usually used to describe factors affecting process design.
 SOURCE: OP:475
 SOURCE: Taylor, H. (2016). Factors that affect process design. Retrieved September 19, 2016, from http://www.ehow.com/list_7444011_factors-affect-process-design.html
 75. D
@@ -4051,7 +4051,7 @@ SOURCE: Lucas Insurance Services. (2012, December 3). /mportance of following di
 8. D
 Outline. The outline format of note-taking involves organizing the content in levels. Under each heading or subheading, the note taker writes short descriptive phrases or key points that relate to the heading or subheading. The sentence method of note-taking involves writing each new thought, topic, or point on a separate line. A disadvantage to using the sentence method is that the content is not always connected to or organized in relation to a previous topic, point, or category of information. Mapping is a visual method of note-taking that involves writing the main topic in a shape (e.g., circle or rectangle) and writing supporting ideas around the shape. Shorthand is a note-taking method that involves the use of symbols and abbreviations to represent words.
 SOURCE: C0:085
-SOURCE: University of Redlands. (2015, June 18). Five notetaking methods. Retrieved November 16, 2016, from https:/Awww.rediands.edu/globalassets/depts/student-life/academic-success/skills-worksheets/1five_methods_of_notetaking_2015.pdf
+SOURCE: University of Redlands. (2015, June 18). Five notetaking methods. Retrieved November 16, 2016, from https://www.rediands.edu/globalassets/depts/student-life/academic-success/skills-worksheets/1five_methods_of_notetaking_2015.pdf
 9. D
 Memorandums. Memorandums are the main form of written communication within a business. Memorandums are informal letters or notes between a company's employees. Letters are the principal form of written communication between businesses. Telephone calls and staff meetings are not forms of written communication.
 SOURCE: CO:016
@@ -4059,7 +4059,7 @@ SOURCE: Web Guru. (2016). Business memos. Retrieved November 16, 2016, from http
 10. A
 Analytic. Informational messages communicate knowledge, facts, or data to the message receiver. Analytic messages specifically communicate information that the message sender or someone else has evaluated, compiled, or interpreted, which gives the message meaning. For example, if a manager writes a memo stating that a project is over budget and backs up the statement with numerical data and examples, the manager is providing evaluative (analytic) information. Explanatory messages simply state information in a neutral and objective way. The simplicity or complexity of an evaluative message depends on the message topic.
 SOURCE: CO:039
-SOURCE: Computer Business Research. (2016). Analytical information. Retrieved November 16, 2016, from http:/Avww.computerbusinessresearch.com/Hame/database/analytical-information
+SOURCE: Computer Business Research. (2016). Analytical information. Retrieved November 16, 2016, from http://www.computerbusinessresearch.com/Hame/database/analytical-information
 11. B
 Due diligence. An analytical report provides evaluative information about a problem, opportunity, or previous action. Merging with another company is a major change for a business; therefore, it is important to analyze the advantages, disadvantages, strengths, and weaknesses associated with the potential merger by summarizing information in an analytical report. Reports that address financial issues associated with a certain course of action, such as a merger, are called due diligence reports. A market analysis summarizes information about a segment of the population. Troubleshooting analyses provide guidance for solving problems with a product or process. A justification report provides information that supports or justifies a previous course of action.
 SOURCE: CO:185
@@ -4163,7 +4163,7 @@ SOURCE: FI LAP 3—Money Tracks (Nature of Budgets)
 36. C
 Cash from operations. Cash flow includes three components by which cash enters and leaves a company: cash from operations, investing, and financing. Cash from operations includes how much cash is generated from a company's products or services. Accounts receivable is included in this section. Net income is not the same as cash flow because it also includes sales made with credit.
 SOURCE: FI:541
-SOURCE: Heakal, R. (2016). What is a cash flow statement? Retrieved October 26, 2016, from http://www. investopedia.com/articles/04/033104.asp
+SOURCE: Heakal, R. (2016). What is a cash flow statement? Retrieved October 26, 2016, from http://www.investopedia.com/articles/04/033104.asp
 37. B
 Electronically processing information. Human resources management involves gathering and maintaining an enormous amount of information related to employees and their jobs. One way that the use of computer technology benefits human resources management is by electronically processing information. Computer systems are able to store vast amounts of information in databases, allow managers to access and update information when necessary, and organize information according to specific criteria. As a result, fewer employees are needed to process the information and the amount of paperwork is reduced, which saves money for the business. The use of computer technology does not reduce the need to interview candidates or analyze valuable feedback. Departmental managers delegate work and provide their subordinates with feedback.
 SOURCE: HR:412
@@ -4187,7 +4187,7 @@ SOURCE: Inc.com. (2009, December 1). How to protect your trade secrets. Retrieve
 42. C
 Critical incident interview. Companies collect knowledge for a variety of reasons. When workplace accidents occur, companies want to know how and why they happened, so they can take steps to prevent similar accidents in the future. Questioning employees who witnessed the accident is a good starting point for determining the cause of the accident. This questioning process is called a critical incident interview. The knowledge gathered from the interviews helps the company understand the circumstances or problems that led up to the accident. Brainstorming is a creative thinking technique. An employee performance review is a formal evaluation of an employee's work efforts.
 SOURCE: KM:005
-SOURCE: HR-Survey, LLC. (2016). Training and development: Critical incident interview guide. Retrieved November 16, 2016, from http:/Avww.hr- survey.com/Critical_Incident_Interview_Guide.htm
+SOURCE: HR-Survey, LLC. (2016). Training and development: Critical incident interview guide. Retrieved November 16, 2016, from http://www.hr- survey.com/Critical_Incident_Interview_Guide.htm
 43. B
 A car. Product type affects a customer's buying behavior. Customers who exhibit complex buying behavior are highly involved in the purchase because the product tends to be more expensive and risky. When the purchase is a form of self-expression, it affects the customer's status or image, and brand is an important factor. Because cars are expensive and vary in dependability and style, customers tend to spend more time evaluating their options before buying. Meals, socks, and gasoline are routine purchases, so customers tend to exhibit habitual buying behavior rather than complex buying behavior when purchasing these items.
 SOURCE: MK:014
@@ -4199,19 +4199,19 @@ SOURCE: Bovie, C.L., & Thill, J.V. (2008). Business communication today (9th ed.
 45. B
 Bob's new employer asks him to share confidential information about product-development processes that his previous employer uses. In many situations, employers require employees to sign a nondisclosure agreement, which is a promise to maintain the confidentiality of the business's trade secrets. Bob's new employer is asking him to break the promise that he made to his previous employer and share the information, which presents an ethical dilemma for Bob. Mailing a product catalag and price list to a customer, discussing work plans with coworkers, and providing a customer with accurate information about a company's privacy policy are ethical actions.
 SOURCE: NF:111
-SOURCE: Rocket Lawyer. (2016). NDA 101: What is a non-disclosure agreement? Retrieved November 16, 2016, fram https:/Avww.rocketlawyer.com/article/nda-1 01:-what-is-a-non- disclosure-agreement.rl
+SOURCE: Rocket Lawyer. (2016). NDA 101: What is a non-disclosure agreement? Retrieved November 16, 2016, from https://www.rocketlawyer.com/article/nda-1 01:-what-is-a-non- disclosure-agreement.rl
 46. C
 “how to make good decisions as a team" "les mckeown". When searching for something very specific, the goal is to have the search field retrieve the fewest results possible. When the search engine retrieves fewer results, the researcher can often avoid reading through a lot of material to get the desired information. Placing quotation marks (rather than parentheses) around the exact article title, as well as the author's name, narrows the results that the search mechanism retrieves. Placing OR between the phrase and the author's name increases the number of results retrieved because the search engine looks for the article title and the author's name as individual queries as well as a combined query. Additionally, the search should contain the author's full name to narrow the results. Placing a minus sign before a search term removes the term from the search, which increases the search results because all articles containing the key words written by other authors are likely to show up in the results.
 SOURCE: NF:006
-SOURCE: Google. (2016). All tips & tricks. Retrieved November 16, 2016, from https:/www.google.com/inti/en_u/insidesearch/tipstricks/all.htmi
+SOURCE: Google. (2016). All tips & tricks. Retrieved November 16, 2016, from https:/www.google.com/inti/en_u/insidesearch/tipstricks/all.html
 47. C
 Integrated software. Integrated software applications consist of two or more related computer programs that work together to record information or perform specific business tasks or functions. Some integrated software packages are customized to perform interrelated activities for a specific business or industry. Because business functions are interrelated, employees must often have access to the same data, which integrated software enables them to do. This, in turn, increases the employees’ productivity, and the company's overall efficiency. Design applications enable computer users to develop artistic documents (e.g., advertising layouts) or three-dimensional models or drawings for product development. Businesses use global positioning systems (GPS) for navigation and tracking purposes. Digital forensics involves investigating activities and recovering data that are related to computer crimes.
 SOURCE: NF:088
-SOURCE: NetSuite. (2016). Benefits of an integrated business software system. Retrieved November 16, 2016, from hitp://Awww.netsuite.com/portal/resource/articles/software-system.shtml
+SOURCE: NetSuite. (2016). Benefits of an integrated business software system. Retrieved November 16, 2016, from http://www.netsuite.com/portal/resource/articles/software-system.shtml
 48. D
 Vendor technical support. Comprehensive project-management software can help the project manager allocate resources—human, financial, material, capital—in the most efficient ways. When selecting software for complex, large-scale projects, it is important to consider the type of service support that the software distributor is willing to provide. If problems occur, project managers and team members may need to contact a technical support person to answer questions or to help solve technical problems. Team members who have experience with different types of project-management software may offer opinions, but the type of project, available resources, and constraints are likely to have a greater impact on the project manager's selection decision. Legal business structure and budgeting methods are not major considerations when selecting project-management software.
 SOURCE: NF:130
-SOURCE: Auza, J. (2010, April 14). Free and open source project management software. Retrieved October 17, 2011, from http://Awww.junauza.com/2010/04/open-source-project-management- software.html
+SOURCE: Auza, J. (2010, April 14). Free and open source project management software. Retrieved October 17, 2011, from http:///www.junauza.com/2010/04/open-source-project-management- software.html
 49. C
 Communicate data change. When data changes, companies should communicate these changes to all people who are affected, including employees, customers, etc., not just those who are actively involved with the changes. There is no indication that the company has failed to adapt to new technology, track changes in data, or attend to industry trends.
 SOURCE: NF:264
@@ -4225,13 +4225,13 @@ Make decisions about future operations. Companies keep many types of internal re
 SOURCE: NF:01
 SOURCE: Missouri Business Development Program. (2016). What kind of records should small business owners keep? Retrieved November 16, 2016, from https://missouribusiness.net/article/records-business-keep/
 52. C
-Custodial work. Maintenance and repairs is an aperations activity that includes custodial! work, as well as other routine upkeep of a business's equipment and facilities. It does not include planning the production process, site selection, or analyzing finances.
+Custodial work. Maintenance and repairs is an a operations activity that includes custodial work, as well as other routine upkeep of a business's equipment and facilities. It does not include planning the production process, site selection, or analyzing finances.
 SOURCE: OP:189
 SOURCE: OP LAP 189—Smooth Operations (Nature of Operations)
 53. B
-Health-department permit. Certain types of businesses, such as restaurants, grocers, and health-care facilities, must obtain permits to operate from the health department. Businesses that prepare and sell food carry a higher risk of transmitting infectious disease, so it is important that they comply with laws, so they can continue to operate. Real-estate agents must obtain real-estate licenses. Transportation companies (e.g., trucking companies) must obtain licensure or certification to aperate from the appropriate government agency (e.g., U.S. Department of Transportation). A search warrant is a legal document authorizing law-enforcement officials to search property.
+Health-department permit. Certain types of businesses, such as restaurants, grocers, and health-care facilities, must obtain permits to operate from the health department. Businesses that prepare and sell food carry a higher risk of transmitting infectious disease, so it is important that they comply with laws, so they can continue to operate. Real-estate agents must obtain real-estate licenses. Transportation companies (e.g., trucking companies) must obtain licensure or certification to operate from the appropriate government agency (e.g., U.S. Department of Transportation). A search warrant is a legal document authorizing law-enforcement officials to search property.
 SOURCE: OP:339
-SOURCE: FindLaw. (2016). Starting a business: License and permit checklist. Retrieved November 16, 2016, from http://smallbusiness .findlaw.com/starting-business/starting-business-licenses- permits/starting-business-licenses-permits-checklist.html
+SOURCE: FindLaw. (2016). Starting a business: License and permit checklist. Retrieved November 16, 2016, from http://smallbusiness.findlaw.com/starting-business/starting-business-licenses- permits/starting-business-licenses-permits-checklist.html
 54. D
 To correct dangerous situations. It is important to report noncompliance with business health and safety regulations in order to force businesses to correct dangerous situations. Certain governmental agencies have developed health and safety regulations that businesses are expected to follow in order to provide employees with a safe work environment. If businesses or employees do not comply with these regulations, they should be reported so the necessary action can be taken to solve the problem and make the workplace safe for employees. The goal is to correct dangerous situations; however, businesses may be fined if they continue to ignore the regulations. During the process of investigating a report of noncompliance, it may be necessary to obtain business records. The primary purpose of reporting noncompliance is not to support whistleblowing policies. Whistleblowing policies and legislation is to protect employees from employer retribution for reporting noncompliance.
 SOURCE: OP:005
@@ -4239,7 +4239,7 @@ SOURCE: FindLaw. (2016). Employee rights 101. Retrieved November 16, 2016, from 
 55. C
 Develop a to-do list. A to-do list contains every activity that the employee needs to accomplish in a period of time. After developing the to-do list, the employee can rank each activity's importance (prioritize) in relation to the time it takes to complete the activity and the activity's deadline. Multi-tasking involves working on several activities at one time. Employees may not have the authority to change work deadlines. Working overtime may help the employee complete the work on time, but this action will not help the employee to prioritize the work.
 SOURCE: OP:228
-SOURCE: Sussex, T. (2014, April 8). How to prioritize work when everything is #1. Retrieved November 16, 2016, from https://Avww. liquidplanner.com/blog/how-to-prioritize-wark-when-everythings- 7 Test 1153 BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 24
+SOURCE: Sussex, T. (2014, April 8). How to prioritize work when everything is #1. Retrieved November 16, 2016, from https://www.liquidplanner.com/blog/how-to-prioritize-wark-when-everythings- 7 Test 1153 BUSINESS MANAGEMENT AND ADMINISTRATION CLUSTER EXAM—KEY 24
 56. A
 Sequentially. Sequential order involves performing tasks in a logical order to achieve a desired outcome. In the workplace, it is important to coordinate tasks, especially when one employee must complete a task so another employee can perform the next task in the process that is needed to complete a required activity. In the example, each employee requires a coworker to complete a task so the next person can do his/her job; therefore, the work must be coordinated so it is performed in a certain sequence. If the employees are performing tasks simultaneously, they are doing the tasks at the same time. There Is not enough information provided to determine if the tasks must be performed quickly. If the tasks are done in no particular order, they are being performed randomly.
 SOURCE: OP:230
@@ -4259,7 +4259,7 @@ SOURCE: OP LAP 7—Chart Your Course (Developing a Project Plan)
 60. B
 Objectives. To evaluate the results of your project, it's important to first define your objectives. These objectives should be measurable and specific. Objectives lead to project results. Consequences occur based on the results of the project. Objectives are more concrete and planned than simple hopes or wishes.
 SOURCE: OP:159
-SOURCE: Dummies. (2018). Project management: How to state your project's objectives. Retrieved November 16, 2016, from http:/Awww.dummies.com/careers/project-management/project- management-how-to-state-your-projects-objectives/
+SOURCE: Dummies. (2018). Project management: How to state your project's objectives. Retrieved November 16, 2016, from http://www.dummies.com/careers/project-management/project- management-how-to-state-your-projects-objectives/
 61. C
 Share relevant information. To maintain favorable relationships with its vendors, a business should share relevant information. Open, frequent, and honest communication can build trust and respect, which facilitate long-term business relationships. A competitive orientation may help the business achieve short- term goals, but may damage long-term vendor relationships. Automating ordering processes and requesting volume discounts will not always help the business maintain long-term relationships with its vendors.
 SOURCE: OP:241
@@ -4303,7 +4303,7 @@ SOURCE: Ingram, D. (2016). How does supply chain management affect manufacturing
 71. C
 A manufacturing firm tracks its inventory using a digital warehouse management system. Digital warehouse management systems help companies distribute products more efficiently by tracking inventory in real-time—a technology that allows for better supply chain management. Hiring new employees, weather events, and new laws are not examples of technology influencing supply chain management.
 SOURCE: OP:478
-SOURCE: Genco. (2016). Technology's impact on the supply chain. Retrieved October 28, 2016, from http:/Awww.genco.com/Logistics-Articles/article.php?aid=3 70733
+SOURCE: Genco. (2016). Technology's impact on the supply chain. Retrieved October 28, 2016, from http://www.genco.com/Logistics-Articles/article.php?aid=3 70733
 72. A
 Supply chain network. Supply chain networks encompass the flow and movement of materials and information among connected organizations. Because of the plant closure, the manufacturer would be unable to provide steel to the distributors and stores that need it. This would result in a disruption of the supply chain network. This situation would probably not influence the company's chain of command, marketing department, or advertising budget.
 SOURCE: OP:479
@@ -4311,7 +4311,7 @@ SOURCE: Adaptalift Hyster. (2011, September 27). What is a supply chain network?
 73. C
 Accountability and compliance. It is important for companies to consider safety regulations, child labor laws, and fair compensation practices before becoming involved in a global supply chain. Language barriers, time zone differences, and delivery and shipping delays are also important issues involved in global supply chain management; however, they are not described in this situation.
 SOURCE: OP:480
-SOURCE: Brosch, A. (2015, July). 6 global supply chain challenges to ignore at your own risk. Retrieved November 1, 2016, from http:/Awww.inboundlogistics.com/cms/article/6-global- supply-chain-challenges-to-ignore-at-your-own-risk/
+SOURCE: Brosch, A. (2015, July). 6 global supply chain challenges to ignore at your own risk. Retrieved November 1, 2016, from http://www.inboundlogistics.com/cms/article/6-global- supply-chain-challenges-to-ignore-at-your-own-risk/
 74. C
 Retrieve Peter's work-related usernames and passwords. When an employee leaves a company, there is a security risk if that employee still has access to the company's digital assets. Peter's usernames and passwords to company social media accounts, websites, etc. should be retrieved and either deleted or changed. Removing backups of all of Peter's data and files is not practical because those data and files might be important to the company as a whole. Peter's files should not necessarily be deleted immediately because they might be needed by the company. Finally, storing Peter's personal information in a database will not necessarily protect its digital assets.
 SOURCE: OP:517
@@ -4351,7 +4351,7 @@ SOURCE: Mathis, M. (n.d.). Work breakdown structure: Purpose, process, and pitfa
 83. B
 Computer programming flaws. Computer programming flaws (bugs) can cause problems when executing and controlling various aspects of a project. Important data may be misplaced, left out, or transposed. These errors can cause process delays, create financial and budgeting problems, and compromise deadlines, which threaten the project's success. Developing and executing contingency plans can help reduce the negative effects of potential threats. Effective security devices and the methods in which budgets are developed are not threats to a project.
 SOURCE: PJ:009
-SOURCE: Brownell, P. (2014, May 5). 3 ways to avoid and fix software bugs. Retrieved November 16, 2016, from https:/Avww.growthaccelerationpartners.com/blog/3-ways-avoid-fix-software- bugs/
+SOURCE: Brownell, P. (2014, May 5). 3 ways to avoid and fix software bugs. Retrieved November 16, 2016, from https://www.growthaccelerationpartners.com/blog/3-ways-avoid-fix-software- bugs/
 84. B
 Mediating a conflict to resolve a problem. Conflict resolution is the process of resolving or ending a conflict. Project managers may need to help resolve conflicts among team members if they cannot reach resolution or solve problems by themselves. There is not enough information provided to determine if the project manager had to reassign tasks or review the work breakdown structure to resolve the problem. The project manager is not implementing team-building activities.
 SOURCE: PJ:007
@@ -4359,7 +4359,7 @@ SOURCE: Kloppenborg, T.J. (2015). Project management (3rd ed.) [pp. 369-370]. St
 85. C
 Network diagram. A network diagram is used to plan and track the project from beginning to finish. A work breakdown structure shows the “part-whole” relationships in a project. In this example, the network diagram shows the major steps of the project from beginning to end. For example, each task in Kevin's project requires sub-steps that would be diagrammed in a work breakdown structure (e.g., sub-steps required to prepare house for painting: take down shutters, scrape off chipping paint, etc.) A scope management plan defines the project's purpose, rationale, the results to be achieved, and the products to be developed. A project charter is a written overview of a project that includes information such as the project purpose, goals, and products. it also identifies the project manager and authorizes him/her to begin work on the project.
 SOURCE: PJ:010
-SOURCE: Dummies. (2016). How to create a network diagram. Retrieved November 16, 2016, from hitp:/Awww.dummies.com/careers/project-management/how-to-create-a-network-diagram/
+SOURCE: Dummies. (2016). How to create a network diagram. Retrieved November 16, 2016, from hitp://www.dummies.com/careers/project-management/how-to-create-a-network-diagram/
 86. B
 Closing. When a project has been completed, the project manager returns the equipment and supplies to vendors or departments and releases team members to their previous duties. During the implementation phase, the team members use the resources to perform project tasks. During the planning phase, the project manager determines the resources that will be needed to complete the project. The stakeholders define the project's purpose during the Initiation phase of the project.
 SOURCE: PJ:008
@@ -4375,7 +4375,7 @@ SOURCE: CMMI Institute. (2016). What is CMMI? Retrieved November 17, 2016, from 
 89. A
 Increased revenue. Continuous improvement is an ongoing process that looks for ways to increase the levels of excellence in relation to a process, good, or service. Potential benefits of improved processes often increase productivity, which lowers costs and increases revenue. When quality improves, customer satisfaction levels often increase, which often results in a higher demand for the business's goods and services.
 SOURCE: QM:003
-SOURCE: Taylor, H. (2016). Benefits of continuous quality improvement (CQi). Retrieved November 17, 2016, from http:/Avww.ehow.com/facts_5317408_benefits-continuous-quality- improvement-cqi.html
+SOURCE: Taylor, H. (2016). Benefits of continuous quality improvement (CQi). Retrieved November 17, 2016, from http://www.ehow.com/facts_5317408_benefits-continuous-quality- improvement-cqi.html
 90. C
 Encouraging employees to report workplace misconduct. When employees exhibit unethical behavior, it places employers at risk. Risk might include financial losses related to theft, embezzlement, government fines, and lawsuits. To lower risk, businesses should implement procedures that encourage employees to report workplace misconduct. By providing a way to report misconduct to management, the business can take corrective action to prevent further unethical behavior. Businesses develop policies to maintain a fair environment. If employees can change policies at any time, the risk of unethical activity increases. Some records, such as personnel files and customer financial data, are confidential, and should not be available for all employees to view. Using company resources (e.g., expensive equipment) can increase risk because untrained employees may break or misuse the equipment.
 SOURCE: RM:041
@@ -4387,7 +4387,7 @@ SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 358-359). Sou
 92. D
 Captive insurance companies. Organizations (i.e., corporations, industry/professional/trade associations) often form their own insurance companies, which are known as captive insurance companies. Primary advantages of forming captive insurance companies are that the founding organizations control the premium rates and the claims process. If the organizations obtain insurance through the traditional or standard insurance industry, they have no control over the premium amounts they pay or the ways in which their claims are processed. Reinsurance carriers sell insurance to primary insurance carriers to protect the primary carriers from unexpected, catastrophic losses.
 SOURCE: RM:043
-SOURCE: Wallace, O., & Foster, N. (2014, November 6). What is captive insurance? Retrieved November 17, 2016, from http:/Avww.wisegeek.com/what-is-captive-insurance.htm
+SOURCE: Wallace, O., & Foster, N. (2014, November 6). What is captive insurance? Retrieved November 17, 2016, from http://www.wisegeek.com/what-is-captive-insurance.htm
 93. C
 Controlling and directing. Controlling is the management function that monitors the work effort. It evaluates an organization's performance and corrects problems, if necessary. Directing is the management function that provides guidance to workers and work projects so that they can help the business meet its goals. The other management functions are staffing (finding qualified employees to perform job tasks); organizing (deciding how the work required by an organization will be divided); and planning (deciding what will be done in an organization and how it will be accomplished). Supervising, producing, and analyzing are not management functions.
 SOURCE: SM:001
@@ -4395,11 +4395,11 @@ SOURCE: SMLAP 3—Manage This! (Concept of Management)
 94. B
 What do we want to da? The management function of deciding what will be done and how it will be accomplished is planning. A primary aspect of the planning function is determining the goals or desired outcomes—determining what we want to do. All activities carried out in the other functions of management—organizing, staffing, controlling, and directing—depend on the answer(s) to the question, "What do we want to do?" Deciding who will do the work is a staffing activity. Measuring the success or achievement of goals is a controlling activity. Determining how to monitor the work effort is a directing activity.
 SOURCE: SM:063
-SOURCE: eNotes.com. (2016). Management functions: Planning. Retrieved November 17, 2016, from http:/Avww.enotes.com/management-encyclopedia/management-functions
+SOURCE: eNotes.com. (2016). Management functions: Planning. Retrieved November 17, 2016, from http://www.enotes.com/management-encyclopedia/management-functions
 95. A
 Time management. The organizing function of management involves setting up the way the business's work will be done. An important aspect of organizing involves understanding the time it takes an employee to complete certain tasks. By understanding the time it takes to complete work activities, the manager can determine the best way to structure the workload among the employees. Discipline, - feedback, and rewards are issues associated with the directing function of management.
 SOURCE: SM:064
-SOURCE: DeMers, J. (2014, November 17). 7 guidelines for delegating tasks to employees. Retrieved November 17, 2016, from http:/Avww.inc.com/jayson-demers/7-guidelines-for-delegating- tasks-to-employees.html
+SOURCE: DeMers, J. (2014, November 17). 7 guidelines for delegating tasks to employees. Retrieved November 17, 2016, from http://www.inc.com/jayson-demers/7-guidelines-for-delegating-tasks-to-employees.html
 96. D
 Identifying the desired job skills. Staffing is the management function of finding workers for a business. Before a business can find workers to fill positions, managers must determine what activities need to be carried out and the skills needed to perform these activities. After identifying the needed skills, managers can write a job description, research pay scales to determine the compensation rate for the position, and determine which channels (e.g., newspaper ads, job fairs, company website, etc.) to use to recruit job applicants.
 SOURCE: SM:065
@@ -4407,7 +4407,7 @@ SOURCE: Gish, W. (n.d.). Recruitment staffing process. Retrieved November 17, 20
 97. A
 It helps clarify the employee's role in the business. Directing is the management function of providing guidance to workers and work projects. By providing guidance, managers are clarifying the employees’ roles in accomplishing the business's goals. Although the business is more likely to achieve its goals if coworkers are willing to collaborate and maintain positive working relationships, directing is primarily focused on making sure that employees understand and carry out their responsibilities. Setting goals and defining the business's purpose and vision are planning activities.
 SOURCE: SM:066
-SOURCE: Management Study Guide. (2016). Importance of direction function. Retrieved November 17, 2016, from http:/Awww.managementstudyguide.com/importance_of_directing.htm
+SOURCE: Management Study Guide. (2016). Importance of direction function. Retrieved November 17, 2016, from http://www.managementstudyguide.com/importance_of_directing.htm
 98. B
 Actual results. Control is the management function that involves comparing what was planned with the actual results. To be successful, businesses must be able to achieve what they plan. By monitoring the actual results, managers will know if the business is performing as planned or if changes need to be made. Goals are the objectives the business plans to achieve. Managerial control does not involve comparing what was planned with the operating policies or the established strategies.
 SOURCE: SM:004

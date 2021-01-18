@@ -661,7 +661,7 @@ SOURCE: OP LAP 3—Smooth Operations (Nature of Operations)
 65. D
 Improper lifting. Many people hurt their backs because they have not learned proper lifting techniques. They lift a load that is too heavy, stand too far from the load, or use their back and arms to do the lifting. Poor posture and sitting in one position may cause some problems, but are not common causes of back injuries. Hard physical labor does not necessarily cause back injuries.
 SOURCE: OP:007
-SOURCE: Demby, G. (2005, May 24). Provide basic lifting instructions to prevent back injuries. Retrieved September 4, 2009, from http://Awww.safetyxchange.org/health-safety/provide-basic-lifting-instructions-to-prevent-back-injuries
+SOURCE: Demby, G. (2005, May 24). Provide basic lifting instructions to prevent back injuries. Retrieved September 4, 2009, from http:///wwww.safetyxchange.org/health-safety/provide-basic-lifting-instructions-to-prevent-back-injuries
 66. D
 Who is doing what. Project-planning tools show you what has to be done and when, who is responsible for doing it, and how the work will be monitored. Project-planning tools do not show how pleased the stakeholders are, why you want to complete the project, or when you will do a similar project.
 SOURCE: OP:001
@@ -725,7 +725,7 @@ SOURCE: Zikmund, W., & d'Amico, M. (2001). Marketing: Creating and keeping custo
 81. B
 It enables consumers to buy without having to inspect each product. The use of grades and standards speeds up the buying and selling process because consumers can buy without having to inspect each product. It also furnishes information that salespeople can use to justify price, to sell benefits, and to meet customer needs. The use of grades and standards enables salespeople to recommend products that best meet customer needs. Although grades and standards provide product information, they do not address unsafe products. Unsafe products should not be offered since they are a business liability. Product prices will vary based on the product's grade. Therefore, the prices will not necessarily be high.
 SOURCE: PM:019
-SOURCE: British Standards Institute. (2009). What are the benefits of standards. Retrieved September 16, 2009, from http:/Awww.bsi-global.com/en/Standards-and-Publications/About- standards/What-are-the-benefits-of-standards/
+SOURCE: British Standards Institute. (2009). What are the benefits of standards. Retrieved September 16, 2009, from http://wwww.bsi-global.com/en/Standards-and-Publications/About- standards/What-are-the-benefits-of-standards/
 82. B
 Implied. An implied warranty is simply understood by both the marketer and the customer that the product will perform as expected. It is neither written nor spoken. An express warranty is one that is written or expressed verbally. A full warranty is one which covers the entire product. A limited warranty is one that covers only specific parts or certain repairs.
 SOURCE: PM:020
@@ -5245,7 +5245,7 @@ SOURCE: Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2012). Marketing essential
 5. D
 To lower the risks associated with stocking new products. A slotting allowance refers to a fee paid by a manufacturer or vendor to a customer, usually a retailer. This fee is charged to cover the costs for placing a new product on the retailer's shelves. By charging a slotting allowance, the customer is trying to cover the costs of stocking and maintaining the product. If a new product does not sell well, the fees can help to cover the time on the shelf that could have been used for a higher moving item. Since there is only a limited amount of shelf space in a supermarket, the implementation of a slotting allowance does not necessarily increase a store's product line. Therefore, slotting allowances are not implemented to decrease intermediaries in the supply chain. Slotting allowances are not implemented to reduce conflict among distribution channel members.
 SOURCE: CM:006
-SOURCE: Edwards, P. (2016, November 22). The hidden war over grocery shelf space. Retrieved December 5, 2016, from http:/Awww.vox.com/2016/1 1/22/13707022/grocery-store-slotting-fees-slotting-allowances
+SOURCE: Edwards, P. (2016, November 22). The hidden war over grocery shelf space. Retrieved December 5, 2016, from http://wwww.vox.com/2016/1 1/22/13707022/grocery-store-slotting-fees-slotting-allowances
 6. C
 Distribution. Promotion helps to create demand for products, while distribution makes those products available. Businesses coordinate distribution with promotional activities to make sure that sufficient quantities of advertised products are available when customers want to buy them. If a business plans to promote a certain item, the business must make sure that an adequate supply will be on hand to meet customer demand. Businesses may lose customers if they promote certain items that are not available because they failed to make the necessary distribution arrangements. Transportation is the act of moving items from one place to another and is only one aspect of distribution. Segmentation involves dividing something, such as a total market, into smaller, more specific groups. Communication is an exchange of information in which the words and gestures are understood in the same way by both the speaker and the listener.
 SOURCE: CM:007
@@ -5277,7 +5277,7 @@ SOURCE: WriteExpress Corporation. (n.d.). Write inquiries. Retrieved December 5,
 13. A
 Weekly activity report. This is a brief summary of work accomplished that is submitted periodically for management's review. Periodic reports usually are short and informal. A project proposal is usually a longer and more formal report. Business owners and/or the business's executive management develop business plans and strategic plans.
 SOURCE: C0:094
-SOURCE: SampleTemplates. (2016). 9+ sample weekly activity reports. Retrieved December 5, 2016, from https:/Avww.sampletemplates.com/business-templates/wee kly-activity-report-template.html
+SOURCE: SampleTemplates. (2016). 9+ sample weekly activity reports. Retrieved December 5, 2016, from https://www.sampletemplates.com/business-templates/wee kly-activity-report-template.html
 14. B
 The type of service you have provided the person. You should follow up with customers to be certain that they have received satisfaction from the product or the company's services. For example, salespeople might call customers to find out whether they're enjoying their purchases. A customer-service representative might call to determine whether customers are pleased with solutions to problems. A shipping clerk might check the shipping log to make sure customers have received their orders. The way you follow up with customers should not be based on levels of frustration, supervisory attention, or distance. All customers are important. Following up suggests to customers that you care about their continued satisfaction.
 SOURCE: CR:004
@@ -5561,7 +5561,7 @@ SOURCE: PM LAP 6—It's a Brand, Brand, Brand World! (Nature of Product Branding
 84. B
 Company website, sales calls, and trade shows. A corporate brand is all of the combined impressions and experiences associated with a particular company. A successful corporate brand involves developing product and promotional mixes that communicate a desired image of the business. This communication occurs through a variety of touch points. Touch points are the opportunities that the business has to connect with customers and reinforce its brand. Some opportunities that the business has to communicate and reinforce the corporate brand are through the company's website and during sales calls and trade shows. These opportunities involve the efforts of many of the company's employees, including the sales staff. Compensation policies, sales reports, and marketing audits are not target-market touch points.
 SOURCE: PM:206
-SOURCE: Qlutch Marketing. (2006-2016). How to communicate a brand at every touchpoint. Retrieved December 6, 2016, from http:/Awww.marketingmo.com/creative-brand-development/how-to-communicate-a-brand-at-every-touchpoint/
+SOURCE: Qlutch Marketing. (2006-2016). How to communicate a brand at every touchpoint. Retrieved December 6, 2016, from http://wwww.marketingmo.com/creative-brand-development/how-to-communicate-a-brand-at-every-touchpoint/
 85. B
 Increased product sales. Businesses use promotion to "spread the word" to consumers that they offer certain products which often result in increased sales. Businesses may also benefit from a more favorable corporate image. Deceptive advertising, added costs, and debates over controversial issues are disadvantages to the business.
 SOURCE: PR:001
@@ -5617,7 +5617,7 @@ SOURCE: SE LAP 129—Keep It Real—In Sales (Selling Ethics)
 98. A
 Materials and content. You can use the information about the composition of products to help solve customer buying problems and to assist customers in comparing similar products. Finishes are used in enhancing the beauty of products, increasing their value, protecting their surfaces, aiding in their care, or providing safety features. Consumers usually are not interested in the technical manufacturing process which determines the quality of a product. Pricing information helps the customer make a buying decision on price alone and does not consider the quality of the merchandise.
 SOURCE: SE:062
-SOURCE: Ward, S. (2016, September 23). Tips for better customer service: how to help a customer. Retrieved December 6, 2016, from https:/Avww.thebalance.com/tips-for-better-customer-service-how-to-help-a-customer-2948070
+SOURCE: Ward, S. (2016, September 23). Tips for better customer service: how to help a customer. Retrieved December 6, 2016, from https://www.thebalance.com/tips-for-better-customer-service-how-to-help-a-customer-2948070
 99. B
 Rational motives. Rational motives are reasons for buying that appeal to the sense of reason or judgment. When customers are basing their buying behavior on logic, they are using reason in an orderly way and considering the facts. Rational motives often involve making buying decisions based on saving money or saving time. When customers base their buying behavior on facts and logic, they are not being influenced by personal preferences, economic factors, or individual needs.
 SOURCE: SE:359

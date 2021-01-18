@@ -1607,7 +1607,7 @@ C. pricing.
 D. retailing.
 No Status
 68. You have been asked to quickly locate information comparing the number of home foreclosures in Arkansas in 2000 with those in 2010. Which of the following searches should yield the fastest, most relevant search results:
-A. “home foreclosures”; Arksans; years: 2000 or 2010
+A. “home foreclosures”; Arkansas; years: 2000 or 2010
 B. “home foreclosures in Arkansas in 2000 or 2010”
 C. arkansas home foreclosures between 2000, 2010
 D. “home foreclosures; Arkansas”; “2000 or 2010”
@@ -5869,7 +5869,7 @@ C. Connecting several computers
 D. Combining animation and sound
 No Status
 76. Which of the following is an example of employees using groupware computer applications:
-A. Dan, Kara, and Simon review their departments' budgets, which are saved as different computerspreadsheets files.
+A. Dan, Kara, and Simon review their departments' budgets, which are saved as different computer-spreadsheets files.
 B. Craig, Tessa, and Lily use presentation software to guide a group discussion about their research project.
 C. Kelli, Juan, and Phil can access and make changes to the company production schedule from their home computers.
 D. Michelle, Jeff, and Aubrey use the same desktop-publishing program to create advertisements and brochures for their companies.
@@ -6082,7 +6082,7 @@ D. Ask questions as a way of judging someone else's suggestion
 No Status
 11. One computer tool that a businessperson can use to organize online information for a research report is
 A. index cards.
-B. mindbmapping programs.
+B. mind-mapping programs.
 C. statistical applications.
 D. online survey services.
 No Status
@@ -6123,9 +6123,9 @@ C. provide a meeting agenda to review.
 D. limit the number of times that each participant speaks.
 No Status
 18. Which of the following is a true statement about making promises to customers:
-A. It is better to overbdeliver.
+A. It is better to over-deliver.
 B. Customers don't remember broken promises.
-C. It is better to overbpromise.
+C. It is better to over-promise.
 D. Businesses should not make promises to customers.
 No Status
 19. Which of the following is the first action an employee should take if s/he does not know the answer to a customer's inquiry:
@@ -6178,7 +6178,7 @@ D. satisfies personal needs and wants.
 No Status
 27. Which of the following statements about wholesale trade businesses is true:
 A. They operate only from distribution centers.
-B. They operate only from mailborder warehouses.
+B. They operate only from mail-order warehouses.
 C. They operate from a variety of business premises.
 D. They operate in areas convenient to ultimate consumers.
 No Status
@@ -6206,7 +6206,7 @@ B. Capitalist
 C. Mixed
 D. Socialist
 No Status
-32. What is one basic characteristic of selfbesteem?
+32. What is one basic characteristic of self-esteem?
 A. Saying "no" to things you really don't want to do
 B. Caring about yourself and your personal life
 C. Knowing and understanding what your own needs are
@@ -6224,7 +6224,7 @@ B. capitalize on their strengths.
 C. minimize their strengths.
 D. minimize their experience.
 No Status
-35. Which of the following is a characteristic of individuals who have selfbconfidence:
+35. Which of the following is a characteristic of individuals who have self-confidence:
 A. Taking few risks because of a fear of doing something wrong
 B. Realizing that mistakes are a part of personal growth
 C. Exhibiting aggressive behavior when expressing opinions
@@ -6347,7 +6347,7 @@ No Status
 55. What type of services do property taxes typically fund?
 A. State/Provincial education programs and federal correctional facilities
 B. National security programs and local road repairs
-C. Local fire departments and local lawbenforcement agencies
+C. Local fire departments and local law-enforcement agencies
 D. State/Provincial colleges and state/provincial social welfare initiatives
 No Status
 56. When reconciling your check register, it is important to __________ your balance.
@@ -6416,7 +6416,7 @@ B. The chemical name for table salt is sodium chloride.
 C. The numerical value of pi is 3.14159.
 D. James Polk was the 11 President of the United States.
 No Status
-67. One way for a hospitality business to obtain current information in a costbeffective and efficient manner is by
+67. One way for a hospitality business to obtain current information in a cost-effective and efficient manner is by
 A. developing a survey.
 B. accessing an Internet search engine.
 C. reviewing archived journals.
@@ -7740,7 +7740,7 @@ B. Production
 C. Promotion
 D. Distribution
 No Status
-87. Which of the following personal hygiene habits is nota daily requirement:
+87. Which of the following personal hygiene habits is not a daily requirement:
 A. Brushing your teeth
 B. Using deodorant
 C. Trimming your nails
@@ -8450,7 +8450,7 @@ No Status
 A. Avoid making any noise while the speaker is talking
 B. Interrupt the speaker to debate what s/he has said
 C. Clap as the speaker makes each of her/his main points
-D. Make comments such as es or I see occasionall
+D. Make comments such as es or I see occasionally
 No Status
 5. The employee didn't listen to the manager's explanation about how to perform a certain task because s/he had done a similar job before. Which of the following factors caused the employee not to listen effectively:
 A. Past experiences
@@ -8470,7 +8470,7 @@ B. sadness.
 C. joy.
 D. nervousness.
 No Status
-8. Ashle is helping Laia make soup. Ashle sa s, Chop up your carrots. But first, find your cutting board. And before that, make sure ou have all our ingredients. What mistake is Ashle making in giving directions?
+8. Ashley is helping Laia make soup. Ashley says, "Chop up your carrots. But first, find your cutting board. And before that, make sure you have all our ingredients". What mistake is Ashley making in giving directions?
 A. Giving directions that are too challenging
 B. Giving directions out of order
 C. Using too many big words
@@ -8508,7 +8508,7 @@ D. spend a minimum amount of time reading the communication.
 No Status
 14. Before sending a professional email message to a business associate, a businessperson should
 A. make sure that the message is typed in capital letters.
-B. code the message's importance as high priorit .
+B. code the message's importance as high priority.
 C. proofread the message for spelling and grammatical errors.
 D. insert a vague statement in the message subject line.
 No Status
@@ -11392,9 +11392,9 @@ No Status
 A. Local trade association
 B. Civil service office
 C. National labor union
-D. Chamber of commerce 8
+D. Chamber of commerce
 No Status
-94. An individual who wants to pursue a career in the marketing segment of business might obtain an entrylevel position as a(n)
+94. An individual who wants to pursue a career in the marketing segment of business might obtain an entry-level position as a(n)
 A. customer service representative.
 B. junior bookkeeper.
 C. apprentice plant manager.
