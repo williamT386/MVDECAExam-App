@@ -22,9 +22,6 @@ import android.widget.Toast;
  */
 
 public class ChooseTestTypeActivity extends AppCompatActivity {
-
-    //TODO - for the layout, add a Back button
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,7 +32,7 @@ public class ChooseTestTypeActivity extends AppCompatActivity {
         String mode = caller.getStringExtra("Choose Test Type Mode");
 
         //sets the text for the ListView options
-        ListView listViewTestType = (ListView) findViewById(R.id.listView_testType);
+        ListView listViewTestType = findViewById(R.id.listView_testType);
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
                 R.array.arrayTestTypes,
                 android.R.layout.simple_list_item_1);

@@ -101,16 +101,16 @@ public class DoQuestionsActivity extends AppCompatActivity {
      * Initializes the Views by their Ids.
      */
     private void initializeById() {
-        radioGroup = (RadioGroup) findViewById(R.id.radioGroup_answerChoices);
+        radioGroup = findViewById(R.id.radioGroup_answerChoices);
 
         radioButtonAnswers = new RadioButton[4];
         int[] allIds = new int[]{R.id.radioButton_answerChoiceA,
                 R.id.radioButton_answerChoiceB, R.id.radioButton_answerChoiceC,
                 R.id.radioButton_answerChoiceD};
         for(int i = 0; i < allIds.length; i++)
-            radioButtonAnswers[i] = (RadioButton) findViewById(allIds[i]);
+            radioButtonAnswers[i] = findViewById(allIds[i]);
 
-        questionImageView = (ImageView) findViewById(R.id.imageView_questionImage);
+        questionImageView = findViewById(R.id.imageView_questionImage);
     }
 
     /**
@@ -250,7 +250,7 @@ public class DoQuestionsActivity extends AppCompatActivity {
         //TODO - take into consideration if the client does all the questions
         if ("Try New Questions".equals(mode)) {
             //keep searching until find question that was never completed before
-            while(true) {
+            do {
                 int testNumIndex = (int) (Math.random() * FileUtilities.
                         getTestNum(indexAllTests).size());
                 testNum = FileUtilities.getTestNum(indexAllTests).
@@ -258,10 +258,8 @@ public class DoQuestionsActivity extends AppCompatActivity {
                 questionNumber = (int) (Math.random() * 99 + 1);
 
                 //if the status is "No Status", then this is a good question
-                if ("No Status".equals(FileUtilities.getStatus(indexAllTests,
-                        testNum, questionNumber)))
-                    break;
-            }
+            } while (!"No Status".equals(FileUtilities.getStatus(indexAllTests,
+                    testNum, questionNumber)));
 
             setPossibleImage();
         }
@@ -270,7 +268,7 @@ public class DoQuestionsActivity extends AppCompatActivity {
             TestTypeMissed testTypeMissed = FileUtilities.getTestTypeMissed(indexAllTests);
             ArrayList<QuestionMissed> questionMissed = testTypeMissed.getQuestionsMissedTestType();
 
-            /**if the user already this question, then there are no more questions to try
+            /*if the user already this question, then there are no more questions to try
             if(tried) {
                 Toast.makeText(getApplicationContext(),
                         "No more questions missed for this type of test. " +

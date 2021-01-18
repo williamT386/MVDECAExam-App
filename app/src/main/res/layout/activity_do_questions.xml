@@ -36,7 +36,8 @@
         android:layout_width="340dp"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_below="@+id/textView_questionText">
+        android:layout_below="@+id/textView_questionText"
+        android:contentDescription="@string/image_part_of_question">
     </ImageView>
 
     <RadioGroup

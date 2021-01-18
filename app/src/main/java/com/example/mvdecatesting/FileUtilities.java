@@ -354,14 +354,14 @@ public class FileUtilities {
      * @param context the Context in
      */
     public static void resetAllStatus(Activity activity, Context context) {
-        for(int i = 0; i < questionsAndAnswersArray.length; i++) {
-            Scanner scanner = getSingleScanner(activity, questionsAndAnswersArray[i]);
-            PrintWriter printWriter = getSinglePrintWriter(context, questionsAndAnswersArray[i]);
+        for (String string : questionsAndAnswersArray) {
+            Scanner scanner = getSingleScanner(activity, string);
+            PrintWriter printWriter = getSinglePrintWriter(context, string);
 
             String previousLine = scanner.nextLine();
             while(scanner.hasNext()) {
                 String lineIn = scanner.nextLine();
-                if("D. ".equals(previousLine.substring(0, 3)) &&
+                if ("D. ".equals(previousLine.substring(0, 3)) &&
                         ("Correct".equals(lineIn) || "Incorrect".equals(lineIn)))
                     printWriter.println("No Status");
                 else {

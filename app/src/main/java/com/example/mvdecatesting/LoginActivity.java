@@ -33,8 +33,8 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        passwordRed = (TextView) findViewById(R.id.textView_passwordRed);
-        loginPassword = (EditText) findViewById(R.id.editTextPassword_loginPassword);
+        passwordRed = findViewById(R.id.textView_passwordRed);
+        loginPassword = findViewById(R.id.editTextPassword_loginPassword);
 
         //store all the information as the login page loads
         if(!allInfoStored) {
