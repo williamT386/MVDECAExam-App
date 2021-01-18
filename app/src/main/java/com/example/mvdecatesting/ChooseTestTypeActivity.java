@@ -22,6 +22,14 @@ import android.widget.Toast;
  */
 
 public class ChooseTestTypeActivity extends AppCompatActivity {
+
+    /**
+     * Sets the mode to the test type coming in
+     * from the Intent that created this instance.
+     * Sets the text for the ListView and what
+     * to do when the list view is clicked.
+     * @param savedInstanceState Bundle for onCreate
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

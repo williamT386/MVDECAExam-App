@@ -72,6 +72,12 @@ public class DoQuestionsActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * If there are any status changes,
+     * call FileUtilities.copyStatus()
+     * and then set the hasStatusChanges
+     * to false.
+     */
     @Override
     protected void onPause() {
         super.onPause();

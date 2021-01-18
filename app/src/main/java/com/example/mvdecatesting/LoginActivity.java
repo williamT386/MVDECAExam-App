@@ -17,6 +17,7 @@ import android.widget.TextView;
  *
  * @author William Tang - MVDECA Team 18 Director of Testing
  * @since 12/30/2020
+ * @version 1.0 for Alpha Testing
  */
 
 public class LoginActivity extends AppCompatActivity {
