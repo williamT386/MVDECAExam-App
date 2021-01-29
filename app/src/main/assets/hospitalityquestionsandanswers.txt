@@ -1480,7 +1480,7 @@ B. Natural disaster
 C. Unemployment rate
 D. Terrorism alert
 No Status
-47. Last year's quarterly sales for Mountain High Ski Resort were as follows: 1 Quarter: $652,276; 2 rd th Quarter: $947,550; 3 Quarter: $423,835; 4 Quarter: $345,766 What does the data reveal about the resort's sales?
+47. Last year's quarterly sales for Mountain High Ski Resort were as follows: 1st Quarter: $652,276; 2nd Quarter: $947,550; 3rd Quarter: $423,835; 4th Quarter: $345,766. What does the data reveal about the resort's sales?
 A. The resort's peak season occurred during the second quarter.
 B. The fourth quarter's sales indicate that the resort is experiencing financial problems.
 C. The resort failed to meet its annual sales objectives.
