@@ -2309,7 +2309,7 @@ SOURCE: Bovée, C.L., & Thill, J.V. (2008). Business communication today (9th ed
 75. A
 Cut, paste. Business employees use word-processing software programs to create text documents, such as letters, memos, and reports. Most word-processing programs have options that allow the user to move text from one part of the document to another. To move text, the user highlights the text, touches the "cut" button, which removes the text from its current position. The user moves the curser to the new location and touches the "paste" button, which places the text in the new location. This simple process saves time for business employees because they do not need to delete and retype the information. The "copy" button duplicates the text but does not remove it from its current location. A "find and replace" function helps the user to electronically locate and change words within the document.
 SOURCE: NF:007
-SOURCE: Lesikar, R.V., & Flatley, M.E. (2005). Basic business communication: Skills for empoweringthe Internet generation (10th ed.) [p. 503]. Boston: McGraw-Hill/Irwin.
+SOURCE: Lesikar, R.V., & Flatley, M.E. (2005). Basic business communication: Skills for empowering the Internet generation (10th ed.) [p. 503]. Boston: McGraw-Hill/Irwin.
 76. C
 Transition. Presentation-software applications provide computer users with the option to add different sound and visual effects when moving from slide to slide. This option is called a transition. The transition makes the presentation more interesting and visually appealing. The ability to add visual and sound effects between presentation-software slides is not referred to as a feed, jump, or lead.
 SOURCE: NF:008
